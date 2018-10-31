@@ -1,0 +1,4539 @@
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_1093.46053861 3_0 6_1093.46053861 6_0
+roadinfo_
+roadinfo_3_921.73297301 3_0 6_921.73297301 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0 6_0 6_0
+roadinfo_3_statuser 3_0 6_statuser 6_0 6_694.147778999 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_3_539.264151035 3_0 6_539.264151035 6_0
+roadinfo_3_494.954220735 3_0 6_494.954220735 6_0
+roadinfo_3_0 3_591.838404679 6_0 6_591.838404679
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_628.839326636 6_0 6_628.839326636
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_216.551011834 3_0 6_216.551011834 6_0
+roadinfo_3_1116.14798565 3_0 6_1116.14798565 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_897.412980494 3_0 6_897.412980494 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_36.6629853767 3_0 6_36.6629853767 6_0
+roadinfo_3_1195.20792259 3_0 6_1195.20792259 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_UN UN
+roadinfo_3_0 3_0 3_statuser 6_0 6_0 6_statuser
+roadinfo_3_statuser 3_statuser 3_0 3_statuser 6_statuser 6_statuser 6_0 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_1208.6740084 3_0 6_1208.6740084 6_0
+roadinfo_3_359.357161039 3_0 6_359.357161039 6_0
+roadinfo_
+roadinfo_3_0 3_1111.64176031 6_0 6_1111.64176031
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_907.086932886 6_0 6_907.086932886
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_704.878912263 3_0 6_704.878912263 6_0
+roadinfo_3_712.805112871 3_0 6_712.805112871 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_6_0 6_0
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_299.367688462 3_0 6_299.367688462 6_0
+roadinfo_3_1083.05261138 3_0 6_1083.05261138 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_1126.40399429 3_0 3_0 3_statuser 6_1126.40399429 6_0 6_0 6_statuser
+roadinfo_3_statuser 3_statuser 3_0 3_statuser 6_statuser 6_statuser 6_0 6_statuser
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_3_827.023288729 3_0 6_827.023288729 6_0
+roadinfo_
+roadinfo_3_0 3_432.043347622 6_0 6_432.043347622
+roadinfo_
+roadinfo_3_0 3_249.704969098 6_0 6_249.704969098
+roadinfo_3_0 3_610.155820844 6_0 6_610.155820844
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_345.823075399 3_0 6_345.823075399 6_0
+roadinfo_3_867.293342865 3_0 3_311.056472911 3_statuser 6_867.293342865 6_0 6_311.056472911 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_6_0 6_0
+roadinfo_6_0 6_0
+roadinfo_3_0 3_0 6_0 6_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_113.356544478 3_0 6_113.356544478 6_0
+roadinfo_3_950.076440206 3_0 6_950.076440206 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 3_0 3_statuser 6_0 6_0 6_0 6_statuser
+roadinfo_3_996.238287283 3_0 3_0 3_statuser 3_statuser 3_statuser 6_996.238287283 6_0 6_0 6_statuser 6_statuser 6_statuser
+roadinfo_3_203.55339634 3_0 3_0 3_statuser 6_203.55339634 6_0 6_0 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 6_0
+roadinfo_3_778.980787869 3_0 6_778.980787869 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_303.735079414 6_0 6_303.735079414
+roadinfo_
+roadinfo_3_0 3_821.325728351 6_0 6_821.325728351
+roadinfo_
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_738.826068172 3_0 3_984.646573868 3_statuser 6_738.826068172 6_0 6_984.646573868 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_6_0 6_467.881299968
+roadinfo_3_0 3_0 6_0 6_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_1373.76635208 3_0 6_1373.76635208 6_0
+roadinfo_3_957.077523894 3_0 6_957.077523894 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_573.504900067 3_0 3_0 3_statuser 6_573.504900067 6_0 6_0 6_statuser
+roadinfo_3_0 3_0 3_0 3_statuser 3_statuser 3_statuser 6_0 6_0 6_0 6_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_328.903855086 3_0 6_328.903855086 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_0 3_667.196383344 6_0 6_667.196383344
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_746.885398518 3_0 3_668.31765238 3_0 6_746.885398518 6_0 6_668.31765238 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_6_0 6_0
+roadinfo_3_statuser 3_0 3_0 6_statuser 6_0 6_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_1064.37870011 3_0 6_1064.37870011 6_0
+roadinfo_3_991.157155987 3_0 6_991.157155987 6_0
+roadinfo_3_739.170685876 3_0 6_739.170685876 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_607.754097823 3_0 3_0 3_statuser 6_607.754097823 6_0 6_0 6_statuser
+roadinfo_3_652.736297565 3_0 3_0 3_statuser 6_652.736297565 6_0 6_0 6_statuser
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_3_702.590719093 3_0 6_702.590719093 6_0
+roadinfo_
+roadinfo_3_0 3_41.2722790563 6_0 6_41.2722790563
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_1084.19387498 6_0 6_1084.19387498
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_966.024736287 3_0 3_125.716429602 3_0 6_966.024736287 6_0 6_125.716429602 6_0
+roadinfo_3_979.061763732 3_0 6_979.061763732 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_1034.08647026 3_0 6_1034.08647026 6_0
+roadinfo_3_0 3_statuser 6_0 6_statuser
+roadinfo_6_0 6_0
+roadinfo_6_1035.04752845 6_0
+roadinfo_6_1135.38660744 6_0
+roadinfo_6_1028.17647069 6_0
+roadinfo_6_0 6_0 6_532.643569712 6_849.68943305 6_0 6_9.24723272657 6_0
+roadinfo_6_0 6_0 6_0 6_statuser 6_statuser 6_859.68391551 6_0 6_525.419696681 6_0
+roadinfo_3_statuser 3_0 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_980.123882017 6_0 6_0 6_0
+roadinfo_6_1008.50634409 6_0
+roadinfo_6_277.036481334 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_291.943725259 3_0 6_291.943725259 6_0
+roadinfo_3_1294.25958821 3_0 6_1294.25958821 6_0
+roadinfo_3_270.431051028 3_0 6_270.431051028 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 3_0 3_statuser 6_0 6_0 6_0 6_statuser
+roadinfo_3_1066.12797437 3_0 3_0 3_statuser 6_1066.12797437 6_0 6_0 6_statuser
+roadinfo_
+roadinfo_3_0 3_1695.26558183 6_0 6_1695.26558183
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_693.242246006 3_0 6_693.242246006 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_490.41091556 6_0 6_490.41091556
+roadinfo_3_0 3_384.368345892 6_0 6_384.368345892
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_810.286469701 3_0 6_810.286469701 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_642.130905024 3_0 6_642.130905024 6_0
+roadinfo_3_0 3_0 3_752.973574899 3_0 6_0 6_0 6_752.973574899 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_1089.66216383 3_0 6_1089.66216383 6_0
+roadinfo_3_712.16012701 3_0 6_712.16012701 6_0
+roadinfo_3_1006.03651456 3_0 6_1006.03651456 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_0 3_statuser 6_0 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_6_0 6_0
+roadinfo_6_0 6_858.170769272 6_0 6_0 6_760.98542901
+roadinfo_6_0 6_1101.69591241 6_0 6_statuser 6_statuser 6_376.06223754 6_0
+roadinfo_3_statuser 3_406.90132364 3_0 6_statuser 6_406.90132364 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0
+roadinfo_
+roadinfo_6_530.727987597 6_0
+roadinfo_6_771.871922722 6_0
+roadinfo_6_967.032513964 6_0
+roadinfo_6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_1513.70500018 3_0 6_1513.70500018 6_0
+roadinfo_3_1259.06765449 3_0 6_1259.06765449 6_0
+roadinfo_3_464.702815507 3_0 6_464.702815507 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_734.913004162 3_0 3_0 3_statuser 6_734.913004162 6_0 6_0 6_statuser
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_3_1163.55653876 3_0 6_1163.55653876 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_484.569796684 6_0 6_484.569796684
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_1123.77074145 3_0 6_1123.77074145 6_0
+roadinfo_3_95.5853629197 3_0 6_95.5853629197 6_0
+roadinfo_3_1540.50678369 3_0 6_1540.50678369 6_0
+roadinfo_3_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 6_0
+roadinfo_3_864.855527975 3_0 3_0 3_0 6_864.855527975 6_0 6_0 6_0
+roadinfo_3_statuser 3_statuser 3_729.298675877 3_0 3_statuser 6_statuser 6_statuser 6_729.298675877 6_0 6_statuser
+roadinfo_3_1079.64526053 3_0 6_1079.64526053 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_617.696943485 3_statuser 6_617.696943485 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_6_0 6_583.372190311 6_9.50385256045 6_0
+roadinfo_6_0 6_0 6_statuser 6_statuser 6_1148.43236132 6_0
+roadinfo_3_279.568326339 3_0 6_279.568326339 6_0 6_statuser 6_statuser 6_1122.54071894 6_0 6_statuser 6_statuser 6_0 6_0
+roadinfo_3_statuser 3_0 6_statuser 6_0 6_statuser 6_statuser 6_397.054987323 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_1093.58319532 3_0 6_1093.58319532 6_0
+roadinfo_3_statuser 3_0 6_statuser 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_787.913515338 3_0 3_0 3_statuser 6_787.913515338 6_0 6_0 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_3_491.673001873 3_0 6_491.673001873 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_1067.68253117 3_0 6_1067.68253117 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_1007.72655681 3_0 6_1007.72655681 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_333.894396725 3_statuser 6_333.894396725 6_statuser
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_0 3_621.688825137 6_0 6_621.688825137
+roadinfo_3_0 3_1151.99819517 6_0 6_1151.99819517
+roadinfo_3_0 3_1042.05622758 6_0 6_1042.05622758
+roadinfo_3_0 3_802.397270081 6_0 6_802.397270081 6_0 6_459.354940898 6_352.683543182 6_0
+roadinfo_3_0 3_1144.32557191 6_0 6_1144.32557191 6_statuser 6_statuser 6_1142.44294556 6_0
+roadinfo_3_0 3_0 6_0 6_0 6_1132.19789423 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_0 6_statuser 6_0 6_statuser 6_statuser 6_755.774229055 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_720.84409802 3_0 6_720.84409802 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 3_0 3_statuser 6_0 6_0 6_0 6_statuser
+roadinfo_3_590.111606029 3_0 3_0 3_statuser 6_590.111606029 6_0 6_0 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_3_359.391210373 3_0 6_359.391210373 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_758.633534466 3_0 6_758.633534466 6_0
+roadinfo_3_960.445600926 3_0 6_960.445600926 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 3_0 3_0 6_0 6_0 6_0 6_0
+roadinfo_3_statuser 3_statuser 3_0 3_557.375226419 3_736.720350863 3_0 3_statuser 3_270.549402817 3_805.187560493 3_0 3_statuser 3_0 6_statuser 6_statuser 6_0 6_557.375226419 6_736.720350863 6_0 6_statuser 6_270.549402817 6_805.187560493 6_0 6_statuser 6_0
+roadinfo_3_0 3_0 3_648.802774627 3_0 6_0 6_0 6_648.802774627 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_0 3_304.419781226 6_0 6_304.419781226
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_0 3_703.592839564 6_0 6_703.592839564
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_0 3_913.30615646 3_675.098413489 3_statuser 6_0 6_913.30615646 6_675.098413489 6_statuser
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_6_0 6_781.505571072
+roadinfo_3_0 3_0 6_0 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_996.990587437 6_0 6_996.990587437 6_statuser 6_statuser
+roadinfo_3_statuser 3_0 3_0 3_0 3_1010.94475257 6_statuser 6_0 6_0 6_0 6_1010.94475257 6_1044.4050338 6_0
+roadinfo_3_0 3_579.432151207 6_0 6_579.432151207
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_446.840326054 3_0 6_446.840326054 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 3_0 3_statuser 6_0 6_0 6_0 6_statuser
+roadinfo_3_1227.92752226 3_0 3_0 3_statuser 6_1227.92752226 6_0 6_0 6_statuser
+roadinfo_3_0 3_0 3_statuser 6_0 6_0 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_939.250094247 3_0 6_939.250094247 6_0
+roadinfo_3_1140.2870491 3_0 6_1140.2870491 6_0
+roadinfo_3_160.403288879 3_0 6_160.403288879 6_0
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_722.39157048 3_0 3_418.774358793 3_0 6_722.39157048 6_0 6_418.774358793 6_0
+roadinfo_3_495.774601834 3_918.898257926 3_0 3_0 6_495.774601834 6_918.898257926 6_0 6_0
+roadinfo_3_958.593502161 3_0 6_958.593502161 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_553.483530603 6_0
+roadinfo_6_1190.39357294 6_0
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_3_744.811959363 3_statuser 6_744.811959363 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_6_0 6_763.499265884
+roadinfo_
+roadinfo_6_statuser 6_statuser 6_222.651615858 6_0
+roadinfo_3_1190.24978729 3_0 6_1190.24978729 6_0 6_1152.33461485 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_0 3_1202.57172996 6_0 6_1202.57172996
+roadinfo_3_0 3_262.884596285 6_0 6_262.884596285
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_672.155237204 3_0 6_672.155237204 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_1021.3155731 3_0 3_0 3_statuser 6_1021.3155731 6_0 6_0 6_statuser
+roadinfo_3_0 3_0 3_statuser 6_0 6_0 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_3_0 3_1108.96054141 6_0 6_1108.96054141
+roadinfo_3_0 3_1230.27248272 6_0 6_1230.27248272
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_803.47232938 3_0 6_803.47232938 6_0
+roadinfo_3_1265.3908062 3_0 6_1265.3908062 6_0
+roadinfo_3_1088.16828482 3_0 6_1088.16828482 6_0
+roadinfo_3_0 3_0 3_1221.32538273 3_0 6_0 6_0 6_1221.32538273 6_0
+roadinfo_3_656.04423243 3_0 3_267.840942141 3_0 6_656.04423243 6_0 6_267.840942141 6_0
+roadinfo_3_102.026420254 3_0 6_102.026420254 6_0
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_6_statuser 6_statuser
+roadinfo_
+roadinfo_3_263.66117724 3_statuser 6_263.66117724 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_6_0 6_652.208692112
+roadinfo_
+roadinfo_6_statuser 6_statuser 6_0 6_0
+roadinfo_3_0 3_0 6_0 6_0 6_statuser 6_statuser 6_0 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_3_0 3_1085.85438176 6_0 6_1085.85438176
+roadinfo_3_0 3_1219.57065564 6_0 6_1219.57065564 6_604.139629252 6_0
+roadinfo_3_0 3_922.111338413 3_statuser 3_statuser 6_0 6_922.111338413 6_statuser 6_statuser 6_1172.55370922 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_1086.06284085 3_0 6_1086.06284085 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_3_796.269361784 3_0 3_0 3_statuser 6_796.269361784 6_0 6_0 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_3_634.78475313 3_0 6_634.78475313 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_3_0 3_408.231813364 6_0 6_408.231813364
+roadinfo_3_0 3_726.372550414 6_0 6_726.372550414
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_752.60757976 3_0 3_229.030647199 3_0 3_836.114608208 3_0 6_752.60757976 6_0 6_229.030647199 6_0 6_836.114608208 6_0
+roadinfo_3_1002.51429306 3_0 3_28.5126527074 3_0 6_1002.51429306 6_0 6_28.5126527074 6_0
+roadinfo_3_statuser 3_617.123163905 3_0 3_323.628203099 3_0 3_statuser 3_statuser 3_statuser 3_statuser 3_statuser 6_statuser 6_617.123163905 6_0 6_323.628203099 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_926.588443583 3_0 6_statuser 6_statuser 6_926.588443583 6_0
+roadinfo_3_834.987093277 3_0 6_834.987093277 6_0
+roadinfo_3_783.796060528 3_0 6_783.796060528 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_statuser 6_0 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_6_14.2088511276 6_0
+roadinfo_6_0 6_387.87247933 6_295.205618809 6_0 6_statuser 6_statuser
+roadinfo_6_805.703793679 6_0
+roadinfo_6_statuser 6_statuser 6_1122.70728944 6_0 6_0 6_455.719649054
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_645.876216068 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_605.759827592 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_836.166151857 6_0 6_statuser 6_statuser
+roadinfo_6_924.500521498 6_0
+roadinfo_6_956.233461234 6_0
+roadinfo_6_186.075435676 6_0
+roadinfo_3_0 3_66.857372596 3_statuser 3_statuser 6_0 6_66.857372596 6_statuser 6_statuser 6_0 6_0
+roadinfo_3_0 3_1117.96028046 3_0 6_0 6_1117.96028046 6_0 6_1185.95588601 6_0
+roadinfo_3_0 3_1145.84542694 3_0 6_0 6_1145.84542694 6_0 6_1084.68641162 6_0
+roadinfo_3_0 3_1191.54155431 3_0 6_0 6_1191.54155431 6_0 6_1219.31393323 6_0
+roadinfo_3_0 3_964.231378135 3_680.782998361 3_0 3_statuser 3_statuser 6_0 6_964.231378135 6_680.782998361 6_0 6_statuser 6_statuser 6_1296.05583541 6_0
+roadinfo_3_0 3_60.5032250452 6_0 6_60.5032250452 6_326.022669475 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_6_statuser 6_statuser 6_529.527532661 6_0
+roadinfo_6_statuser 6_statuser 6_790.617527418 6_0
+roadinfo_6_0 6_0
+roadinfo_
+roadinfo_3_0 3_0 3_statuser 6_0 6_0 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_326.091213596 3_0 3_statuser 3_statuser 6_326.091213596 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_472.53185585 3_0 6_472.53185585 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_3_0 3_1088.09025612 6_0 6_1088.09025612
+roadinfo_3_0 3_1217.17622892 6_0 6_1217.17622892
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_746.646049241 3_0 6_746.646049241 6_0
+roadinfo_3_0 3_0 3_1150.05710383 3_0 6_0 6_0 6_1150.05710383 6_0 6_754.899204516 6_0
+roadinfo_3_statuser 3_statuser 3_0 3_0 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_883.523785686 6_0 6_statuser 6_statuser 6_statuser 6_310.926343177 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_901.735807817 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_697.426315057 6_0
+roadinfo_6_870.382505911 6_0 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser
+roadinfo_3_143.762459115 3_statuser 6_143.762459115 6_statuser
+roadinfo_3_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_6_0 6_701.157399907
+roadinfo_
+roadinfo_6_0 6_760.641329445 6_479.534186336 6_0 6_0 6_514.319362416
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_131.965625396 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_927.815807306 6_0 6_statuser 6_statuser
+roadinfo_6_354.373938009 6_0
+roadinfo_
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_3_655.460995478 3_0 6_655.460995478 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_567.13191283 6_0 6_567.13191283 6_608.722973954 6_0
+roadinfo_3_0 3_1301.43700616 6_0 6_1301.43700616 6_statuser 6_statuser 6_1137.59930679 6_0
+roadinfo_3_0 3_0 6_0 6_0 6_0
+roadinfo_
+roadinfo_6_statuser 6_statuser 6_0 6_499.604812581
+roadinfo_3_641.98228163 3_0 6_641.98228163 6_0 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_0 6_0 6_0 6_905.880982065 6_0
+roadinfo_3_588.041661404 3_0 3_0 3_statuser 6_588.041661404 6_0 6_0 6_statuser 6_statuser 6_statuser
+roadinfo_3_306.313672969 3_0 3_0 3_statuser 6_306.313672969 6_0 6_0 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 3_0 3_0 6_0 6_0 6_0 6_0
+roadinfo_3_982.090647007 3_0 3_statuser 3_statuser 6_982.090647007 6_0 6_statuser 6_statuser
+roadinfo_3_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_175.670582534 3_0 6_175.670582534 6_0
+roadinfo_3_704.939701653 3_0 6_704.939701653 6_0
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_1572.7803211 6_0 6_1572.7803211
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_0 6_0
+roadinfo_3_0 3_1268.15402318 3_0 3_0 3_0 3_0 3_603.406848122 6_0 6_1268.15402318 6_0 6_0 6_0 6_0 6_603.406848122
+roadinfo_3_0 3_0 3_0 3_933.484426856 3_0 3_statuser 3_statuser 3_statuser 3_0 3_statuser 3_statuser 6_0 6_0 6_0 6_933.484426856 6_0 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_416.221423263 6_0 6_statuser
+roadinfo_3_0 3_statuser 3_statuser 3_0 3_0 6_0 6_statuser 6_statuser 6_0 6_0
+roadinfo_3_0 6_0
+roadinfo_3_0 6_0 6_statuser 6_statuser
+roadinfo_3_0 6_0
+roadinfo_3_0 3_0 3_statuser 6_0 6_0 6_statuser
+roadinfo_3_0 6_0
+roadinfo_3_0 6_0 6_7.18192223667 6_0 6_0 6_451.991836346
+roadinfo_3_0 3_0 6_0 6_0 6_0 6_0 6_0 6_0
+roadinfo_3_0 3_statuser 6_0 6_statuser 6_515.31305507 6_0 6_0 6_0
+roadinfo_3_0 6_0 6_statuser 6_statuser 6_0 6_615.490994259 6_0 6_869.538921255 6_60.1326121523 6_0
+roadinfo_3_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_969.651653519 6_0
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_920.762241176
+roadinfo_6_statuser 6_779.060798343 6_0 6_statuser
+roadinfo_6_270.823248121 6_0 6_statuser 6_statuser
+roadinfo_6_998.209018002 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_1035.54381783 6_0
+roadinfo_UN 6_0 6_1237.9251714 6_0
+roadinfo_UN 6_0 6_682.659723558 6_0
+roadinfo_3_673.952605781 3_0 6_673.952605781 6_0 6_1214.68957156 6_0
+roadinfo_UN 6_statuser 6_991.610032463 6_0
+roadinfo_6_827.900888818 6_0
+roadinfo_3_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_640.028421981 6_0 6_statuser 6_statuser 6_399.525942609 6_0 6_0
+roadinfo_3_0 3_1030.00707013 6_0 6_1030.00707013 6_0 6_0 6_1175.59032152 6_0 6_1181.62957253 6_0
+roadinfo_3_0 3_1370.3820433 6_0 6_1370.3820433 6_statuser 6_161.7150241 6_0 6_statuser 6_statuser 6_1374.69566915 6_0
+roadinfo_3_0 3_895.905176384 6_0 6_895.905176384 6_0 6_460.486434111 6_statuser 6_statuser 6_statuser 6_statuser 6_1149.60148235 6_0
+roadinfo_3_0 3_656.914314765 3_0 3_0 3_statuser 3_statuser 6_0 6_656.914314765 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_806.426809521 6_0
+roadinfo_3_470.244579537 3_0 3_0 3_statuser 3_statuser 3_statuser 3_642.559057606 3_0 6_470.244579537 6_0 6_0 6_statuser 6_statuser 6_statuser 6_642.559057606 6_0
+roadinfo_3_382.062596317 3_0 3_0 3_statuser 3_1022.46107907 3_0 6_382.062596317 6_0 6_0 6_statuser 6_1022.46107907 6_0
+roadinfo_3_1287.11289125 3_0 6_1287.11289125 6_0
+roadinfo_3_1089.65319037 3_0 6_1089.65319037 6_0
+roadinfo_3_1079.67400491 3_0 6_1079.67400491 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_3_1280.57069685 3_0 3_0 3_0 6_1280.57069685 6_0 6_0 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_1124.69067815 3_0 6_1124.69067815 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_3_0 3_1460.06627827 6_0 6_1460.06627827
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_0 3_0 3_0 3_0 6_0 6_0 6_0 6_0
+roadinfo_3_0 3_0 3_0 3_0 3_1051.42775127 6_0 6_0 6_0 6_0 6_1051.42775127
+roadinfo_3_0 3_1217.26544453 3_0 3_0 3_0 3_statuser 3_0 6_0 6_1217.26544453 6_0 6_0 6_0 6_statuser 6_0 6_620.339430815 6_0
+roadinfo_3_0 3_statuser 3_statuser 3_937.230337291 3_0 6_0 6_statuser 6_statuser 6_937.230337291 6_0 6_statuser 6_statuser
+roadinfo_3_0 6_0
+roadinfo_3_0 6_0 6_statuser 6_statuser
+roadinfo_3_0 6_0
+roadinfo_3_0 3_0 3_statuser 6_0 6_0 6_statuser
+roadinfo_3_0 6_0
+roadinfo_3_0 6_0
+roadinfo_3_0 6_0 6_0 6_229.522395628
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_0 3_statuser 6_0 6_statuser 6_0 6_0
+roadinfo_3_0 6_0 6_0 6_0 6_323.646493924
+roadinfo_3_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_6_statuser 6_statuser
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_3_850.039267179 3_0 6_850.039267179 6_0
+roadinfo_UN UN
+roadinfo_
+roadinfo_6_statuser 6_statuser 6_0 6_0 6_0 6_0
+roadinfo_6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_678.917652312 6_0 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_0 3_494.415812398 3_0 3_0 3_0 3_statuser 3_0 3_1053.02564651 3_statuser 3_statuser 6_statuser 6_statuser 6_0 6_494.415812398 6_0 6_0 6_0 6_statuser 6_0 6_1053.02564651 6_statuser 6_statuser 6_statuser 6_450.161927415 6_0
+roadinfo_3_0 3_1199.06015803 3_1061.96255638 3_0 3_0 3_statuser 3_statuser 6_0 6_1199.06015803 6_1061.96255638 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_894.902094112 3_0 6_894.902094112 6_0
+roadinfo_3_1016.9853021 3_0 6_1016.9853021 6_0
+roadinfo_3_0 3_0 3_0 3_0 6_0 6_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_1040.17858664 3_0 6_1040.17858664 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_3_0 3_1424.21428716 6_0 6_1424.21428716
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_149.633863535 6_0 6_149.633863535
+roadinfo_3_0 3_1248.47358417 6_0 6_1248.47358417
+roadinfo_3_0 3_300.191788241 6_0 6_300.191788241
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_0 3_319.637898534 3_0 3_0 3_1206.46724481 6_0 6_319.637898534 6_0 6_0 6_1206.46724481
+roadinfo_3_0 3_0 3_0 6_0 6_0 6_0
+roadinfo_3_0 3_146.344616938 3_0 3_statuser 3_0 6_0 6_146.344616938 6_0 6_statuser 6_0
+roadinfo_3_0 3_947.491714459 3_0 3_0 3_0 3_statuser 6_0 6_947.491714459 6_0 6_0 6_0 6_statuser
+roadinfo_3_0 3_statuser 3_0 6_0 6_statuser 6_0
+roadinfo_3_0 6_0 6_0
+roadinfo_3_0 6_0 6_0
+roadinfo_3_0 3_0 3_statuser 6_0 6_0 6_statuser 6_0
+roadinfo_3_0 6_0
+roadinfo_3_0 6_0
+roadinfo_3_0 6_0
+roadinfo_3_0 6_0 6_250.941004886 6_0 6_0 6_590.896975166
+roadinfo_3_0 3_0 6_0 6_0 6_861.683269157 6_0
+roadinfo_3_0 3_statuser 6_0 6_statuser 6_statuser 6_statuser 6_0 6_0 6_22.8256839724 6_0 6_0
+roadinfo_3_0 6_0 6_0 6_0 6_704.438805879 6_701.763715944 6_0 6_0
+roadinfo_3_0 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_1056.5214149 6_0 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 3_1087.7551803 3_0 6_statuser 6_statuser 6_statuser 6_statuser 6_1087.7551803 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_564.653847148 3_0 6_statuser 6_statuser 6_564.653847148 6_0
+roadinfo_3_0 3_1228.60383324 3_1069.21113254 3_0 6_0 6_1228.60383324 6_1069.21113254 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_1030.12079158 3_0 3_0 6_0 6_1030.12079158 6_0 6_0
+roadinfo_3_0 3_796.979466289 3_statuser 3_statuser 6_0 6_796.979466289 6_statuser 6_statuser
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_3_644.069349381 3_0 6_644.069349381 6_0
+roadinfo_UN UN
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_786.754718192 6_0 6_618.027722289 6_0
+roadinfo_6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_1149.98031085 6_0 6_0 6_0
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_0 3_statuser 3_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_631.874119978 6_0 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_875.257530305 3_0 3_0 3_statuser 6_statuser 6_statuser 6_statuser 6_875.257530305 6_0 6_0 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_0 3_0 3_0 3_statuser 6_0 6_0 6_0 6_0 6_statuser
+roadinfo_3_0 3_1261.73869811 6_0 6_1261.73869811
+roadinfo_3_0 3_1358.97941686 6_0 6_1358.97941686
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_528.439192094 3_0 3_752.737241756 3_0 6_528.439192094 6_0 6_752.737241756 6_0
+roadinfo_3_statuser 3_statuser 3_0 3_0 3_641.098007707 3_0 6_statuser 6_statuser 6_0 6_0 6_641.098007707 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_1070.11078458 3_0 6_1070.11078458 6_0
+roadinfo_3_660.592326967 3_0 6_660.592326967 6_0
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_3_0 3_1383.81053171 6_0 6_1383.81053171
+roadinfo_3_0 3_655.58631089 6_0 6_655.58631089
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_1131.99663448 6_0 6_1131.99663448
+roadinfo_3_0 3_767.38702404 6_0 6_767.38702404
+roadinfo_3_0 3_1174.77643012 6_0 6_1174.77643012
+roadinfo_3_0 3_922.919883955 3_0 3_0 3_306.85152613 6_0 6_922.919883955 6_0 6_0 6_306.85152613
+roadinfo_3_0 6_0
+roadinfo_3_0 6_0
+roadinfo_3_0 3_954.559525845 3_0 6_0 6_954.559525845 6_0
+roadinfo_3_0 3_0 3_0 3_331.483291666 3_0 6_0 6_0 6_0 6_331.483291666 6_0 6_671.100969692 6_0
+roadinfo_3_0 6_0 6_statuser 6_0
+roadinfo_3_0 6_0 6_0
+roadinfo_3_0 3_0 3_statuser 6_0 6_0 6_statuser 6_0
+roadinfo_3_0 6_0 6_0
+roadinfo_3_0 6_0 6_0 6_0
+roadinfo_3_0 6_0 6_1066.83040896 6_0
+roadinfo_3_0 3_662.569596378 3_0 6_0 6_662.569596378 6_0 6_0 6_30.186776564 6_statuser 6_statuser
+roadinfo_3_0 3_0 3_0 3_0 6_0 6_0 6_0 6_0
+roadinfo_3_0 3_statuser 6_0 6_statuser 6_0 6_0
+roadinfo_3_0 6_0 6_0 6_732.130594248 6_0 6_704.7346471 6_886.129711883 6_0
+roadinfo_3_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_3_0 3_533.695043777 3_0 3_0 6_0 6_533.695043777 6_0 6_0 6_statuser 6_statuser
+roadinfo_3_947.454053509 3_0 6_947.454053509 6_0
+roadinfo_3_0 3_392.988124981 3_statuser 3_statuser 3_1176.16309558 3_0 6_0 6_392.988124981 6_statuser 6_statuser 6_1176.16309558 6_0
+roadinfo_3_0 3_916.105451766 3_0 3_857.905314851 3_0 6_0 6_916.105451766 6_0 6_857.905314851 6_0
+roadinfo_3_406.915933198 3_0 3_1000.30314189 3_0 6_406.915933198 6_0 6_1000.30314189 6_0
+roadinfo_3_405.965278319 3_0 3_1077.31069197 3_0 6_405.965278319 6_0 6_1077.31069197 6_0
+roadinfo_3_statuser 3_782.615653423 3_0 6_statuser 6_782.615653423 6_0
+roadinfo_3_1203.59915555 3_0 6_1203.59915555 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_891.504835888 6_0
+roadinfo_6_statuser 6_statuser 6_157.616228924 6_0 6_951.060681802 6_0 6_statuser 6_statuser
+roadinfo_6_0 6_statuser 6_statuser 6_1261.4323225 6_0 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_0 3_statuser 3_statuser 3_0 3_0 6_0 6_0 6_statuser 6_statuser 6_statuser 6_0 6_0 6_222.8988552 6_0 6_statuser 6_70.204311024 6_0
+roadinfo_3_statuser 3_723.753729787 3_0 3_0 3_statuser 3_statuser 3_statuser 6_statuser 6_723.753729787 6_0 6_0 6_statuser 6_statuser 6_statuser 6_114.905973621 6_0 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_758.699544251 6_0 6_449.375239531
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_3_266.691485119 3_0 6_266.691485119 6_0
+roadinfo_3_230.18910103 3_0 6_230.18910103 6_0
+roadinfo_
+roadinfo_3_0 3_0 3_117.22474204 3_0 6_0 6_0 6_117.22474204 6_0
+roadinfo_3_1230.07529462 3_0 6_1230.07529462 6_0
+roadinfo_3_1171.74071256 3_0 6_1171.74071256 6_0
+roadinfo_3_1037.77200714 3_0 6_1037.77200714 6_0
+roadinfo_3_1301.40305282 3_0 6_1301.40305282 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_3_15.5189908342 3_0 6_15.5189908342 6_0
+roadinfo_3_1104.318871 3_0 6_1104.318871 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_3_0 3_527.999307129 6_0 6_527.999307129
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_782.931335226 6_0 6_782.931335226
+roadinfo_3_0 3_96.9895597043 6_0 6_96.9895597043
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_1193.28234019 3_0 6_0 6_1193.28234019 6_0
+roadinfo_3_0 6_0
+roadinfo_3_0 3_0 3_0 6_0 6_0 6_0 6_96.5979093591 6_0
+roadinfo_3_0 3_1128.89321196 3_0 3_310.779616419 3_0 6_0 6_1128.89321196 6_0 6_310.779616419 6_0 6_453.537066599 6_0
+roadinfo_3_0 3_statuser 3_statuser 6_0 6_statuser 6_statuser
+roadinfo_3_0 6_0
+roadinfo_3_0 3_0 3_statuser 6_0 6_0 6_statuser
+roadinfo_3_0 6_0
+roadinfo_3_0 6_0
+roadinfo_3_0 6_0
+roadinfo_3_0 3_0 3_1240.47699188 6_0 6_0 6_1240.47699188
+roadinfo_3_0 3_0 3_0 3_1304.55203739 3_1302.14009119 3_0 6_0 6_0 6_0 6_1304.55203739 6_1302.14009119 6_0
+roadinfo_3_0 3_statuser 3_0 3_1323.18358462 3_0 3_0 6_0 6_statuser 6_0 6_1323.18358462 6_0 6_0
+roadinfo_3_0 3_0 3_885.370008395 3_statuser 3_statuser 6_0 6_0 6_885.370008395 6_statuser 6_statuser 6_0 6_168.437491312 6_0 6_451.046849005 6_878.639239596 6_0
+roadinfo_3_0 3_0 3_846.844513358 6_0 6_0 6_846.844513358 6_statuser 6_statuser 6_statuser 6_statuser 6_1064.6141876 6_0 6_0 6_0 6_statuser 6_statuser 6_0
+roadinfo_3_statuser 3_statuser 3_statuser 3_0 3_479.817195079 6_statuser 6_statuser 6_statuser 6_0 6_479.817195079 6_1104.95074198 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_1119.24212531 6_0 6_1119.24212531 6_statuser 6_statuser
+roadinfo_3_0 3_229.886902426 6_0 6_229.886902426 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_933.350334895 3_186.904159206 3_0 6_0 6_933.350334895 6_186.904159206 6_0 6_20.4642926609 6_statuser
+roadinfo_3_798.467446979 3_0 6_798.467446979 6_0
+roadinfo_UN UN
+roadinfo_6_statuser 6_statuser 6_771.376506995 6_0 6_351.325365159 6_0 6_0 6_0
+roadinfo_6_statuser 6_statuser 6_904.517866764 6_0 6_371.628135349 6_0 6_0 6_1419.39875525
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_130.037423367 6_0 6_statuser 6_statuser
+roadinfo_6_664.136254318 6_0 6_statuser 6_statuser
+roadinfo_3_746.270505246 3_0 3_0 3_statuser 3_0 3_570.080201611 6_746.270505246 6_0 6_0 6_statuser 6_0 6_570.080201611 6_0 6_0
+roadinfo_3_328.290763025 3_0 3_0 3_statuser 6_328.290763025 6_0 6_0 6_statuser 6_statuser 6_statuser 6_0 6_0
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_288.330649017 6_0 6_288.330649017
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_1084.26093935 3_0 6_1084.26093935 6_0
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_393.367513377 3_0 6_393.367513377 6_0
+roadinfo_3_1225.15103426 3_0 6_1225.15103426 6_0
+roadinfo_3_678.022985603 3_0 3_statuser 3_statuser 6_678.022985603 6_0 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_443.878871198 3_0 6_0 6_443.878871198 6_0
+roadinfo_3_0 3_411.00932576 3_0 6_0 6_411.00932576 6_0
+roadinfo_3_0 6_0
+roadinfo_3_0 6_0
+roadinfo_3_0 3_108.876546841 3_0 6_0 6_108.876546841 6_0
+roadinfo_3_0 3_1218.20368304 3_0 3_0 3_0 3_statuser 3_statuser 6_0 6_1218.20368304 6_0 6_0 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_680.794784657 3_0 6_0 6_680.794784657 6_0
+roadinfo_3_0 3_0 3_statuser 6_0 6_0 6_statuser
+roadinfo_3_0 6_0
+roadinfo_3_0 3_0 3_678.896828198 6_0 6_0 6_678.896828198
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_0 3_statuser 3_0 3_979.997945206 3_0 6_0 6_statuser 6_0 6_979.997945206 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_statuser 3_statuser 3_166.324912186 3_0 6_0 6_statuser 6_statuser 6_166.324912186 6_0 6_statuser 6_statuser
+roadinfo_3_0 6_0 6_991.643012991 6_statuser 6_statuser 6_statuser 6_statuser 6_132.395980125 6_0 6_158.159036971 6_0 6_statuser 6_0 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_424.646459984 6_statuser 6_statuser 6_0
+roadinfo_
+roadinfo_6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_558.196966927 3_statuser 3_statuser 3_837.747607421 3_0 3_0 3_statuser 6_0 6_558.196966927 6_statuser 6_statuser 6_837.747607421 6_0 6_0 6_statuser 6_868.746267138 6_statuser
+roadinfo_3_0 3_823.655036767 3_0 3_statuser 6_0 6_823.655036767 6_0 6_statuser 6_statuser
+roadinfo_UN 6_0 6_717.095601694 6_0
+roadinfo_UN 6_statuser 6_1409.74064808 6_0
+roadinfo_6_70.1011209162 6_0 6_90.6943368305 6_0 6_0 6_253.147338798 6_0 6_126.269715401
+roadinfo_6_343.983554802 6_0 6_1190.76774084 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_0
+roadinfo_6_statuser 6_statuser 6_0 6_0 6_0 6_0
+roadinfo_3_0 3_0 3_0 3_statuser 3_0 3_249.316755827 6_30.5922669154 6_0 6_0 6_0 6_statuser 6_0 6_249.316755827 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_1004.53895727 3_0 3_0 3_statuser 3_0 3_378.197937745 6_1004.53895727 6_0 6_0 6_statuser 6_0 6_378.197937745 6_0 6_1059.59829569
+roadinfo_UN
+roadinfo_UN
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_765.714340387 6_0 6_765.714340387
+roadinfo_3_statuser 3_445.009971489 3_0 6_statuser 6_445.009971489 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_566.277106346 3_0 6_566.277106346 6_0
+roadinfo_3_159.697287397 3_0 6_159.697287397 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_3_0 3_1813.57049316 6_0 6_1813.57049316
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 6_0
+roadinfo_3_0 3_721.867847487 3_0 6_0 6_721.867847487 6_0
+roadinfo_3_0 6_0
+roadinfo_3_0 6_0
+roadinfo_3_0 6_0
+roadinfo_3_0 3_148.19267534 3_0 6_0 6_148.19267534 6_0
+roadinfo_3_0 3_943.448454382 3_0 3_statuser 3_statuser 6_0 6_943.448454382 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_0 3_statuser 6_0 6_0 6_statuser
+roadinfo_3_0 6_0
+roadinfo_3_0 3_0 3_315.939335118 6_0 6_0 6_315.939335118
+roadinfo_3_0 3_0 3_312.332570987 6_0 6_0 6_312.332570987
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_0 3_statuser 6_0 6_statuser 6_568.409002647 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_964.616119061 3_0 6_0 6_statuser 6_964.616119061 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_statuser 3_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_701.084905523 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_289.245557536 6_statuser 6_statuser 6_0
+roadinfo_6_statuser 6_statuser 6_1194.92373871 6_0 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_3_statuser 3_statuser 3_0 3_statuser 6_statuser 6_statuser 6_0 6_statuser 6_0 6_statuser
+roadinfo_3_0 3_445.443041959 6_0 6_445.443041959 6_statuser 6_statuser
+roadinfo_3_0 3_1234.16639497 6_0 6_1234.16639497
+roadinfo_3_0 3_614.876097939 6_0 6_614.876097939
+roadinfo_6_0 6_645.85909703
+roadinfo_6_0 6_0 6_0 6_193.773248578
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_596.925373231 6_1111.09244927 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_671.737643878 3_0 3_0 3_statuser 6_671.737643878 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_180.267423593
+roadinfo_3_0 3_0 3_statuser 6_0 6_0 6_statuser 6_0 6_473.562311231 6_0 6_0
+roadinfo_UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 3_0 3_0 6_0 6_0 6_0 6_0
+roadinfo_3_statuser 3_statuser 3_1140.62963068 3_0 6_statuser 6_statuser 6_1140.62963068 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_808.709577351 3_0 6_808.709577351 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_3_0 3_647.194971318 6_0 6_647.194971318
+roadinfo_
+roadinfo_3_0 3_1221.21032472 6_0 6_1221.21032472
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 6_0
+roadinfo_3_0 3_645.04996584 3_0 6_0 6_645.04996584 6_0
+roadinfo_3_0 6_0
+roadinfo_3_0 6_0
+roadinfo_3_0 6_0
+roadinfo_3_0 6_0
+roadinfo_3_0 3_719.201801068 3_0 3_statuser 3_statuser 6_0 6_719.201801068 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_0 3_statuser 6_0 6_0 6_statuser
+roadinfo_3_0 6_0
+roadinfo_3_0 6_0
+roadinfo_3_0 3_0 3_904.004111571 6_0 6_0 6_904.004111571
+roadinfo_3_0 6_0
+roadinfo_3_0 3_0 6_0 6_0 6_0 6_136.348830683
+roadinfo_3_0 3_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_1206.60150288 3_0 6_0 6_1206.60150288 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_483.815204978
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_0 6_0
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_284.736836495 6_0 6_244.49689812 6_0 6_351.27861614 6_0
+roadinfo_6_305.694909923 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_367.243203396 6_0 6_statuser 6_statuser
+roadinfo_3_1167.61906668 3_0 3_statuser 3_statuser 6_1167.61906668 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 3_0 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_96.0048477841 6_0 6_0 6_statuser
+roadinfo_6_1129.11946432 6_0 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_447.733147476 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_508.110740612 6_0 6_508.110740612 6_0 6_133.362534679 6_statuser 6_0 6_63.565039923 6_0
+roadinfo_3_0 3_46.6580099122 6_0 6_46.6580099122 6_927.192399265 6_0 6_0 6_253.430914881 6_statuser 6_statuser 6_1227.39618535 6_0
+roadinfo_6_0 6_838.241762083 6_statuser 6_statuser 6_statuser 6_statuser 6_206.639020101 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_0 3_0 3_statuser 6_0 6_0 6_0 6_statuser 6_0 6_statuser 6_statuser 6_473.795144528
+roadinfo_3_1122.1910642 3_0 3_0 3_statuser 6_1122.1910642 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_1146.76800169 6_1168.33935103 6_0 6_statuser
+roadinfo_6_443.75287767 6_0 6_0 6_0
+roadinfo_3_434.492411845 3_0 6_434.492411845 6_0 6_0 6_0 6_0 6_0
+roadinfo_3_275.452707614 3_0 6_275.452707614 6_0 6_statuser 6_statuser
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_902.317005179 3_0 6_902.317005179 6_0
+roadinfo_3_statuser 3_statuser 3_0 3_0 3_0 3_398.229217052 6_statuser 6_statuser 6_0 6_0 6_0 6_398.229217052
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 3_789.566090276 3_0 6_0 6_0 6_789.566090276 6_0
+roadinfo_3_1098.73983658 3_0 6_1098.73983658 6_0
+roadinfo_3_1137.32164094 3_0 6_1137.32164094 6_0
+roadinfo_3_1030.46310661 3_0 6_1030.46310661 6_0
+roadinfo_3_1019.45326033 3_0 6_1019.45326033 6_0
+roadinfo_3_1092.39669108 3_0 6_1092.39669108 6_0
+roadinfo_3_738.190321182 3_0 6_738.190321182 6_0
+roadinfo_3_1200.72076237 3_0 6_1200.72076237 6_0
+roadinfo_3_1200.10495559 3_0 6_1200.10495559 6_0
+roadinfo_3_994.729822444 3_0 6_994.729822444 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_1440.68382056 6_0 6_1440.68382056
+roadinfo_3_0 3_1128.38976101 6_0 6_1128.38976101
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_0 3_484.796596182 6_0 6_484.796596182
+roadinfo_3_0 3_1091.31122299 6_0 6_1091.31122299
+roadinfo_3_0 3_855.194598445 6_0 6_855.194598445
+roadinfo_3_0 3_874.988254359 6_0 6_874.988254359
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_3_0 3_909.53607562 3_0 6_0 6_909.53607562 6_0
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_3_0 3_194.734495116 3_416.69835592 3_0 3_statuser 3_0 6_0 6_194.734495116 6_416.69835592 6_0 6_statuser 6_0
+roadinfo_3_0 3_0 3_statuser 3_473.396592197 3_0 3_statuser 3_statuser 6_0 6_0 6_statuser 6_473.396592197 6_0 6_statuser 6_statuser
+roadinfo_UN UN
+roadinfo_3_0 3_0 3_998.050592566 6_0 6_0 6_998.050592566
+roadinfo_UN UN
+roadinfo_UN 6_0 6_0 6_958.927407265
+roadinfo_UN UN
+roadinfo_6_statuser 6_statuser
+roadinfo_3_0 3_0 6_0 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_864.011382383 6_0
+roadinfo_6_statuser 6_statuser 6_779.897129959 6_0
+roadinfo_6_149.476574242 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_statuser 6_0 6_statuser 6_0 6_statuser
+roadinfo_6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser
+roadinfo_6_0 6_1035.54373236 6_373.783232556 6_0
+roadinfo_3_0 3_1201.32388655 6_0 6_1201.32388655 6_1244.0067424 6_0 6_0 6_36.7697387981
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_890.157789442 6_0 6_277.768350829 6_0 6_statuser 6_statuser 6_87.9590974047 6_0
+roadinfo_3_1180.63284324 3_0 3_0 3_statuser 6_1180.63284324 6_0 6_0 6_statuser 6_statuser 6_statuser 6_0 6_787.237257757 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1261.55405716
+roadinfo_3_0 3_0 3_0 3_statuser 6_0 6_0 6_0 6_statuser 6_0 6_0
+roadinfo_6_388.044398493 6_0 6_0 6_156.192844613 6_0 6_8.87983457255
+roadinfo_6_statuser 6_statuser 6_0 6_612.703828698 6_0 6_0
+roadinfo_3_991.548775199 3_0 6_991.548775199 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_723.807372318 3_0 6_723.807372318 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_0 6_0
+roadinfo_3_0 3_280.927579285 6_0 6_280.927579285
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_1391.04145885 3_0 3_923.230794393 3_0 6_1391.04145885 6_0 6_923.230794393 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_989.176063356 6_0 6_989.176063356
+roadinfo_3_0 3_1682.67288027 6_0 6_1682.67288027
+roadinfo_3_0 3_1850.01027222 6_0 6_1850.01027222
+roadinfo_3_0 3_1569.8199071 6_0 6_1569.8199071
+roadinfo_3_0 3_1608.10025849 6_0 6_1608.10025849
+roadinfo_3_0 3_1518.34276135 6_0 6_1518.34276135
+roadinfo_3_0 3_684.763438795 6_0 6_684.763438795
+roadinfo_3_0 3_294.368203185 6_0 6_294.368203185
+roadinfo_3_0 3_1393.15845543 6_0 6_1393.15845543
+roadinfo_3_0 3_883.326930021 6_0 6_883.326930021
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_3_0 3_986.156457831 3_0 6_0 6_986.156457831 6_0
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_3_0 3_809.757711494 3_0 3_statuser 3_statuser 6_0 6_809.757711494 6_0 6_statuser 6_statuser
+roadinfo_UN UN
+roadinfo_3_0 3_0 3_0 6_0 6_0 6_0
+roadinfo_3_0 3_0 3_1073.70188646 6_0 6_0 6_1073.70188646
+roadinfo_UN UN
+roadinfo_UN 6_0 6_0 6_689.385140962 6_536.263554576 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_0
+roadinfo_UN 6_statuser 6_1284.95302101 6_0 6_0
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_0 6_63.9304482902 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_992.008988237 6_0 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_558.500452192 6_0
+roadinfo_6_961.017509126 6_0
+roadinfo_3_0 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_statuser 6_0 6_statuser 6_0 6_statuser 6_0 6_382.285493319
+roadinfo_6_statuser 6_statuser
+roadinfo_6_0 6_788.551455346 6_472.563120628 6_0 6_statuser 6_statuser
+roadinfo_6_0 6_262.969792827 6_853.79415079 6_0
+roadinfo_6_0 6_1053.00566807
+roadinfo_3_statuser 3_statuser 3_0 3_543.409430565 3_958.885856113 3_0 3_0 3_statuser 6_statuser 6_statuser 6_0 6_543.409430565 6_958.885856113 6_0 6_0 6_statuser 6_1235.12069172 6_0 6_statuser 6_0 6_324.423042712
+roadinfo_3_0 3_785.93766777 3_298.27655851 3_0 3_0 3_statuser 6_0 6_785.93766777 6_298.27655851 6_0 6_0 6_statuser 6_0 6_486.289283412 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_6_0 6_739.422093087
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_640.957618926 3_0 3_313.109554896 3_0 6_640.957618926 6_0 6_313.109554896 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_0 3_698.273610542 6_0 6_698.273610542
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_3_1101.29458133 3_0 6_1101.29458133 6_0
+roadinfo_3_566.453902069 3_0 6_566.453902069 6_0
+roadinfo_3_852.797010579 3_0 6_852.797010579 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_1358.29819946 6_0 6_1358.29819946
+roadinfo_
+roadinfo_3_0 3_654.135674167 6_0 6_654.135674167
+roadinfo_3_0 3_412.220246242 6_0 6_412.220246242
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 3_0 6_0 6_0 6_0
+roadinfo_3_0 3_157.079604133 3_0 6_0 6_157.079604133 6_0
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_3_0 3_673.39416736 3_0 3_statuser 3_statuser 6_0 6_673.39416736 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_0 3_0 6_0 6_0 6_0
+roadinfo_3_0 3_0 3_1567.60928989 6_0 6_0 6_1567.60928989
+roadinfo_3_0 3_0 3_0 6_0 6_0 6_0
+roadinfo_UN UN
+roadinfo_3_0 3_0 3_663.664874527 6_0 6_statuser 6_0 6_663.664874527 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_873.694115856
+roadinfo_3_statuser 3_0 3_1202.67576629 6_statuser 6_0 6_1202.67576629 6_0 6_1230.14961491
+roadinfo_3_0 3_1123.17346354 6_0 6_1123.17346354 6_statuser 6_statuser 6_803.069262073 6_0 6_0 6_1176.68810368
+roadinfo_3_0 3_943.516868419 6_0 6_943.516868419 6_statuser 6_statuser 6_0 6_1162.9927746
+roadinfo_3_statuser 3_statuser 3_statuser 3_0 3_1182.10707977 6_statuser 6_statuser 6_statuser 6_0 6_1182.10707977 6_statuser 6_statuser 6_0 6_1215.07872762
+roadinfo_3_0 3_754.584809703 6_statuser 6_0 6_754.584809703 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_1138.732201
+roadinfo_3_203.423114073 3_0 3_statuser 6_203.423114073 6_0 6_statuser 6_670.256209083 6_0 6_statuser 6_statuser 6_0 6_1090.34327185
+roadinfo_3_statuser 3_0 3_727.371240868 3_0 3_816.338630188 6_statuser 6_0 6_727.371240868 6_0 6_816.338630188 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_1227.84190675
+roadinfo_3_statuser 3_statuser 3_0 3_1219.59306701 6_statuser 6_statuser 6_0 6_1219.59306701 6_statuser 6_statuser 6_statuser 6_statuser 6_401.335083545 6_0 6_1143.83294583
+roadinfo_3_0 3_1028.70784455 3_0 3_statuser 6_0 6_1028.70784455 6_0 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_0 6_758.774263824 6_0 6_1222.70519195
+roadinfo_3_0 3_1114.10264527 6_0 6_1114.10264527 6_statuser 6_statuser 6_0 6_1142.88750662
+roadinfo_3_0 3_1036.59702749 6_0 6_1036.59702749 6_0 6_629.778724861 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_1191.34228996
+roadinfo_3_0 3_52.3270033559 6_0 6_52.3270033559 6_103.714785873 6_0 6_0 6_238.53918168 6_169.652032222
+roadinfo_3_436.981579293 3_0 3_0 3_0 6_436.981579293 6_0 6_0 6_0 6_statuser 6_statuser 6_0 6_778.699534899
+roadinfo_3_681.16407307 3_0 3_0 3_statuser 6_681.16407307 6_0 6_0 6_statuser 6_699.695065863 6_0
+roadinfo_3_0 3_400.298132381 6_0 6_400.298132381 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_503.583820601 6_0 6_503.583820601
+roadinfo_
+roadinfo_
+roadinfo_3_656.816789692 3_0 6_656.816789692 6_0
+roadinfo_3_479.902171668 3_0 3_891.749281085 3_0 6_479.902171668 6_0 6_891.749281085 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_369.814703949 6_0 6_369.814703949
+roadinfo_3_0 3_330.915614661 6_0 6_330.915614661
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_3_906.580092314 3_0 6_906.580092314 6_0
+roadinfo_
+roadinfo_
+roadinfo_3_532.534356423 3_0 6_532.534356423 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 3_0 6_0 6_0 6_0
+roadinfo_3_0 3_424.225838935 3_0 6_0 6_424.225838935 6_0
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_3_0 3_835.192789801 3_0 3_statuser 3_statuser 6_0 6_835.192789801 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_0 3_1011.123542 3_statuser 6_0 6_0 6_1011.123542 6_statuser
+roadinfo_3_0 3_0 3_0 6_0 6_0 6_0
+roadinfo_UN 6_0 6_779.87697666 6_0
+roadinfo_UN 6_0 6_0 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_0 3_537.764846904 3_statuser 3_statuser 6_0 6_statuser 6_0 6_537.764846904 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_847.664272228 6_0 6_0 6_280.242978896 6_statuser 6_statuser
+roadinfo_UN 6_statuser 6_1115.54315475 6_0
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_836.372201191 6_0 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_760.385001559 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser
+roadinfo_3_0 3_825.389838231 6_0 6_825.389838231 6_statuser 6_statuser 6_statuser 6_statuser 6_15.0694078904 6_0
+roadinfo_6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_728.4714977 6_0 6_statuser 6_statuser 6_13.7669243369
+roadinfo_UN 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_795.38268951 6_0 6_statuser
+roadinfo_6_statuser 6_statuser 6_600.31699158 6_0
+roadinfo_3_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0
+roadinfo_3_0 3_1291.8542339 6_0 6_0 6_0 6_1291.8542339 6_statuser 6_statuser 6_0 6_556.068500094 6_statuser 6_1194.0453091 6_0
+roadinfo_3_statuser 3_statuser 3_1082.47132325 3_0 3_0 3_0 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1082.47132325 6_0 6_0 6_0 6_statuser 6_0 6_0 6_statuser 6_statuser 6_195.716839702
+roadinfo_6_statuser 6_statuser 6_1074.72374295 6_0
+roadinfo_6_statuser 6_statuser
+roadinfo_3_0 3_933.165911619 6_0 6_933.165911619
+roadinfo_3_0 3_0 3_statuser 3_statuser 6_0 6_0 6_statuser 6_statuser
+roadinfo_3_1229.17256598 3_0 6_1229.17256598 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_207.553539322 3_0 6_207.553539322 6_0
+roadinfo_3_374.594996097 3_0 6_374.594996097 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_772.159611043 3_0 6_772.159611043 6_0
+roadinfo_3_842.523045657 3_0 3_0 3_788.125461911 6_842.523045657 6_0 6_0 6_788.125461911
+roadinfo_3_1054.39031391 3_0 3_0 6_1054.39031391 6_0 6_0
+roadinfo_3_1161.56079846 3_0 3_statuser 3_statuser 6_1161.56079846 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_3_458.484851375 3_0 6_458.484851375 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_3_0 3_800.613434203 3_0 6_0 6_800.613434203 6_0
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_3_0 3_0 3_75.5797794892 3_755.339673671 3_0 3_statuser 3_statuser 6_0 6_0 6_75.5797794892 6_755.339673671 6_0 6_statuser 6_statuser 6_1000.77432785 6_0
+roadinfo_3_0 3_0 3_955.666886275 3_statuser 3_1355.26030423 3_0 6_0 6_0 6_955.666886275 6_statuser 6_1355.26030423 6_0 6_1513.08852254 6_0
+roadinfo_UN UN
+roadinfo_UN 6_0 6_978.504342464 6_0
+roadinfo_UN 6_0 6_217.52359804 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_statuser 3_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_507.03398439 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_106.048099855 6_0 6_1266.48362639 6_0
+roadinfo_3_statuser 3_0 3_213.279163837 3_statuser 6_statuser 6_statuser 6_0 6_213.279163837 6_statuser 6_statuser 6_statuser 6_1372.39555805 6_0 6_4.9981591035 6_0 6_statuser
+roadinfo_3_57.4240907586 3_0 3_statuser 6_57.4240907586 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_0 6_1218.12282774 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 3_0 6_statuser 6_statuser 6_statuser 6_0 6_624.519736358 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_1119.51272477 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_898.236130291 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_300.304036096 6_0 6_553.146123377 6_0 6_0
+roadinfo_6_0 6_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_1177.34512535 6_0
+roadinfo_3_0 3_605.810295587 6_0 6_605.810295587 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_9.77818559596 6_statuser 6_statuser 6_0
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_779.524425066 6_0 6_statuser
+roadinfo_6_statuser 6_statuser 6_0 6_165.374590561 6_179.397982474 6_0 6_1031.481038 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_902.317205083 3_0 3_0 3_0 6_0 6_0 6_902.317205083 6_0 6_0 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_141.852176657 3_0 3_0 3_0 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_141.852176657 6_0 6_0 6_0 6_statuser 6_statuser 6_929.323215094 6_0 6_statuser 6_1003.9672915
+roadinfo_6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser
+roadinfo_6_0 6_221.55999938
+roadinfo_3_0 3_0 3_statuser 3_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_3_468.258863081 3_0 6_468.258863081 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_3_361.124490589 3_0 6_361.124490589 6_0
+roadinfo_3_1252.52644783 3_0 6_1252.52644783 6_0
+roadinfo_3_49.1218149469 3_0 6_49.1218149469 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_0 3_764.525459938 6_0 6_764.525459938
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_3_442.863465822 3_0 6_442.863465822 6_0
+roadinfo_3_953.338290282 3_0 6_953.338290282 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_3_0 3_0 3_0 6_0 6_0 6_0
+roadinfo_3_0 3_742.234726956 3_0 6_0 6_742.234726956 6_0
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_3_0 3_0 3_889.930499517 6_0 6_0 6_889.930499517
+roadinfo_3_0 3_69.0213869716 3_0 6_0 6_69.0213869716 6_0 6_37.7608413841 6_0 6_0 6_0
+roadinfo_3_0 3_statuser 3_989.61643656 3_statuser 6_0 6_statuser 6_0 6_989.61643656 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1149.02076643 6_0 6_1008.74472369
+roadinfo_UN 6_0 6_statuser 6_0 6_0 6_0 6_341.753287168 6_231.61109968
+roadinfo_UN 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_statuser 3_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_178.762357255 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_972.812595847 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_0 3_statuser 3_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser
+roadinfo_6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 3_0 3_0 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_1255.61821941 6_0 6_1255.61821941 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_0 6_1269.50784323
+roadinfo_3_0 3_0 3_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_259.224141071 6_0 6_0 6_1235.80040605
+roadinfo_3_0 3_575.898364946 3_0 3_607.357241743 3_statuser 3_statuser 3_statuser 6_0 6_575.898364946 6_statuser 6_0 6_607.357241743 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_71.8073348683 6_0 6_1230.13908385
+roadinfo_3_0 3_statuser 3_913.691455598 6_0 6_statuser 6_0 6_statuser 6_913.691455598 6_statuser 6_statuser 6_statuser 6_statuser 6_79.8220780664 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_54.1240879594
+roadinfo_3_0 3_statuser 3_1072.94958839 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1072.94958839 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_1268.78481131
+roadinfo_3_statuser 3_0 3_1189.49047872 6_statuser 6_statuser 6_0 6_1189.49047872 6_0 6_780.205020379 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_1211.95506944
+roadinfo_3_statuser 3_statuser 3_185.690992968 3_0 3_0 3_0 6_statuser 6_statuser 6_185.690992968 6_0 6_0 6_0 6_statuser 6_statuser 6_1157.00538402 6_0 6_statuser 6_statuser
+roadinfo_3_757.535034197 3_0 3_0 3_0 6_0 6_statuser 6_statuser 6_0 6_757.535034197 6_0 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_573.442071423 6_0 6_171.825175034 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_845.581690308
+roadinfo_6_statuser 6_statuser
+roadinfo_6_statuser 6_0 6_statuser 6_statuser 6_253.699403458
+roadinfo_6_0 6_1132.85040864
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_111.544480946 3_0 3_statuser 3_statuser 3_0 3_0 6_111.544480946 6_0 6_statuser 6_statuser 6_0 6_0
+roadinfo_3_689.006725309 3_0 3_0 3_0 6_689.006725309 6_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_787.164745923 3_0 3_495.3585326 6_0 6_787.164745923 6_0 6_495.3585326
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_1017.33112102 3_0 6_1017.33112102 6_0
+roadinfo_3_566.561769292 3_0 6_566.561769292 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_3_0 3_892.10301007 3_0 6_0 6_892.10301007 6_0
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_3_0 3_0 3_980.653225035 6_0 6_0 6_980.653225035
+roadinfo_UN 6_0 6_0 6_1034.19675252
+roadinfo_3_0 3_0 3_statuser 3_781.773996976 6_0 6_0 6_statuser 6_781.773996976 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_0 3_0 3_0 3_1114.0213237 3_609.059498749 6_statuser 6_0 6_0 6_0 6_0 6_1114.0213237 6_609.059498749 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_712.445167789 6_1183.31794137 6_861.530179034 6_0
+roadinfo_3_statuser 3_0 3_1152.53393951 3_0 3_0 6_statuser 6_0 6_statuser 6_0 6_1152.53393951 6_0 6_0 6_statuser 6_1251.33504408 6_statuser 6_0
+roadinfo_3_0 3_statuser 3_statuser 3_998.722584123 3_0 3_statuser 3_statuser 6_0 6_statuser 6_statuser 6_1282.62289228 6_0 6_statuser 6_statuser 6_998.722584123 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_0 3_0 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_1213.04867282 6_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_126.924117564
+roadinfo_3_statuser 3_1126.68543644 3_0 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1126.68543644 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_795.209353528 6_0 6_0 6_statuser
+roadinfo_3_1113.41500821 3_0 6_statuser 6_1113.41500821 6_0 6_949.44132765 6_0
+roadinfo_3_statuser 3_statuser 3_statuser 3_42.3840195282 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_42.3840195282 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_499.967677377 6_statuser 6_statuser
+roadinfo_3_54.7203741155 6_54.7203741155 6_statuser 6_statuser 6_259.47381368
+roadinfo_6_0 6_statuser 6_statuser 6_statuser 6_759.575897321 6_statuser 6_statuser 6_395.632601136 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_27.4663222409 6_151.443913087 6_0 6_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1211.31797989 6_0 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_596.146973694 6_statuser 6_statuser 6_20.8849871975 6_0
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_statuser 3_statuser 3_132.737575046 3_0 3_0 3_0 3_statuser 3_533.759053549 6_0 6_0 6_127.960885354 6_statuser 6_0 6_statuser 6_statuser 6_132.737575046 6_0 6_0 6_0 6_statuser 6_533.759053549 6_162.672175103 6_0 6_statuser 6_28.1512158449 6_0 6_statuser 6_statuser 6_statuser 6_618.047387558
+roadinfo_UN 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_880.711781941 6_0 6_statuser 6_statuser 6_1002.88137721 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_111.59852089 6_0 6_459.94918826 6_0 6_statuser 6_statuser 6_statuser 6_805.688672744
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_1251.66749049 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_0 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_557.339293439
+roadinfo_3_31.9299610727 3_0 6_31.9299610727 6_0 6_522.901600818
+roadinfo_3_1124.22546178 3_0 6_1124.22546178 6_0 6_statuser 6_statuser
+roadinfo_3_1098.52353887 3_0 6_1098.52353887 6_0
+roadinfo_3_1026.54763755 3_0 6_1026.54763755 6_0
+roadinfo_3_341.645490121 3_0 3_0 3_0 6_341.645490121 6_0 6_0 6_0 6_0 6_0
+roadinfo_3_1033.24526426 3_0 6_1033.24526426 6_0 6_459.70852313 6_0 6_504.298702842 6_0
+roadinfo_6_462.941440291 6_0 6_statuser
+roadinfo_6_1084.25828026 6_0
+roadinfo_6_1059.1766899 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_169.627011559 3_0 3_0 3_0 3_998.311445861 6_0 6_169.627011559 6_0 6_0 6_0 6_998.311445861 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_514.999432784 3_0 3_statuser 3_statuser 6_statuser 6_statuser 6_514.999432784 6_0 6_statuser 6_statuser
+roadinfo_3_735.376384271 3_0 6_735.376384271 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_827.435279051 6_0 6_827.435279051
+roadinfo_3_0 3_1059.34398718 6_0 6_1059.34398718
+roadinfo_3_0 3_1566.65709703 6_0 6_1566.65709703
+roadinfo_3_0 3_1355.48076662 6_0 6_1355.48076662
+roadinfo_
+roadinfo_
+roadinfo_3_1056.15793235 3_0 6_1056.15793235 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_968.998113025 6_0 6_968.998113025
+roadinfo_6_0 6_906.059720673
+roadinfo_6_statuser 6_statuser 6_240.420790965 6_0 6_0 6_0
+roadinfo_3_0 3_89.9844248585 6_0 6_89.9844248585 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_1254.83793526 3_0 3_0 3_836.056509841 6_statuser 6_statuser 6_1254.83793526 6_0 6_0 6_836.056509841 6_statuser 6_63.859477202 6_0 6_0 6_950.097430528
+roadinfo_3_31.5456500107 3_0 3_statuser 3_statuser 6_31.5456500107 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_667.225988436 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_0 3_0 6_statuser 6_statuser 6_statuser 6_0 6_0 6_0 6_311.44431643 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_79.8754425732 6_0 6_0 6_statuser 6_statuser
+roadinfo_6_statuser 6_357.192179692 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_0 3_0 3_565.361713729 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_0 6_statuser 6_0 6_565.361713729 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_1067.95939125 3_statuser 6_0 6_1067.95939125 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_813.201756722 6_statuser
+roadinfo_3_0 3_1179.11463674 6_statuser 6_statuser 6_0 6_1179.11463674 6_statuser 6_statuser 6_138.458431626 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser
+roadinfo_3_statuser 3_statuser 3_0 3_665.163452396 6_statuser 6_statuser 6_0 6_665.163452396 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_336.12300228 6_0 6_statuser 6_statuser 6_869.177304252
+roadinfo_3_973.140985749 3_0 3_statuser 6_973.140985749 6_0 6_statuser 6_statuser 6_statuser 6_1157.76391418 6_0 6_1263.96240049
+roadinfo_3_statuser 3_statuser 3_0 3_statuser 3_690.809508002 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_690.809508002 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_269.954112104 6_statuser 6_statuser 6_828.660564894 6_0 6_statuser 6_statuser 6_1142.77524205
+roadinfo_3_statuser 3_statuser 3_88.4857498293 3_0 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_88.4857498293 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_0 6_statuser 6_267.899619465
+roadinfo_3_0 3_statuser 3_statuser 3_44.455654313 3_0 3_0 3_statuser 3_766.540687763 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_44.455654313 6_0 6_0 6_statuser 6_766.540687763 6_statuser 6_1088.70379194 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_896.87307942
+roadinfo_3_statuser 3_0 3_statuser 3_268.23765114 3_0 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_268.23765114 6_0 6_statuser 6_statuser 6_858.902046623 6_0 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_0 3_0 3_statuser 3_statuser 3_statuser 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_18.2514785826 6_0 6_statuser 6_statuser 6_427.866149981 6_27.3372186356 6_statuser 6_931.015501404 6_0 6_0
+roadinfo_3_1086.84395293 3_0 6_statuser 6_1086.84395293 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_421.265912322 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_729.685381141 6_0 6_1118.48325727 6_0 6_statuser
+roadinfo_3_1153.40335692 3_0 6_statuser 6_1153.40335692 6_0 6_statuser 6_0 6_statuser 6_statuser 6_1183.81116391 6_0 6_statuser
+roadinfo_3_1228.13084377 3_0 6_1228.13084377 6_0 6_statuser 6_statuser 6_1229.2821907 6_0
+roadinfo_3_statuser 3_1055.58597469 3_0 3_statuser 3_statuser 6_statuser 6_1055.58597469 6_0 6_statuser 6_statuser 6_799.059575672 6_0
+roadinfo_3_367.433567749 3_0 6_367.433567749 6_0 6_1032.09164782 6_0 6_208.681933929 6_0
+roadinfo_3_0 6_0 6_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_6_0 6_0
+roadinfo_3_597.693621222 3_0 6_597.693621222 6_0 6_0 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_0 6_0 6_0 6_statuser 6_381.508163299 6_0
+roadinfo_6_1133.07323235 6_0
+roadinfo_3_811.690920855 3_0 6_811.690920855 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_0 3_1154.3402144 3_0 3_0 3_159.50829301 6_0 6_0 6_1154.3402144 6_0 6_0 6_159.50829301
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_774.436601555 6_0 6_774.436601555
+roadinfo_3_0 3_536.780019209 6_0 6_536.780019209
+roadinfo_3_0 3_697.742884308 6_0 6_697.742884308
+roadinfo_
+roadinfo_3_0 3_497.671850593 6_0 6_497.671850593
+roadinfo_3_0 3_807.515112185 6_0 6_807.515112185
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_869.11793974 3_0 6_869.11793974 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_889.843373061 6_0 6_889.843373061
+roadinfo_6_0 6_902.421787923
+roadinfo_6_statuser 6_statuser 6_769.677350506 6_0
+roadinfo_6_0 6_1089.19057631 6_statuser 6_statuser 6_statuser 6_statuser 6_14.3346450698 6_0 6_statuser
+roadinfo_3_statuser 3_0 3_909.641462507 6_statuser 6_statuser 6_statuser 6_0 6_909.641462507 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_336.361086895
+roadinfo_3_977.554766409 3_0 6_977.554766409 6_0 6_statuser 6_statuser 6_631.693909941 6_0
+roadinfo_3_statuser 3_statuser 3_statuser 3_0 3_859.29144464 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_859.29144464 6_79.1261411587 6_0 6_statuser 6_statuser 6_statuser 6_0 6_779.280556216
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_772.737160315 6_0 6_statuser 6_statuser
+roadinfo_6_statuser 6_464.913226853 6_0 6_statuser 6_statuser 6_statuser 6_1.8092995365 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_statuser 3_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_407.07803508 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_464.20162622 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_655.561927415 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_638.107630217
+roadinfo_6_statuser 6_104.886694175 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_292.689313699 6_0 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_6_0 6_0 6_statuser 6_584.91596704 6_0 6_0 6_statuser 6_statuser 6_794.916316941 6_statuser 6_statuser 6_0 6_144.930199394 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_45.5709237958 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_27.2569771437
+roadinfo_3_statuser 3_682.575303655 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_682.575303655 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0
+roadinfo_3_0 3_statuser 6_0 6_statuser 6_statuser 6_statuser 6_1126.2964789 6_0 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_1148.24140522 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_745.445407597 6_0 6_statuser 6_803.617579683
+roadinfo_6_statuser 6_statuser 6_851.897485633 6_0
+roadinfo_
+roadinfo_6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_6_0 6_0
+roadinfo_6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_6_0 6_0
+roadinfo_6_1058.58486723 6_0 6_statuser 6_statuser
+roadinfo_3_1069.7324329 3_0 6_1069.7324329 6_0 6_statuser 6_statuser 6_260.298008147 6_0 6_statuser 6_statuser
+roadinfo_3_8.22708930045 3_0 6_8.22708930045 6_0
+roadinfo_3_597.217511638 3_0 6_597.217511638 6_0 6_statuser 6_statuser 6_1042.72718244 6_0
+roadinfo_6_0 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_statuser 3_statuser 3_977.14962866 3_0 6_statuser 6_statuser 6_977.14962866 6_0
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_3_951.523575548 3_0 3_1248.36749622 3_0 6_951.523575548 6_0 6_1248.36749622 6_0
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_3_0 3_826.914584308 3_statuser 3_statuser 6_0 6_826.914584308 6_statuser 6_statuser
+roadinfo_6_0 6_542.77552399 6_361.983133216 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_1101.43312663 6_0
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1127.02803074 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_947.300488702 6_statuser 6_statuser 6_0 6_947.300488702 6_statuser 6_statuser 6_612.437835509 6_0 6_503.212950985 6_0 6_statuser
+roadinfo_6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_76.2312094102 6_0 6_statuser
+roadinfo_3_statuser 3_statuser 3_0 3_904.846520291 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_904.846520291 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_901.625061593 6_statuser
+roadinfo_3_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_0 6_208.46198676 6_635.500729632 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_1250.20345738 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_215.060326699 3_0 3_statuser 3_statuser 6_215.060326699 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_515.061120449 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_281.438009292 6_statuser 6_statuser 6_547.485666164 6_statuser
+roadinfo_3_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_295.568637414 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_104.243085455 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_110.681570181 6_0 6_statuser
+roadinfo_6_statuser 6_243.296478595 6_0 6_124.635140202 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_0 6_statuser 6_statuser 6_1220.17677591 6_0 6_1066.66499355 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_1049.67993913 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_845.095911524 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_104.188598811 6_0 6_57.2091835868 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0
+roadinfo_3_0 3_statuser 3_0 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_1214.9276284 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_statuser 3_statuser 6_0 6_statuser 6_1233.23291131 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_863.160466377 6_45.5656860184
+roadinfo_6_statuser 6_0 6_statuser 6_statuser 6_1227.63795322
+roadinfo_6_0 6_1072.84365754
+roadinfo_6_statuser 6_statuser 6_0 6_400.330592324
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_6_564.669986533 6_0
+roadinfo_6_statuser 6_statuser 6_statuser 6_318.499982102 6_0
+roadinfo_3_990.914704855 3_0 3_539.672612082 3_0 6_990.914704855 6_0 6_539.672612082 6_0 6_statuser 6_statuser 6_514.414847293 6_0
+roadinfo_3_334.194274386 3_0 3_statuser 3_statuser 3_statuser 3_statuser 3_statuser 3_statuser 6_334.194274386 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_959.562173618 6_0
+roadinfo_6_1071.41367696 6_0
+roadinfo_6_592.861247075 6_0 6_statuser 6_statuser 6_0 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_3_708.275240535 3_0 6_708.275240535 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_840.836991146 3_481.111571699 3_0 3_statuser 3_statuser 6_0 6_840.836991146 6_481.111571699 6_0 6_1036.64031253 6_0 6_statuser 6_statuser 6_692.374902454 6_0 6_statuser 6_statuser
+roadinfo_3_1073.30202968 3_0 6_1073.30202968 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1184.91119336 6_0
+roadinfo_3_1072.77862341 3_0 6_1072.77862341 6_0 6_statuser 6_statuser 6_1172.73961236 6_0
+roadinfo_3_0 3_762.194371841 3_statuser 6_0 6_762.194371841 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1008.99538537 6_0 6_statuser 6_statuser 6_1057.05478501 6_0
+roadinfo_3_statuser 3_0 3_statuser 3_statuser 3_statuser 3_199.793434786 3_statuser 6_0 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_199.793434786 6_statuser 6_802.47458277 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_469.241774627 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_1082.60524165 3_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_1082.60524165 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_89.8302143464 6_0
+roadinfo_3_statuser 3_statuser 3_statuser 3_0 3_statuser 3_0 3_1125.99454281 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_0 6_1125.99454281 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_374.163940354 6_0 6_statuser 6_198.373077951 6_statuser 6_statuser
+roadinfo_3_statuser 3_0 3_statuser 3_1060.22781149 3_statuser 3_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_1060.22781149 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1134.6499911 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_1027.37532274 3_0 6_statuser 6_statuser 6_statuser 6_statuser 6_1027.37532274 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_951.578204406 6_0 6_statuser
+roadinfo_3_961.687483794 3_0 3_statuser 3_statuser 3_statuser 6_961.687483794 6_statuser 6_0 6_286.994715926 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_530.219093854 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_826.452563141 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_468.935652864 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_0 6_statuser 6_110.738375357 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_446.502335309 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_320.485510557 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_959.799478241 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_528.61982864 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 3_statuser 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_938.134754686 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0
+roadinfo_3_0 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_statuser 3_statuser 3_statuser 3_statuser 6_0 6_statuser 6_statuser 6_statuser 6_1183.8551347 6_statuser 6_statuser 6_962.359695369 6_0 6_0 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1138.10828998 6_0 6_606.145784125
+roadinfo_6_statuser 6_statuser 6_statuser 6_1234.82172967 6_0
+roadinfo_6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_422.298428642 3_0 6_422.298428642 6_0
+roadinfo_3_400.944235919 3_0 3_0 6_400.944235919 6_0 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_6_statuser 6_statuser 6_statuser 6_0 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_522.76988691 3_0 6_522.76988691 6_0 6_0
+roadinfo_6_257.691639886 6_0 6_statuser 6_statuser
+roadinfo_6_857.136989709 6_0 6_statuser 6_statuser
+roadinfo_6_1045.81169921 6_0 6_statuser 6_statuser 6_458.26290414 6_0
+roadinfo_3_statuser 3_0 3_755.456154411 6_statuser 6_0 6_755.456154411 6_1151.25415939 6_0 6_885.412207265 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_1183.07659319 6_0 6_1099.95323889 6_0 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_980.658070055 6_0 6_1166.26268623 6_0 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_1016.13546306 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_20.3502058375 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_0 6_statuser 6_1183.14855137 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_0 6_1006.75483507 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_944.384242118 6_0 6_statuser 6_statuser 6_0 6_statuser
+roadinfo_3_statuser 6_statuser 6_0 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_1139.06152108 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1184.03648313 6_0 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1055.88592259 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_statuser 6_0 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_45.645458929 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1171.51721663 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_855.91348798 6_0 6_statuser
+roadinfo_6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1006.37942345 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_784.123628198 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_184.777965498 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1078.65763979 6_0 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_statuser 3_statuser 3_statuser 3_0 3_175.71911873 3_statuser 3_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_175.71911873 6_statuser 6_statuser 6_192.665503111 6_1140.88509063 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser
+roadinfo_3_0 3_statuser 3_1167.5279813 6_0 6_statuser 6_statuser 6_0 6_statuser 6_1012.03496244 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_1167.5279813 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_statuser 3_statuser 3_statuser 3_statuser 3_statuser 3_704.161919926 3_0 3_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_781.263736735 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_704.161919926 6_0 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 3_statuser 3_statuser 3_statuser 3_1126.63349569 3_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1126.63349569 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_340.448224987 6_statuser
+roadinfo_3_812.899235845 3_statuser 3_0 6_812.899235845 6_statuser 6_0 6_statuser 6_1130.95655139 6_0
+roadinfo_3_statuser 3_100.288515521 3_0 6_statuser 6_100.288515521 6_0 6_1172.83720897 6_0
+roadinfo_3_1195.58116255 3_0 6_1195.58116255 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_1275.83423029 6_0
+roadinfo_3_statuser 3_statuser 3_1075.20421286 3_0 6_statuser 6_statuser 6_1075.20421286 6_0 6_1083.02870681 6_0
+roadinfo_3_1146.31688144 3_0 6_1146.31688144 6_0 6_1165.78981663 6_0
+roadinfo_3_1160.06468827 3_0 6_1160.06468827 6_0 6_statuser 6_statuser 6_1084.76835298 6_0
+roadinfo_3_1126.89168619 3_0 6_1126.89168619 6_0 6_1255.52428339 6_0
+roadinfo_3_515.675024672 3_0 3_1212.48136907 3_0 6_515.675024672 6_0 6_1212.48136907 6_0 6_0 6_1289.66576759 6_0
+roadinfo_3_1254.06739528 3_0 3_1244.14101892 3_0 6_1254.06739528 6_0 6_1244.14101892 6_0 6_statuser 6_statuser
+roadinfo_3_905.947667365 3_0 3_statuser 3_statuser 6_887.284412131 6_905.947667365 6_0 6_statuser 6_statuser 6_0
+roadinfo_6_1076.81856544 6_0
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_960.978536926 6_0
+roadinfo_6_796.954917524 6_0 6_statuser 6_statuser 6_306.254068428 6_0
+roadinfo_6_statuser 6_0 6_0 6_818.877975838
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_UN
+roadinfo_6_statuser 6_statuser
+roadinfo_6_49.5294178225 6_statuser 6_statuser 6_statuser 6_statuser 6_0
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1179.1494708 6_0 6_0 6_0 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_0 6_statuser 6_0 6_774.867305191 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_937.878384989 6_0
+roadinfo_6_71.14878966 6_0 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1099.32383959 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_0 6_statuser 6_statuser 6_478.257220518 6_0 6_460.068343885 6_0 6_616.00546038 6_0 6_1137.67970076 6_0 6_statuser 6_statuser
+roadinfo_6_37.9292675411 6_statuser 6_0 6_statuser 6_statuser 6_134.084634069 6_0 6_statuser 6_0 6_0 6_77.1421267757 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_72.0486212975 6_0 6_statuser 6_statuser 6_statuser 6_0 6_statuser
+roadinfo_3_statuser 6_statuser 6_0 6_statuser 6_0 6_0
+roadinfo_6_statuser 6_statuser 6_statuser 6_594.799709501 6_0 6_474.01934327 6_0 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_271.726101194 3_statuser 6_0 6_271.726101194 6_statuser 6_statuser 6_53.8782624024 6_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_464.42398892 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_558.893914557 6_0 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_317.482643875 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_1122.83280321 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_882.659274355 6_0 6_260.884672393 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_268.758018717 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_831.079506791 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_statuser 3_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1331.23032495 6_0 6_statuser 6_statuser 6_statuser 6_1061.46962335 6_0 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0
+roadinfo_6_1197.81092225 6_statuser 6_0 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_248.124863168 6_0 6_0 6_20.3496873082
+roadinfo_6_statuser 6_statuser 6_1247.40751074 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_980.702444225 6_0
+roadinfo_6_805.247971073 6_0
+roadinfo_6_1012.98616433 6_0 6_statuser 6_statuser
+roadinfo_6_919.239256741 6_0
+roadinfo_6_865.515229878 6_0 6_statuser 6_statuser
+roadinfo_3_209.960678306 3_0 6_209.960678306 6_0 6_1084.68697265 6_0
+roadinfo_3_statuser 3_statuser 3_statuser 3_409.283357274 3_0 6_statuser 6_statuser 6_statuser 6_409.283357274 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_6_301.108401411 6_0
+roadinfo_6_0 6_340.15310032 6_1232.70546816 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_0 3_0 3_870.22825769 3_0 6_0 6_0 6_870.22825769 6_0 6_830.64071195 6_0
+roadinfo_3_statuser 3_40.4560858926 3_0 3_statuser 3_1230.1243591 3_0 6_statuser 6_40.4560858926 6_0 6_statuser 6_1230.1243591 6_0 6_341.648583665 6_statuser 6_statuser 6_0
+roadinfo_3_410.725914326 3_0 3_statuser 3_statuser 3_1237.2798809 3_0 6_410.725914326 6_0 6_statuser 6_statuser 6_1237.2798809 6_0 6_statuser 6_373.288490603 6_0 6_statuser 6_statuser 6_statuser
+roadinfo_3_1158.50867105 3_0 3_948.894904039 3_0 6_1158.50867105 6_0 6_948.894904039 6_0 6_statuser 6_statuser 6_1159.35548055 6_0
+roadinfo_3_1214.42769983 3_0 3_statuser 3_statuser 6_1214.42769983 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_0 3_852.69083475 3_0 6_statuser 6_0 6_852.69083475 6_0 6_statuser 6_0 6_statuser 6_statuser
+roadinfo_3_1244.08670266 3_0 6_1244.08670266 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0
+roadinfo_3_1178.26996664 3_0 6_1178.26996664 6_0 6_1004.66318253 6_0 6_statuser 6_0 6_statuser 6_statuser
+roadinfo_3_1185.93437444 3_0 6_statuser 6_1185.93437444 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_statuser
+roadinfo_3_statuser 3_statuser 3_741.23599517 3_0 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_741.23599517 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_486.43016848 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_1200.68029692 3_0 3_statuser 6_statuser 6_statuser 6_statuser 6_1200.68029692 6_0 6_statuser 6_57.1061421558 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 3_1120.59525414 3_0 6_statuser 6_statuser 6_statuser 6_statuser 6_1120.59525414 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_35.8497458632 6_0 6_0 6_statuser
+roadinfo_3_statuser 3_761.701379593 3_0 6_statuser 6_statuser 6_statuser 6_statuser 6_761.701379593 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_1072.84138872 6_0
+roadinfo_3_459.594622204 3_0 3_statuser 3_statuser 6_statuser 6_459.594622204 6_0 6_statuser 6_statuser 6_613.561841656 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_763.487019902 3_statuser 3_statuser 3_statuser 3_1177.30293098 3_0 6_0 6_763.487019902 6_statuser 6_0 6_statuser 6_statuser 6_1177.30293098 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1043.79728286 6_0
+roadinfo_6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_347.36817252 6_0 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_826.854192125 6_0
+roadinfo_6_statuser 6_statuser 6_283.983858155 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1113.23078364 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_0 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_733.468385974 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_496.520693902 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_765.734836272 6_0 6_statuser 6_statuser 6_statuser 6_73.014374103 6_0 6_statuser 6_statuser 6_statuser 6_0
+roadinfo_3_0 3_statuser 3_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1271.03290164 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1101.0906707 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_194.568591339 6_0 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_17.8435836583 6_0 6_statuser 6_307.867790408 6_0
+roadinfo_6_statuser 6_statuser 6_1086.8000884 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 6_statuser 6_365.507310182 6_statuser 6_statuser 6_0
+roadinfo_6_statuser 6_0 6_0
+roadinfo_6_879.930359755 6_0
+roadinfo_6_1025.81632469 6_statuser 6_0
+roadinfo_6_statuser 6_419.208890817 6_0
+roadinfo_6_981.909423536 6_0
+roadinfo_3_185.239693829 3_0 6_185.239693829 6_0 6_1038.84979051 6_0 6_statuser 6_statuser
+roadinfo_3_1175.14510731 3_0 3_0 3_0 6_1175.14510731 6_0 6_0 6_0 6_580.803152753 6_0
+roadinfo_3_1074.44402758 3_statuser 3_0 3_statuser 3_statuser 3_890.405997079 3_0 6_1074.44402758 6_statuser 6_0 6_statuser 6_statuser 6_890.405997079 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_768.122223377 3_0 3_0 3_0 3_0 3_0 6_768.122223377 6_0 6_0 6_0 6_0 6_0
+roadinfo_3_statuser 3_0 3_0 3_statuser 3_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_583.731894079 3_0 6_statuser 6_statuser 6_583.731894079 6_0
+roadinfo_3_450.120794505 3_0 6_450.120794505 6_0
+roadinfo_3_0 3_statuser 3_0 6_0 6_statuser 6_0
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_53.1253233639 3_0 6_0 6_53.1253233639 6_0 6_935.36643862
+roadinfo_3_0 3_0 3_14.5610149701 3_0 6_0 6_0 6_0 6_14.5610149701 6_0 6_420.463709412
+roadinfo_3_1069.41073321 3_0 6_statuser 6_1069.41073321 6_0 6_statuser 6_877.10507055 6_0
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_450.955198964 6_0 6_256.890383211 6_0
+roadinfo_6_0 6_0 6_0 6_statuser 6_0 6_0
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_513.212622963 6_0 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_0 6_statuser 6_0 6_919.779359549 6_0 6_0
+roadinfo_6_statuser 6_statuser 6_1378.68251882 6_0 6_0 6_statuser 6_statuser
+roadinfo_6_1098.35511108 6_0 6_0 6_0 6_327.431323058 6_statuser 6_statuser
+roadinfo_6_0 6_statuser 6_statuser 6_statuser 6_1100.10112073 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_0 6_0
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_535.100880356 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_1177.95111177 6_0 6_890.104396934 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_41.6091649916 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser
+roadinfo_3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1016.48004831 6_0 6_statuser 6_statuser
+roadinfo_6_statuser 6_666.806974384 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_0
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 6_statuser 6_statuser 6_statuser 6_1073.11081863 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_44.0543106352 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1070.65684759 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_357.095010718 6_0 6_statuser 6_statuser
+roadinfo_6_186.183890284 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_437.50979618 6_statuser 6_981.754724829 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0
+roadinfo_6_197.063361384 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_statuser 3_statuser 3_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_223.13676769 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_907.334439739 6_0 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_147.008072761 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0
+roadinfo_6_statuser 6_statuser 6_statuser 6_342.870287914 6_364.122871893 6_0 6_statuser 6_statuser 6_statuser 6_0 6_92.2722874186 6_0
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_statuser
+roadinfo_6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_6_statuser 6_statuser
+roadinfo_6_36.1628021353 6_0 6_statuser 6_statuser
+roadinfo_3_0 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_122.606760086 3_1047.67774186 3_0 6_0 6_122.606760086 6_1047.67774186 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_727.024030807 3_0 6_statuser 6_statuser 6_727.024030807 6_0
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 3_222.192473058 3_0 6_statuser 6_statuser 6_statuser 6_statuser 6_222.192473058 6_0
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_403.192014081 3_0 6_403.192014081 6_0
+roadinfo_3_843.807960377 3_0 6_843.807960377 6_0
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_0 3_0 3_1014.93192674 3_0 6_0 6_0 6_1014.93192674 6_0 6_960.608447714 6_0
+roadinfo_3_35.4328236056 3_0 3_1329.07516796 3_0 6_35.4328236056 6_0 6_1329.07516796 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_6_0 6_0 6_0 6_0
+roadinfo_6_1266.13176224 6_0 6_1165.7570163 6_0
+roadinfo_6_0 6_statuser 6_statuser 6_535.553695647 6_969.902223313 6_0 6_1075.71802667 6_0
+roadinfo_3_0 3_0 6_statuser 6_0 6_0 6_statuser 6_statuser 6_866.456725056 6_0 6_statuser 6_statuser 6_1057.33344984 6_0
+roadinfo_6_863.237882293 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_0 6_974.517767812 6_1155.6266094 6_0
+roadinfo_6_948.78487862 6_0
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_595.99610781 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_871.01559714
+roadinfo_6_0 6_826.163984622 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 3_0 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_974.25867898 6_0 6_statuser 6_statuser 6_112.636615759 6_0 6_0 6_statuser 6_726.927576889 6_0 6_statuser
+roadinfo_3_48.4499725015 3_0 6_48.4499725015 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_37.156560677 6_0 6_statuser 6_statuser
+roadinfo_3_1168.06773702 3_0 6_1168.06773702 6_0 6_statuser 6_statuser 6_1241.85731828 6_0
+roadinfo_3_statuser 3_0 3_553.666619351 3_202.856827274 3_0 3_statuser 3_statuser 3_statuser 3_statuser 3_0 3_statuser 3_statuser 3_0 6_statuser 6_0 6_statuser 6_553.666619351 6_202.856827274 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1117.28619867 6_0 6_171.283956319 6_statuser 6_156.586721983 6_0
+roadinfo_3_statuser 3_0 3_statuser 3_statuser 3_statuser 3_statuser 3_statuser 3_statuser 3_0 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1188.91276419 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_819.906311809 6_0
+roadinfo_UN 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_190.635325038
+roadinfo_UN 6_statuser 6_statuser 6_statuser 6_348.861904002 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_UN 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_446.582848287 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_UN 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1022.3502112 6_0 6_statuser 6_statuser 6_statuser 6_458.266789162 6_0
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_977.95760721 6_0 6_statuser 6_426.982684862 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_187.584426625 6_0 6_573.602858233 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_868.336702367 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_973.147781638 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1291.04165509 6_statuser
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_79.3763301458 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_0 6_0 6_statuser 6_statuser 6_1163.13985538 6_0 6_308.982769113 6_0
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_659.045659806 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_771.730997828 6_0 6_statuser 6_statuser 6_statuser
+roadinfo_6_1248.36716967 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 3_120.975356379 3_0 6_statuser 6_statuser 6_statuser 6_120.975356379 6_0 6_statuser 6_statuser
+roadinfo_3_1107.98508644 3_0 6_1107.98508644 6_0
+roadinfo_3_690.586568687 3_0 6_690.586568687 6_0
+roadinfo_3_statuser 3_statuser 3_0 3_0 6_statuser 6_statuser 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_6_0 6_0 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser
+roadinfo_
+roadinfo_6_statuser 6_statuser
+roadinfo_
+roadinfo_3_statuser 3_statuser 3_716.423969781 3_0 6_statuser 6_statuser 6_716.423969781 6_0
+roadinfo_3_838.446697992 3_0 6_838.446697992 6_0
+roadinfo_3_1141.24837454 3_0 6_1141.24837454 6_0
+roadinfo_3_1195.42308981 3_0 6_1195.42308981 6_0
+roadinfo_3_277.261808964 3_0 3_936.335039046 3_0 6_277.261808964 6_0 6_936.335039046 6_0
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_671.808710429 3_0 6_671.808710429 6_0
+roadinfo_3_299.327960094 3_0 6_299.327960094 6_0
+roadinfo_
+roadinfo_
+roadinfo_6_0 6_853.420847273
+roadinfo_6_statuser 6_statuser
+roadinfo_3_0 3_0 6_0 6_0 6_statuser 6_statuser
+roadinfo_6_950.222300422 6_0 6_statuser 6_statuser
+roadinfo_6_1549.41789264 6_0 6_0 6_846.360931027
+roadinfo_6_1182.98249027 6_0
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_305.44211268 6_0 6_statuser 6_505.17399146 6_0 6_statuser 6_statuser 6_546.114524216 6_0 6_statuser 6_statuser 6_0 6_statuser 6_0
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_748.421427202 6_1059.80453784 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_571.386525628 6_0
+roadinfo_3_statuser 3_statuser 3_0 3_statuser 3_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_113.443378229 6_0 6_73.3735817523 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_14.9230951434 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_0 6_427.553914422 6_statuser 6_statuser 6_730.514265886 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_statuser 3_statuser 3_0 6_0 6_31.9329021427 6_0 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser
+roadinfo_3_statuser 3_0 3_statuser 3_479.695132083 3_0 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_479.695132083 6_0 6_statuser 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_554.883830348 6_0
+roadinfo_3_statuser 3_statuser 3_statuser 3_731.184871466 3_0 3_statuser 3_0 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_731.184871466 6_0 6_statuser 6_statuser 6_0 6_statuser 6_231.534571117 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_302.889574022 6_525.209453586 6_0 6_0 6_statuser 6_statuser 6_statuser 6_0 6_statuser
+roadinfo_3_statuser 3_statuser 3_455.312368559 3_0 3_statuser 6_statuser 6_statuser 6_455.312368559 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1170.22741109 6_0 6_statuser 6_statuser 6_statuser 6_1106.33196333 6_0
+roadinfo_3_statuser 3_1045.10217675 3_statuser 3_statuser 3_0 6_statuser 6_1045.10217675 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_1047.55821449 6_0
+roadinfo_3_statuser 3_statuser 3_0 3_statuser 3_270.301612334 3_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_270.301612334 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1257.41369542 6_0 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 3_0 3_statuser 3_statuser 3_statuser 3_statuser 3_statuser 3_1064.12843944 3_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1064.12843944 6_0 6_0 6_171.119067884 6_statuser 6_880.839769204 6_0 6_0 6_371.840361083 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_0 3_statuser 3_0 3_statuser 3_statuser 3_0 6_0 6_statuser 6_statuser 6_0 6_statuser 6_0 6_55.7629076098 6_statuser 6_statuser 6_303.008210344 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_810.545999186 6_0 6_0 6_statuser 6_statuser 6_statuser 6_288.664444371 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 3_0 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1310.37334748 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_0 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1149.29468079 6_0
+roadinfo_3_statuser 6_statuser 6_statuser 6_statuser 6_755.679766159 6_0 6_statuser 6_statuser 6_476.761088742 6_0 6_statuser 6_statuser 6_307.416631753 6_0 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_670.115914174 3_0 6_statuser 6_670.115914174 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 3_863.659571793 3_0 6_statuser 6_863.659571793 6_0
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0 6_0 6_365.97032495 6_statuser 6_statuser
+roadinfo_3_408.544563675 3_0 6_408.544563675 6_0 6_statuser 6_statuser
+roadinfo_3_779.075295806 3_0 6_779.075295806 6_0
+roadinfo_3_1011.89661947 3_0 6_1011.89661947 6_0 6_statuser 6_statuser
+roadinfo_3_552.803038162 3_0 6_552.803038162 6_0
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_6.25275261274 3_0 6_6.25275261274 6_0
+roadinfo_3_0 3_0 3_470.615818016 3_0 3_statuser 3_statuser 3_statuser 3_statuser 6_0 6_0 6_470.615818016 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_993.760338998 3_0 6_993.760338998 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0 6_710.266627632 6_0 6_statuser 6_statuser
+roadinfo_6_198.770317774 6_0 6_statuser 6_statuser
+roadinfo_6_0 6_988.796256958 6_statuser 6_statuser
+roadinfo_
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_438.255914725 6_0 6_statuser 6_statuser 6_74.181281887 6_0 6_statuser 6_statuser 6_415.763947388 6_0 6_0 6_statuser 6_statuser 6_0 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_0 6_112.875972217 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_statuser 3_0 3_statuser 3_0 3_statuser 3_368.553715357 6_0 6_statuser 6_0 6_statuser 6_0 6_statuser 6_statuser 6_368.553715357 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_206.203309724 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_288.463826008 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_0 3_0 6_0 6_0 6_0 6_89.881542104 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0
+roadinfo_UN 6_0 6_1253.08388237 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_772.117977129 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser
+roadinfo_UN 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_794.919936188 6_9.8108660317 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_456.059356026 6_0
+roadinfo_UN 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_227.13879212 6_0 6_1428.70075822 6_0 6_317.522284098 6_0
+roadinfo_UN 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_908.241212266 6_0 6_statuser 6_statuser 6_704.274800346 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_651.02626699 6_0
+roadinfo_UN 6_statuser 6_statuser 6_statuser 6_statuser 6_1010.78105983 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_1206.71311536 6_0
+roadinfo_3_0 3_statuser 3_0 3_0 6_208.970777741 6_0 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_447.183952995 6_0 6_0 6_statuser 6_statuser 6_statuser 6_0
+roadinfo_3_statuser 3_0 3_statuser 3_statuser 3_statuser 3_0 3_statuser 3_statuser 3_413.825993763 3_0 3_435.580741128 3_0 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_413.825993763 6_0 6_435.580741128 6_0 6_0 6_statuser 6_statuser 6_statuser 6_4.60093671613 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0
+roadinfo_3_0 3_statuser 3_0 6_0 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 3_0 6_statuser 6_statuser 6_statuser 6_0 6_345.150261809 6_statuser 6_statuser 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_statuser 6_543.08927501 6_0
+roadinfo_3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_870.983032577 3_0 6_statuser 6_870.983032577 6_0 6_1082.15373868 6_0
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 3_837.5655073 3_0 6_statuser 6_837.5655073 6_0
+roadinfo_
+roadinfo_6_0 6_487.892667687
+roadinfo_6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_3_1905.83938147 3_0 6_1905.83938147 6_0
+roadinfo_3_147.271034489 3_0 6_147.271034489 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 3_891.845392458 3_0 6_0 6_0 6_891.845392458 6_0
+roadinfo_3_0 3_0 3_statuser 3_statuser 6_0 6_0 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0 6_statuser 6_statuser
+roadinfo_
+roadinfo_6_0 6_980.085455418 6_statuser 6_statuser
+roadinfo_6_337.631399782 6_0
+roadinfo_3_0 3_statuser 3_statuser 3_433.899568692 3_0 6_0 6_0 6_150.736737367 6_0 6_statuser 6_statuser 6_433.899568692 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_277.057561814 6_0
+roadinfo_3_0 3_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_285.732447032 6_558.182698013 6_0 6_statuser
+roadinfo_3_0 3_0 3_0 3_0 3_statuser 3_statuser 6_0 6_0 6_0 6_0 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_0 3_0 3_0 3_1172.20698396 3_0 6_0 6_statuser 6_0 6_0 6_0 6_1172.20698396 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1201.17766517 6_0
+roadinfo_3_statuser 3_0 3_0 3_0 3_1216.61611253 3_0 3_0 6_statuser 6_statuser 6_0 6_0 6_0 6_1216.61611253 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_476.290552317 6_statuser 6_statuser 6_1250.72508717 6_0
+roadinfo_3_statuser 3_0 3_0 3_929.161687968 3_0 3_statuser 3_statuser 3_statuser 3_0 6_statuser 6_statuser 6_0 6_0 6_929.161687968 6_0 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_0 6_971.80146746 6_0 6_statuser 6_statuser 6_0
+roadinfo_3_647.391594886 3_0 3_statuser 3_0 3_0 3_statuser 3_statuser 3_statuser 6_statuser 6_647.391594886 6_0 6_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_428.435003274 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1178.65097 6_0 6_statuser
+roadinfo_3_1029.02529201 3_0 3_statuser 3_statuser 3_statuser 3_statuser 3_statuser 3_statuser 3_0 3_statuser 3_statuser 3_statuser 3_statuser 6_1029.02529201 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_822.554867074 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser
+roadinfo_3_1059.91605432 3_statuser 3_0 3_statuser 3_0 6_1059.91605432 6_statuser 6_statuser 6_0 6_statuser 6_0 6_statuser 6_statuser 6_1047.55319335 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0
+roadinfo_3_statuser 3_146.391242621 3_statuser 3_0 3_statuser 3_0 6_statuser 6_146.391242621 6_statuser 6_statuser 6_0 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_396.267373532 6_0
+roadinfo_3_statuser 3_0 3_statuser 3_statuser 3_statuser 3_0 3_407.840700133 3_0 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_407.840700133 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_239.936334161 6_statuser 6_statuser 6_1141.95559049 6_0 6_statuser
+roadinfo_3_statuser 3_0 3_statuser 3_0 3_0 3_469.07393209 3_1115.47444164 3_statuser 6_statuser 6_statuser 6_0 6_statuser 6_0 6_0 6_statuser 6_statuser 6_0 6_statuser 6_469.07393209 6_1115.47444164 6_statuser 6_313.321892045 6_0 6_statuser 6_statuser 6_112.978534664 6_0 6_statuser 6_statuser 6_statuser 6_0 6_1125.22663314 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_0 3_0 3_97.5333438036 3_0 3_0 3_0 6_statuser 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_97.5333438036 6_0 6_0 6_0 6_statuser 6_statuser 6_998.75694209 6_0 6_statuser 6_statuser 6_672.542953777 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_0 3_statuser 3_statuser 3_278.34866016 3_583.496464395 3_0 3_492.644925136 3_0 3_statuser 3_0 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_278.34866016 6_583.496464395 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_492.644925136 6_0 6_statuser 6_0 6_155.976309619 6_0 6_statuser 6_statuser 6_statuser 6_7.77900121271 6_0
+roadinfo_3_statuser 3_statuser 3_0 6_statuser 6_statuser 6_0 6_0 6_151.370927976 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_54.5240001338 6_statuser 6_statuser
+roadinfo_3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1892.2900899 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 3_938.741164636 3_0 6_statuser 6_938.741164636 6_0 6_219.39541281 6_0
+roadinfo_3_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 3_667.167128099 3_0 6_statuser 6_667.167128099 6_0
+roadinfo_
+roadinfo_6_0 6_720.46422315
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_3_1133.24792946 3_0 6_1133.24792946 6_0
+roadinfo_3_992.607538846 3_0 6_992.607538846 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 3_852.891735575 3_0 6_0 6_0 6_852.891735575 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0 6_1138.48134857 6_0 6_statuser 6_statuser
+roadinfo_6_0 6_133.376607768 6_1238.64054573 6_0
+roadinfo_6_0 6_845.359735697 6_919.997177392 6_0 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_1063.48278224 6_0
+roadinfo_3_0 3_133.416835345 3_0 6_0 6_0 6_133.416835345 6_0 6_0 6_0 6_144.246910488 6_0
+roadinfo_3_0 3_0 3_1075.60572719 3_statuser 6_0 6_0 6_0 6_statuser 6_0 6_1075.60572719 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_0 6_statuser 6_839.149936905 6_0
+roadinfo_3_0 3_statuser 3_statuser 6_statuser 6_0 6_0 6_0 6_statuser 6_statuser 6_0 6_statuser 6_30.0549479356 6_statuser 6_statuser 6_statuser 6_427.354778983 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_0 3_0 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_654.549728139 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_176.222153139 6_0 6_statuser
+roadinfo_3_0 3_0 3_0 6_statuser 6_0 6_0 6_statuser 6_0 6_911.990454843 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_0 3_0 3_statuser 3_statuser 3_0 3_statuser 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_91.1028838406 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_0 3_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_1221.05253073 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 3_0 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_773.869895075 6_0 6_386.779433104 6_statuser 6_statuser
+roadinfo_3_0 6_statuser 6_0 6_statuser 6_statuser 6_485.051374936 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_1207.28375141 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 6_statuser 6_0 6_statuser 6_statuser 6_1146.29330067 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_0 3_0 3_961.387079937 3_0 6_statuser 6_statuser 6_0 6_0 6_733.401369943 6_statuser 6_961.387079937 6_0 6_statuser 6_statuser 6_0 6_0 6_0 6_0 6_542.495857842 6_0 6_300.243135234 6_0
+roadinfo_3_statuser 3_0 3_0 3_0 3_0 6_statuser 6_statuser 6_0 6_0 6_0 6_statuser 6_0 6_statuser 6_55.4676604499 6_0 6_statuser 6_statuser 6_812.150527486 6_0 6_statuser 6_statuser 6_594.796406168 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 3_654.498496945 3_0 3_statuser 3_304.708611816 3_0 3_0 6_statuser 6_statuser 6_statuser 6_statuser 6_654.498496945 6_0 6_statuser 6_statuser 6_statuser 6_304.708611816 6_0 6_0 6_statuser 6_statuser 6_0 6_330.755479106 6_0 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_0 3_82.7436771537 3_statuser 3_0 3_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_11.6813601839 6_0 6_82.7436771537 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_690.302419613 6_statuser 6_47.5061087845 6_0
+roadinfo_3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1231.4298454 6_0
+roadinfo_3_statuser 3_746.04070608 3_0 6_statuser 6_746.04070608 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_0 3_0 6_statuser 6_0 6_0
+roadinfo_3_statuser 6_statuser 6_962.159418939 6_0
+roadinfo_3_statuser 6_statuser 6_statuser 6_statuser 6_165.674598578 6_0
+roadinfo_3_statuser 6_statuser 6_statuser 6_statuser 6_1106.1678463 6_0
+roadinfo_3_statuser 3_470.9820466 3_0 6_statuser 6_470.9820466 6_0 6_1111.22337224 6_0
+roadinfo_6_627.509691872 6_0
+roadinfo_6_0 6_517.607896206
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_3_250.253676277 3_0 6_250.253676277 6_0
+roadinfo_3_1427.5093555 3_0 6_1427.5093555 6_0
+roadinfo_3_1410.03401595 3_0 6_1410.03401595 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_495.321217943 3_0 6_495.321217943 6_0
+roadinfo_3_1076.47029793 3_0 6_1076.47029793 6_0
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 3_877.39766875 3_0 6_0 6_0 6_877.39766875 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0 6_statuser 6_statuser
+roadinfo_6_0 6_1325.94597152
+roadinfo_6_201.855446503 6_0 6_758.718365122 6_0
+roadinfo_6_689.818134093 6_0
+roadinfo_3_0 6_0 6_0 6_0 6_839.75062258
+roadinfo_3_0 3_0 3_509.049427121 6_0 6_0 6_0 6_509.049427121 6_statuser 6_502.472492692 6_0
+roadinfo_3_0 3_statuser 3_1265.08174456 3_0 3_statuser 3_statuser 6_0 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_1265.08174456 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_240.724074959 6_0 6_statuser 6_statuser 6_statuser 6_0 6_statuser
+roadinfo_3_0 3_173.085133642 3_0 3_0 3_0 3_0 3_statuser 3_0 6_statuser 6_statuser 6_0 6_173.085133642 6_0 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_512.993085526 6_0 6_statuser 6_statuser 6_statuser 6_701.861658513 6_0
+roadinfo_3_0 3_1054.40381636 3_0 3_0 3_0 3_0 3_0 6_statuser 6_0 6_1054.40381636 6_0 6_0 6_0 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1188.78267178 6_0
+roadinfo_3_statuser 3_0 3_1097.51061226 3_0 3_0 3_0 3_statuser 3_0 3_0 3_statuser 6_statuser 6_statuser 6_0 6_1097.51061226 6_0 6_0 6_0 6_statuser 6_statuser 6_0 6_0 6_statuser 6_158.268445384 6_0 6_statuser 6_statuser 6_statuser 6_29.9163596598 6_0
+roadinfo_3_0 3_statuser 3_0 3_510.023437222 3_0 3_statuser 3_0 6_statuser 6_0 6_statuser 6_0 6_510.023437222 6_0 6_102.153592237 6_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1088.20457174 6_0
+roadinfo_3_statuser 3_statuser 3_statuser 3_0 3_1149.97309611 3_0 3_0 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_1149.97309611 6_0 6_0 6_504.246867532 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1037.00899719 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_0 3_statuser 3_0 3_statuser 3_176.950927313 3_0 6_statuser 6_statuser 6_0 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_176.950927313 6_0 6_statuser 6_statuser 6_567.547734856 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1260.05498452 6_0
+roadinfo_3_0 3_0 3_1183.79992295 3_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_210.715870143 6_1183.79992295 6_statuser 6_statuser 6_statuser 6_611.174669733 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_0
+roadinfo_3_0 3_0 3_1161.07352515 6_statuser 6_statuser 6_0 6_0 6_0 6_0 6_statuser 6_1161.07352515 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_584.549779509 6_0
+roadinfo_3_0 3_0 3_statuser 3_0 3_534.192924802 3_0 3_1020.36745781 6_0 6_statuser 6_0 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_534.192924802 6_0 6_1020.36745781 6_529.245764161 6_0 6_statuser 6_138.234216529 6_0 6_1322.76756058 6_0
+roadinfo_3_statuser 3_statuser 3_0 3_0 3_statuser 3_0 6_statuser 6_statuser 6_statuser 6_0 6_0 6_statuser 6_0 6_0 6_0 6_308.330093516 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_366.759389231 6_0 6_819.394441803 6_0
+roadinfo_3_statuser 3_0 6_statuser 6_statuser 6_0 6_816.625144935 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_899.455938147 6_0 6_89.6373599559 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_0 3_1138.77110595 3_statuser 3_622.566606074 3_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1138.77110595 6_statuser 6_622.566606074 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_46.8535621256 6_0 6_0
+roadinfo_3_statuser 6_statuser 6_186.607018554 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_0
+roadinfo_3_statuser 3_1037.91671301 3_0 6_statuser 6_statuser 6_statuser 6_1037.91671301 6_0
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 3_0 6_statuser 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_740.462615705 3_0 6_statuser 6_740.462615705 6_0
+roadinfo_6_0 6_221.085022009 6_278.111038949 6_0
+roadinfo_6_0 6_243.575914667 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_1355.98596513 3_0 6_1355.98596513 6_0
+roadinfo_3_507.235268464 3_0 6_507.235268464 6_0
+roadinfo_3_statuser 3_31.6653204952 6_statuser 6_31.6653204952
+roadinfo_3_226.597589795 3_0 6_226.597589795 6_0
+roadinfo_3_2046.60747399 3_0 6_2046.60747399 6_0
+roadinfo_
+roadinfo_3_0 3_0 3_883.028011121 3_0 6_0 6_0 6_883.028011121 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_6_0
+roadinfo_3_0 3_0 6_0 6_0 6_statuser 6_statuser 6_0 6_1109.33748911 6_0
+roadinfo_3_1489.98407603 3_0 6_1489.98407603 6_0 6_0 6_306.734865986 6_1110.8700388 6_0 6_1194.71123099 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_1497.96526132 6_0
+roadinfo_6_957.34005402 6_0
+roadinfo_6_0 6_525.692564376 6_0 6_53.2670961963 6_0
+roadinfo_3_0 3_620.158243156 6_0 6_0 6_620.158243156 6_statuser 6_statuser 6_statuser 6_927.595925196 6_0 6_366.31419316 6_0 6_statuser 6_462.574143643
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_287.283176763 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_0 6_0 6_0 6_0 6_919.854656981 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_0 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_1124.6903654 6_0 6_statuser 6_statuser 6_statuser 6_287.700096598 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_statuser 3_0 3_statuser 3_statuser 6_0 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_199.080104391 6_0
+roadinfo_3_0 3_statuser 6_0 6_statuser 6_statuser 6_statuser 6_1084.88241935 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1127.14416013 6_0 6_432.663482528 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1292.58155142 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_1007.64343366 6_0 6_statuser 6_statuser 6_statuser 6_0
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_78.1265541452 3_0 6_0 6_0 6_statuser 6_78.1265541452 6_0 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_556.951307798 3_0 6_0 6_statuser 6_556.951307798 6_0 6_statuser 6_statuser 6_statuser 6_308.193866258 6_0 6_statuser
+roadinfo_3_0 6_0 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_513.252279069 6_0 6_statuser 6_statuser 6_296.065596977 6_0 6_757.639163061 6_0 6_118.32655728 6_statuser 6_98.5406566951 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_0 3_121.922063737 3_0 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_121.922063737 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 3_statuser 3_481.138197403 3_0 3_431.092290297 3_0 3_878.148731984 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_481.138197403 6_0 6_431.092290297 6_0 6_878.148731984 6_statuser 6_statuser 6_665.74718852 6_0
+roadinfo_3_statuser 3_373.906572957 3_0 6_statuser 6_373.906572957 6_0
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_1119.3959082 3_0 6_statuser 6_1119.3959082 6_0
+roadinfo_6_0 6_897.433073904
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_155.696405401 3_0 6_155.696405401 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_1045.34855556 3_0 6_1045.34855556 6_0
+roadinfo_3_1544.9681481 3_0 6_1544.9681481 6_0
+roadinfo_3_1134.0420932 3_0 6_1134.0420932 6_0
+roadinfo_3_728.380250248 3_0 6_728.380250248 6_0
+roadinfo_3_851.966589132 3_0 6_851.966589132 6_0
+roadinfo_3_926.822535121 3_0 6_926.822535121 6_0
+roadinfo_3_statuser 3_0 6_statuser 6_0
+roadinfo_
+roadinfo_3_519.165760686 3_0 6_519.165760686 6_0
+roadinfo_3_1370.79957538 3_0 6_1370.79957538 6_0
+roadinfo_3_0 3_0 3_180.536467714 3_0 6_0 6_0 6_180.536467714 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_6_198.579949364 6_0
+roadinfo_3_statuser 3_statuser 3_486.546515653 3_0 6_statuser 6_statuser 6_486.546515653 6_0 6_1398.39950455 6_0
+roadinfo_3_259.816533537 3_statuser 3_0 6_259.816533537 6_statuser 6_0 6_620.226374441 6_0 6_1139.50050693 6_0
+roadinfo_3_468.963029562 3_0 6_468.963029562 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_890.197095955 6_0
+roadinfo_3_statuser 3_statuser 3_0 3_636.413784193 3_statuser 6_statuser 6_statuser 6_0 6_636.413784193 6_statuser 6_statuser 6_0
+roadinfo_6_289.460202037 6_0
+roadinfo_3_0 3_0 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_0 6_statuser 6_0 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_1013.46954375 6_0 6_145.114544438 6_0
+roadinfo_3_statuser 3_0 3_0 3_statuser 3_statuser 6_statuser 6_0 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_976.250323209 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_0 3_statuser 3_611.33758649 6_0 6_0 6_statuser 6_statuser 6_611.33758649 6_statuser 6_statuser 6_27.3101178908 6_0 6_statuser 6_statuser 6_0 6_920.485387423
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_0 6_845.698934005 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser
+roadinfo_6_0 6_903.75591126 6_0 6_statuser 6_statuser 6_1020.2095981
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1198.70010218 6_0 6_statuser
+roadinfo_3_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_430.097126349 3_0 6_0 6_statuser 6_430.097126349 6_0 6_statuser 6_statuser 6_217.870186531 6_0 6_760.029810528 6_0 6_314.188635621 6_0
+roadinfo_3_0 6_statuser 6_0 6_statuser 6_264.074429814 6_0 6_statuser 6_statuser 6_706.595871161 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_219.502556603 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_0 6_statuser 6_0 6_statuser 6_statuser 6_270.931639677 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_0 3_statuser 3_statuser 3_1127.76955846 3_0 3_607.667458543 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_1127.76955846 6_0 6_607.667458543 6_707.460325536 6_0
+roadinfo_3_statuser 3_statuser 3_0 3_0 3_0 6_statuser 6_statuser 6_0 6_0 6_0 6_0 6_0
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 6_statuser 6_0 6_24.6481810983 6_0 6_8.91342081757
+roadinfo_3_statuser 6_statuser 6_statuser 6_statuser 6_0 6_1050.32593477
+roadinfo_3_statuser 3_936.044648651 3_0 6_statuser 6_936.044648651 6_0 6_0 6_279.112771209 6_statuser 6_statuser
+roadinfo_3_0 3_0 6_0 6_0 6_0 6_1372.7027824
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_1149.73834972 3_0 6_1149.73834972 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_3_1393.16982181 3_0 6_1393.16982181 6_0
+roadinfo_3_1322.75049243 3_0 6_1322.75049243 6_0
+roadinfo_3_676.125500757 3_0 6_676.125500757 6_0
+roadinfo_3_815.719109693 3_0 6_815.719109693 6_0
+roadinfo_3_1040.93362632 3_0 6_1040.93362632 6_0
+roadinfo_3_799.028887278 3_0 6_799.028887278 6_0
+roadinfo_3_718.897912174 3_0 6_718.897912174 6_0
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_1137.68949047 3_0 6_1137.68949047 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_0 3_0 3_statuser 6_statuser 6_statuser 6_0 6_statuser 6_0 6_statuser 6_statuser
+roadinfo_3_461.774525956 3_0 6_461.774525956 6_0
+roadinfo_3_0 3_0 6_0 6_0 6_691.513764283 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_0 6_0 6_0 6_statuser 6_statuser 6_0 6_0 6_271.183089895 6_0
+roadinfo_3_0 3_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_347.73369711 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_0 3_statuser 3_statuser 3_835.261298891 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_835.261298891 6_statuser 6_statuser 6_874.907518785 6_0 6_0 6_1093.45801262
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_18.2917536893 6_0 6_statuser 6_statuser 6_0 6_statuser 6_1175.03483291 6_0
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_276.631538601 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_1165.06093469 6_0 6_statuser 6_statuser 6_statuser
+roadinfo_6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_1140.8913275 6_0
+roadinfo_6_1156.58257011 6_statuser 6_statuser 6_0 6_statuser 6_statuser
+roadinfo_3_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_519.590311921 6_0 6_0
+roadinfo_3_0 3_45.271125988 3_0 3_statuser 3_855.694178756 3_0 6_0 6_45.271125988 6_0 6_statuser 6_199.684116738 6_statuser 6_855.694178756 6_0 6_statuser 6_479.300805233 6_0 6_statuser 6_0 6_0 6_statuser
+roadinfo_3_133.217522784 3_statuser 3_statuser 3_0 3_0 6_133.217522784 6_statuser 6_statuser 6_0 6_0 6_statuser 6_statuser 6_statuser 6_467.945581219 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_1255.47420921 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_1411.90735241 3_statuser 3_0 3_0 6_1411.90735241 6_statuser 6_0 6_90.1663227244 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_1110.63758839 3_0 3_1169.84937397 3_0 6_statuser 6_statuser 6_1110.63758839 6_0 6_1169.84937397 6_0 6_1131.40895071 6_0
+roadinfo_3_statuser 6_statuser 6_0 6_0
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 6_statuser 6_0 6_0
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 3_0 3_0 6_statuser 6_0 6_0
+roadinfo_3_653.033609061 3_0 6_653.033609061 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_1013.28510272 3_0 6_1013.28510272 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_3_219.845107515 3_0 6_219.845107515 6_0
+roadinfo_3_1185.29030729 3_0 6_1185.29030729 6_0
+roadinfo_
+roadinfo_3_1324.47125434 3_0 6_1324.47125434 6_0
+roadinfo_3_511.174980762 3_0 6_511.174980762 6_0
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_6_0 6_176.778258962
+roadinfo_6_0 6_0 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_1070.17275856
+roadinfo_3_665.874223629 3_0 6_665.874223629 6_0 6_statuser 6_statuser
+roadinfo_3_1182.0179682 3_0 3_0 3_0 6_1182.0179682 6_0 6_0 6_0 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_180.530387694
+roadinfo_3_statuser 3_0 3_840.410743408 3_0 3_0 6_statuser 6_0 6_840.410743408 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_0 3_1005.2944411 3_0 3_0 3_538.563258433 6_0 6_0 6_statuser 6_1005.2944411 6_0 6_0 6_538.563258433 6_statuser 6_statuser 6_970.707270085 6_statuser 6_0 6_213.376871597 6_647.018941294
+roadinfo_3_statuser 3_0 3_1013.68695543 3_0 3_statuser 3_356.187566372 6_statuser 6_0 6_statuser 6_1013.68695543 6_0 6_statuser 6_356.187566372 6_statuser 6_0 6_398.441848377 6_statuser 6_statuser
+roadinfo_3_0 3_statuser 3_1179.92162532 3_statuser 3_statuser 6_0 6_statuser 6_1179.92162532 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser
+roadinfo_3_0 3_771.262293598 6_0 6_771.262293598 6_statuser
+roadinfo_3_statuser 3_1098.70180953 3_0 6_statuser 6_1098.70180953 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_1069.00243417 3_0 6_1069.00243417 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_1071.37935643 3_0 6_0 6_1071.37935643 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_188.041782146 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_0 3_statuser 3_statuser 3_722.754611711 3_0 6_0 6_0 6_statuser 6_statuser 6_722.754611711 6_0 6_1048.91773238 6_0 6_0 6_0
+roadinfo_3_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 3_714.286781026 3_0 3_119.936970045 3_0 6_statuser 6_714.286781026 6_0 6_119.936970045 6_0 6_0 6_0
+roadinfo_3_statuser 3_statuser 3_statuser 3_1039.27192197 3_0 6_statuser 6_statuser 6_statuser 6_1039.27192197 6_0 6_920.566094717 6_0
+roadinfo_3_statuser 3_0 3_0 6_statuser 6_0 6_0 6_396.325314268 6_0
+roadinfo_3_statuser 6_statuser 6_0 6_914.459768056
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 6_statuser
+roadinfo_3_875.636147233 3_0 6_875.636147233 6_0
+roadinfo_3_648.223874788 3_0 6_648.223874788 6_0
+roadinfo_3_1181.79772011 3_0 6_1181.79772011 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_444.487756293 3_0 6_444.487756293 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_3_716.021847102 3_0 6_716.021847102 6_0
+roadinfo_3_601.540786488 3_0 6_601.540786488 6_0
+roadinfo_3_1861.63217151 3_0 6_1861.63217151 6_0
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_667.317211202 3_0 6_667.317211202 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_6_88.6699696657 6_0 6_0 6_733.77521749
+roadinfo_6_977.978144123 6_0 6_205.008293185 6_0 6_statuser 6_statuser
+roadinfo_6_0 6_70.7964581238
+roadinfo_6_statuser 6_0 6_0 6_326.306164069 6_1096.1036539 6_statuser 6_statuser 6_0
+roadinfo_3_0 3_0 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_616.527306307 6_0 6_statuser 6_456.912285932
+roadinfo_3_0 3_0 6_statuser 6_0 6_statuser 6_289.196816793 6_0 6_0 6_1461.90519629 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_0 3_statuser 3_0 3_915.032167109 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_591.169535823 6_0 6_statuser 6_0 6_915.032167109 6_statuser 6_statuser 6_statuser 6_0 6_1091.57414006
+roadinfo_3_0 3_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_895.197903748 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0
+roadinfo_
+roadinfo_6_252.24124777 6_statuser 6_statuser 6_0 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_35.7611544246 6_0 6_9.84608906983 6_0
+roadinfo_3_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_284.452756464 3_0 6_0 6_284.452756464 6_0 6_0 6_139.735789731 6_0 6_0
+roadinfo_3_0 3_776.23113255 3_0 6_0 6_776.23113255 6_0 6_statuser 6_statuser
+roadinfo_3_0 6_0
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 3_0 6_statuser 6_statuser 6_statuser 6_0
+roadinfo_3_statuser 3_696.265674631 3_0 6_statuser 6_696.265674631 6_0 6_0 6_0
+roadinfo_3_statuser 3_1044.95331013 3_0 6_statuser 6_1044.95331013 6_0 6_0 6_265.624874915 6_1009.52263586 6_0
+roadinfo_3_statuser 3_0 6_statuser 6_0 6_130.842326568 6_0
+roadinfo_3_statuser 6_statuser
+roadinfo_3_827.006555875 3_0 3_650.840788699 3_0 6_827.006555875 6_0 6_650.840788699 6_0
+roadinfo_3_564.530781079 3_0 3_statuser 3_statuser 6_564.530781079 6_0 6_statuser 6_statuser
+roadinfo_
+roadinfo_3_1130.28623367 3_0 6_1130.28623367 6_0
+roadinfo_3_850.140144528 3_0 6_850.140144528 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_647.53441442 3_0 6_647.53441442 6_0
+roadinfo_3_1004.07166772 3_0 6_1004.07166772 6_0
+roadinfo_3_1060.59527645 3_0 6_1060.59527645 6_0
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_3_846.594631071 3_0 6_846.594631071 6_0
+roadinfo_3_1520.74895682 3_0 6_1520.74895682 6_0
+roadinfo_3_1477.01661857 3_0 6_1477.01661857 6_0
+roadinfo_3_468.365031236 3_0 6_468.365031236 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_6_283.409901737 6_0
+roadinfo_6_1231.67433386 6_statuser 6_0 6_0
+roadinfo_6_statuser 6_1274.17693021 6_0
+roadinfo_6_statuser 6_statuser 6_79.9827682396 6_0
+roadinfo_
+roadinfo_6_0 6_704.480679654 6_0 6_0
+roadinfo_6_493.982819639 6_0 6_statuser 6_statuser
+roadinfo_6_879.592137277 6_0
+roadinfo_6_statuser 6_statuser 6_statuser 6_0 6_456.247992418 6_0 6_0 6_278.596386512 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_0
+roadinfo_3_0 3_0 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_918.293156047 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_0 3_0 3_statuser 3_0 6_0 6_0 6_0 6_0 6_statuser 6_0 6_1110.14136039 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_329.072748388
+roadinfo_3_0 3_statuser 3_0 3_322.031212734 6_0 6_statuser 6_statuser 6_0 6_322.031212734 6_statuser 6_statuser 6_1024.11836838 6_0 6_699.702960111
+roadinfo_3_0 3_statuser 6_0 6_statuser 6_0 6_429.542942154 6_1156.15951563 6_0 6_323.542353351 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_0 6_0
+roadinfo_6_statuser 6_13.6491745617 6_29.2282164712 6_statuser 6_0 6_527.99208305 6_statuser 6_statuser 6_0 6_0 6_51.0801549458 6_0 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_0 6_8.98140658378 6_0 6_499.802577141 6_0 6_0
+roadinfo_3_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 6_0 6_0 6_0
+roadinfo_3_0 3_343.209795743 3_0 6_0 6_343.209795743 6_0
+roadinfo_3_0 3_statuser 3_statuser 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 3_0 3_0 3_statuser 3_statuser 3_36.3502674544 3_0 6_statuser 6_0 6_0 6_statuser 6_statuser 6_36.3502674544 6_0
+roadinfo_3_statuser 3_985.986148023 3_0 6_statuser 6_985.986148023 6_0
+roadinfo_3_statuser 3_981.810059809 3_0 3_0 3_0 6_statuser 6_981.810059809 6_0 6_0 6_0
+roadinfo_3_statuser 3_946.958620364 3_0 3_1288.72515026 3_0 6_statuser 6_946.958620364 6_0 6_1288.72515026 6_0 6_1136.44865211 6_0
+roadinfo_3_statuser 3_1208.8738402 3_0 6_statuser 6_1208.8738402 6_0 6_statuser 6_statuser
+roadinfo_3_277.719762947 3_0 3_0 3_0 6_277.719762947 6_0 6_0 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_733.736222239 3_0 3_statuser 3_statuser 3_783.77737831 3_0 6_733.736222239 6_0 6_statuser 6_statuser 6_783.77737831 6_0
+roadinfo_3_849.150412315 3_0 6_849.150412315 6_0
+roadinfo_3_1075.68918809 3_0 6_1075.68918809 6_0
+roadinfo_3_1051.79965441 3_0 6_1051.79965441 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_1371.01307141 3_0 6_1371.01307141 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_6_793.598010947 6_0
+roadinfo_6_826.674795265 6_0 6_353.333428175 6_0
+roadinfo_6_statuser 6_statuser 6_18.6840638959 6_0 6_statuser
+roadinfo_6_0 6_0
+roadinfo_6_statuser 6_statuser 6_780.885873594 6_0
+roadinfo_6_663.284092188 6_0
+roadinfo_6_564.703535271 6_0 6_0 6_172.600907974 6_1134.64424947 6_statuser 6_statuser 6_0
+roadinfo_6_623.612255419 6_0 6_statuser
+roadinfo_
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_435.222135003 6_statuser 6_562.314598473 6_320.465939672 6_0 6_statuser 6_statuser 6_statuser 6_0 6_0 6_0 6_0 6_statuser 6_0 6_statuser 6_0
+roadinfo_3_0 3_0 6_statuser 6_0 6_statuser 6_statuser 6_0 6_statuser 6_statuser 6_0 6_0 6_0 6_statuser 6_0 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_0 3_statuser 3_730.513514859 6_0 6_0 6_statuser 6_730.513514859 6_statuser 6_statuser 6_409.498719343 6_0 6_statuser 6_998.362665155
+roadinfo_3_0 3_0 6_0 6_0 6_1165.92950426 6_0
+roadinfo_3_0 3_statuser 6_0 6_statuser 6_0 6_0 6_182.567811321 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_6_0 6_469.828384386 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_0 6_0
+roadinfo_3_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 6_0 6_0 6_0
+roadinfo_3_0 6_0
+roadinfo_3_0 3_statuser 3_statuser 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 3_981.92679264 3_0 6_statuser 6_981.92679264 6_0
+roadinfo_3_statuser 3_592.192195914 3_0 3_0 3_0 6_statuser 6_592.192195914 6_0 6_0 6_0
+roadinfo_3_statuser 3_180.769507496 3_0 6_statuser 6_180.769507496 6_0
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 3_256.877467581 3_0 6_statuser 6_256.877467581 6_0 6_0 6_0
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_478.087455499 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_983.291546375 6_0 6_1036.10213566 6_0 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_714.249494733 3_0 6_714.249494733 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_863.466342316 3_0 6_863.466342316 6_0
+roadinfo_3_1149.74408833 3_0 6_1149.74408833 6_0
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0 6_73.865868023 6_0
+roadinfo_3_0 3_0 6_0 6_0 6_1387.95299641 6_0
+roadinfo_6_1321.58608305 6_0 6_760.354663955 6_0
+roadinfo_6_statuser 6_statuser 6_520.615193617 6_0 6_1052.61093148 6_0
+roadinfo_6_0 6_0
+roadinfo_
+roadinfo_6_0 6_719.162177752
+roadinfo_
+roadinfo_6_0 6_0
+roadinfo_6_859.99460704 6_0
+roadinfo_6_0 6_0
+roadinfo_6_852.143118582 6_0
+roadinfo_6_statuser 6_statuser 6_428.116083476 6_0 6_statuser 6_statuser 6_statuser 6_0 6_0 6_statuser 6_820.398861973 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_0 3_0 3_0 6_statuser 6_0 6_0 6_statuser 6_statuser 6_122.850485348 6_0 6_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0 6_91.6445795 6_statuser 6_0 6_statuser
+roadinfo_3_0 3_0 3_statuser 3_804.356363167 6_statuser 6_0 6_statuser 6_0 6_statuser 6_804.356363167 6_statuser 6_785.736214674 6_0 6_statuser 6_465.99745981 6_statuser
+roadinfo_3_0 3_0 6_0 6_0 6_statuser
+roadinfo_3_0 3_statuser 6_0 6_statuser 6_0 6_0 6_statuser 6_statuser 6_894.189772627 6_0 6_statuser
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_564.505189508 6_0 6_statuser 6_statuser
+roadinfo_6_1185.41108261 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_1182.64183677 6_0
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 6_0 6_0 6_0
+roadinfo_3_0 6_0 6_statuser 6_statuser
+roadinfo_3_0 3_statuser 3_statuser 3_1145.13755744 3_0 6_0 6_statuser 6_statuser 6_1145.13755744 6_0
+roadinfo_3_statuser 3_1233.32286464 3_0 6_statuser 6_1233.32286464 6_0
+roadinfo_3_statuser 3_789.735787189 3_0 6_statuser 6_789.735787189 6_0
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 3_1031.9077842 3_0 6_statuser 6_1031.9077842 6_0
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 3_827.475378233 3_0 6_statuser 6_statuser 6_statuser 6_827.475378233 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_3_958.912934767 3_0 6_958.912934767 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_602.609122911 3_0 6_602.609122911 6_0
+roadinfo_3_941.762863304 3_0 6_941.762863304 6_0
+roadinfo_3_919.486436644 3_0 6_919.486436644 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_6_157.28400573
+roadinfo_3_0 3_0 6_0 6_0 6_972.026247612 6_0
+roadinfo_6_0 6_0 6_0
+roadinfo_6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_6_0 6_536.066636421
+roadinfo_
+roadinfo_6_329.422217998 6_0
+roadinfo_UN
+roadinfo_
+roadinfo_6_0 6_0
+roadinfo_6_0 6_statuser 6_0 6_statuser
+roadinfo_3_0 3_0 3_0 3_783.070373755 6_0 6_344.922613466 6_0 6_0 6_783.070373755 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_0
+roadinfo_3_0 3_0 3_statuser 3_0 6_0 6_0 6_statuser 6_0 6_69.5682997814 6_0 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_0 6_0 6_0 6_494.884557246 6_0
+roadinfo_3_0 3_statuser 6_0 6_statuser 6_statuser 6_statuser 6_167.736658432 6_0 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_624.004998186 6_0
+roadinfo_6_0 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_384.519928383 6_0 6_786.304268573 6_0 6_statuser
+roadinfo_3_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 3_167.143804218 3_0 6_statuser 6_167.143804218 6_0 6_0 6_0
+roadinfo_3_statuser 3_554.554872669 3_0 6_statuser 6_554.554872669 6_0 6_0 6_1280.15739865
+roadinfo_3_statuser 6_statuser 6_0 6_1256.32792899
+roadinfo_3_statuser 3_statuser 3_statuser 3_416.655682509 3_0 6_statuser 6_statuser 6_statuser 6_statuser 6_416.655682509 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_3_882.013935267 3_0 6_882.013935267 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_1026.86606566 3_0 6_1026.86606566 6_0
+roadinfo_3_625.295234793 3_0 6_625.295234793 6_0
+roadinfo_3_871.176997177 3_0 6_871.176997177 6_0
+roadinfo_3_763.462149329 3_0 6_763.462149329 6_0
+roadinfo_3_1219.75399441 3_0 6_1219.75399441 6_0
+roadinfo_3_974.59243167 3_0 6_974.59243167 6_0
+roadinfo_3_684.228423058 3_0 6_684.228423058 6_0
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_6_242.494084213 6_0
+roadinfo_3_0 3_0 6_0 6_0 6_815.583041987 6_0 6_9.72891970649 6_0
+roadinfo_3_0 6_0 6_1093.89666671 6_0 6_0 6_828.608234423
+roadinfo_6_642.727282326 6_0 6_statuser 6_statuser
+roadinfo_6_0 6_0
+roadinfo_6_1206.31450366 6_0
+roadinfo_6_196.805690797 6_0 6_0 6_583.371896487
+roadinfo_6_550.585544601 6_0
+roadinfo_6_669.340393524 6_statuser 6_0 6_980.952313214 6_0
+roadinfo_6_0 6_0
+roadinfo_
+roadinfo_6_0 6_331.391203751
+roadinfo_3_0 6_0 6_0 6_statuser
+roadinfo_3_0 3_statuser 3_statuser 3_0 3_0 3_172.33302734 6_0 6_0 6_237.990891311 6_statuser 6_statuser 6_0 6_0 6_172.33302734 6_735.256902257 6_0 6_statuser 6_0 6_statuser 6_0
+roadinfo_3_0 3_0 6_0 6_819.272708116 6_0 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_0 6_0 6_statuser 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_statuser 6_0 6_statuser
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_6_0 6_0
+roadinfo_3_statuser 3_statuser 6_0 6_statuser 6_statuser 6_statuser 6_55.8335717495 6_1208.83866395 6_0 6_statuser
+roadinfo_6_statuser 6_statuser 6_799.765896524 6_0 6_316.679024595 6_0 6_120.219351902 6_0 6_statuser 6_statuser
+roadinfo_3_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 6_statuser 6_0 6_733.029922836
+roadinfo_3_statuser 3_594.502052868 3_0 6_statuser 6_594.502052868 6_0 6_0
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_339.972174503 3_0 6_339.972174503 6_0
+roadinfo_3_310.600062578 3_0 6_310.600062578 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_259.457181788 3_0 6_259.457181788 6_0
+roadinfo_3_1200.00549947 3_0 6_1200.00549947 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_725.200290313 3_0 6_725.200290313 6_0 6_0 6_955.533621503
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_6_0 6_611.232425986
+roadinfo_
+roadinfo_6_0 6_630.83226525 6_0
+roadinfo_6_1366.77438805 6_0
+roadinfo_6_220.294516818 6_0 6_0 6_0
+roadinfo_6_0 6_1096.0276311
+roadinfo_3_0 3_0 6_0 6_0 6_525.223027111 6_0
+roadinfo_3_statuser 3_statuser 6_169.007106834 6_statuser 6_statuser 6_0 6_0 6_0 6_1225.03248409 6_0 6_statuser 6_0
+roadinfo_6_statuser 6_1081.92478763 6_0 6_statuser 6_statuser 6_statuser 6_statuser 6_1017.68964515 6_0
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser 6_817.308329283 6_0 6_999.975646118 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_955.484427938 6_0
+roadinfo_6_1213.87180755 6_0 6_statuser 6_statuser
+roadinfo_3_0 6_0 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 6_statuser 6_0 6_440.310030403
+roadinfo_3_statuser 6_statuser 6_0 6_0
+roadinfo_3_statuser 3_926.25880713 3_0 6_statuser 6_926.25880713 6_0
+roadinfo_3_statuser 6_statuser
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_3_1107.40203415 3_0 6_1107.40203415 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 6_0
+roadinfo_3_1081.29107296 3_0 6_1081.29107296 6_0
+roadinfo_3_943.054754421 3_0 6_943.054754421 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_6_0 6_618.725921003
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_6_849.145156954 6_0 6_618.137921933 6_0
+roadinfo_3_0 6_575.767595873 6_0 6_0 6_0 6_0
+roadinfo_3_0 3_593.210268662 6_0 6_593.210268662 6_17.7743996048 6_0
+roadinfo_6_0 6_305.070986501
+roadinfo_6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_6_0 6_728.747316095
+roadinfo_
+roadinfo_3_815.212879458 3_0 6_815.212879458 6_0
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_3_306.511849183 3_0 6_306.511849183 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_624.227389328 3_0 6_624.227389328 6_0
+roadinfo_3_720.132934035 3_0 6_720.132934035 6_0
+roadinfo_3_738.251865201 3_0 6_738.251865201 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_754.982151608 3_0 6_754.982151608 6_0 6_0 6_614.23909807 6_612.493092018 6_0
+roadinfo_6_763.549512742 6_0
+roadinfo_
+roadinfo_
+roadinfo_6_0 6_711.317381729
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_249.915774828 6_379.562867762 6_0 6_249.915774828 6_0 6_356.263283134 6_0
+roadinfo_3_0 3_0 6_statuser 6_0 6_0 6_1137.42189505 6_0 6_statuser 6_126.495783061 6_0
+roadinfo_6_1157.84314487 6_0
+roadinfo_6_1201.26187788 6_0
+roadinfo_6_1046.39708001 6_0
+roadinfo_6_749.775064841 6_0
+roadinfo_6_551.889484335 6_0
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_6_101.568115013 6_0
+roadinfo_
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_6_0 6_466.300614851
+roadinfo_
+roadinfo_3_357.089769907 3_0 6_357.089769907 6_0
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_3_570.393237988 3_0 6_570.393237988 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_1393.99293665 3_0 6_1393.99293665 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_291.419713814 3_0 6_291.419713814 6_0 6_0 6_790.753813633
+roadinfo_6_276.196201263 6_0
+roadinfo_6_1224.06189885 6_0
+roadinfo_6_0 6_0
+roadinfo_6_0 6_929.249112872
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_104.748299725 3_0 6_0 6_104.748299725 6_0 6_0
+roadinfo_3_0 3_1181.70419266 3_931.542347081 3_0 6_0 6_1181.70419266 6_931.542347081 6_0 6_1150.54215912 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_6_9.14083672307 6_0
+roadinfo_6_327.205455094 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_823.117786384 6_0
+roadinfo_6_95.5016986179 6_0
+roadinfo_6_756.271966274 6_0
+roadinfo_6_statuser 6_statuser
+roadinfo_
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_6_0 6_0
+roadinfo_
+roadinfo_3_881.071349485 3_0 6_881.071349485 6_0
+roadinfo_
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_3_58.126397038 3_0 6_58.126397038 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0 6_0 6_811.028874007
+roadinfo_
+roadinfo_6_668.705319285 6_0
+roadinfo_6_statuser 6_statuser 6_0 6_949.65615867
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_1122.12670775 6_0 6_1122.12670775 6_995.005320878 6_0
+roadinfo_3_0 3_0 3_0 3_0 6_0 6_0 6_0 6_0 6_0 6_0
+roadinfo_3_660.961376146 3_0 6_660.961376146 6_0
+roadinfo_3_57.9643487518 3_0 6_57.9643487518 6_0
+roadinfo_3_990.746886989 3_0 6_990.746886989 6_0
+roadinfo_3_922.04882402 3_0 6_922.04882402 6_0
+roadinfo_3_1182.68736996 3_0 6_1182.68736996 6_0
+roadinfo_3_1253.30925007 3_0 6_1253.30925007 6_0
+roadinfo_3_1258.94550132 3_0 6_1258.94550132 6_0
+roadinfo_3_1088.0555868 3_0 3_statuser 3_statuser 6_1088.0555868 6_0 6_statuser 6_statuser
+roadinfo_3_910.174515651 3_0 6_910.174515651 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_0 3_0 6_0 6_0 6_statuser 6_statuser
+roadinfo_3_1088.09857864 3_0 3_184.905323805 3_0 6_1088.09857864 6_0 6_184.905323805 6_0
+roadinfo_3_statuser 3_statuser 3_statuser 3_statuser 3_1226.54314603 3_0 6_statuser 6_statuser 6_statuser 6_statuser 6_1226.54314603 6_0
+roadinfo_3_125.456344217 3_0 6_125.456344217 6_0
+roadinfo_6_0 6_745.124823984
+roadinfo_
+roadinfo_3_600.901689051 3_0 6_600.901689051 6_0
+roadinfo_3_436.419061815 3_0 3_0 3_862.721992262 6_436.419061815 6_0 6_0 6_862.721992262
+roadinfo_3_0 3_statuser 3_statuser 3_1057.76210724 6_0 6_statuser 6_statuser 6_1057.76210724
+roadinfo_3_0 3_1025.18883931 6_0 6_1025.18883931
+roadinfo_3_87.8198985035 3_0 3_0 3_289.986620833 6_87.8198985035 6_0 6_0 6_289.986620833
+roadinfo_3_0 3_1200.6896968 6_0 6_1200.6896968
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_576.052496528 3_0 6_576.052496528 6_0 6_0 6_244.341926605
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_1002.42681285 3_0 6_1002.42681285 6_0
+roadinfo_3_913.783656948 3_0 6_913.783656948 6_0
+roadinfo_3_925.545019327 3_0 6_925.545019327 6_0 6_0 6_839.17379569
+roadinfo_3_1047.83055767 3_0 6_1047.83055767 6_0
+roadinfo_3_893.93357502 3_0 6_893.93357502 6_0
+roadinfo_3_842.817361378 3_0 6_842.817361378 6_0
+roadinfo_3_0 3_837.55898391 3_statuser 3_statuser 6_0 6_837.55898391 6_statuser 6_statuser 6_867.138390606 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_3_828.60136872 3_0 6_828.60136872 6_0
+roadinfo_3_1091.97419217 3_0 6_1091.97419217 6_0 6_0 6_845.350850602
+roadinfo_3_924.739339743 3_0 6_924.739339743 6_0
+roadinfo_3_992.534766155 3_0 6_992.534766155 6_0
+roadinfo_3_1216.31959633 3_0 3_1129.7155205 3_0 6_1216.31959633 6_0 6_1129.7155205 6_0 6_483.564765326 6_0
+roadinfo_3_0 3_statuser 3_statuser 6_0 6_statuser 6_statuser 6_1045.68901069 6_0
+roadinfo_UN
+roadinfo_3_770.079529721 3_0 6_770.079529721 6_0
+roadinfo_
+roadinfo_
+roadinfo_6_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_UN UN
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_500.103434072 3_0 3_statuser 3_statuser 6_500.103434072 6_0 6_statuser 6_statuser
+roadinfo_3_884.394619243 3_0 3_1189.57380365 3_0 6_884.394619243 6_0 6_1189.57380365 6_0 6_0 6_433.553017714
+roadinfo_3_844.732546181 3_0 6_844.732546181 6_0
+roadinfo_
+roadinfo_6_statuser 6_803.866713748
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0 6_0 6_0
+roadinfo_3_0 3_823.751759175 6_0 6_823.751759175 6_663.564037225 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_UN
+roadinfo_UN
+roadinfo_6_0 6_846.094726624 6_469.841146264 6_0
+roadinfo_UN
+roadinfo_UN
+roadinfo_3_0 3_0 6_0 6_0 6_706.45343835 6_0
+roadinfo_3_524.169088327 3_0 6_524.169088327 6_0
+roadinfo_UN
+roadinfo_3_907.096232298 3_0 6_907.096232298 6_0 6_statuser 6_statuser 6_0 6_0
+roadinfo_6_1086.99960145 6_0 6_statuser 6_statuser
+roadinfo_6_343.234965407 6_statuser 6_statuser 6_statuser 6_statuser 6_0
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_3_811.982881953 3_0 6_811.982881953 6_0
+roadinfo_
+roadinfo_
+roadinfo_6_0 6_785.772456677
+roadinfo_6_statuser 6_150.238675308
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_765.230326704 6_0 6_765.230326704 6_96.9979679706 6_0 6_620.348907268 6_0
+roadinfo_3_0 3_0 6_0 6_0 6_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser 6_550.912579703 6_0
+roadinfo_UN
+roadinfo_
+roadinfo_6_0 6_561.140678505
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_315.780456166 3_0 6_315.780456166 6_0
+roadinfo_3_1050.50086053 3_0 6_1050.50086053 6_0
+roadinfo_3_1005.53547796 3_0 3_713.215156417 3_0 6_1005.53547796 6_0 6_713.215156417 6_0
+roadinfo_3_575.898042931 3_0 3_statuser 3_statuser 3_394.192688466 3_0 6_575.898042931 6_0 6_statuser 6_statuser 6_394.192688466 6_0
+roadinfo_3_958.941571533 3_0 6_958.941571533 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_515.347447724 3_0 6_515.347447724 6_0
+roadinfo_6_0 6_604.052620297
+roadinfo_
+roadinfo_
+roadinfo_3_0 6_0 6_0
+roadinfo_3_0 3_340.425914799 6_0 6_340.425914799 6_752.659772869 6_0
+roadinfo_6_471.347419926 6_0
+roadinfo_6_statuser 6_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_statuser 3_statuser 3_0 3_0 3_0 3_0 6_statuser 6_statuser 6_0 6_0 6_0 6_0
+roadinfo_3_1096.13955016 3_0 6_1096.13955016 6_0
+roadinfo_3_934.197322864 3_0 6_934.197322864 6_0 6_0 6_781.336095045
+roadinfo_3_358.855423234 3_0 6_358.855423234 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_3_1163.71530155 3_0 6_1163.71530155 6_0
+roadinfo_3_170.548305935 3_0 6_170.548305935 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_3_1106.53460514 3_0 6_1106.53460514 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0 6_0 6_0
+roadinfo_3_0 3_0 6_0 6_0 6_0 6_0
+roadinfo_6_0 6_0
+roadinfo_6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_812.445515625 3_0 6_812.445515625 6_0
+roadinfo_3_1046.65058689 3_0 6_1046.65058689 6_0
+roadinfo_3_1186.66794438 3_0 3_statuser 3_statuser 6_1186.66794438 6_0 6_statuser 6_statuser
+roadinfo_3_1145.25963555 3_0 6_1145.25963555 6_0
+roadinfo_3_1234.88907776 3_0 6_1234.88907776 6_0
+roadinfo_3_1239.78658197 3_0 6_1239.78658197 6_0
+roadinfo_3_1222.92757525 3_0 6_1222.92757525 6_0
+roadinfo_3_1069.60393007 3_0 3_273.643153413 3_0 6_1069.60393007 6_0 6_273.643153413 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_6_0 6_801.629068149
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_651.998390413 3_0 6_651.998390413 6_0
+roadinfo_3_370.778474997 3_0 6_370.778474997 6_0
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_3_statuser 3_statuser 3_630.276991243 3_0 6_statuser 6_statuser 6_630.276991243 6_0
+roadinfo_3_1125.68072852 3_0 6_1125.68072852 6_0
+roadinfo_3_1078.22722632 3_0 6_1078.22722632 6_0
+roadinfo_3_738.958865638 3_0 6_738.958865638 6_0
+roadinfo_3_0 3_0 3_0 3_488.375859623 6_0 6_0 6_0 6_488.375859623 6_979.115043835 6_0
+roadinfo_3_0 6_0 6_0
+roadinfo_6_0 6_373.752800485
+roadinfo_6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_3_340.539064353 3_0 6_340.539064353 6_0
+roadinfo_3_1248.55597939 3_0 6_1248.55597939 6_0
+roadinfo_3_1081.32107168 3_0 6_1081.32107168 6_0
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_3_statuser 3_statuser 6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_3_0 3_0 6_0 6_0
+roadinfo_
+roadinfo_
+roadinfo_6_0 6_523.406385045
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_6_0 6_1021.01928635
+roadinfo_3_1098.94246167 3_0 6_1098.94246167 6_0 6_0 6_521.573711283
+roadinfo_6_0 6_929.957484143
+roadinfo_6_0 6_900.45746698
+roadinfo_6_0 6_894.574174989
+roadinfo_6_0 6_1160.17426665
+roadinfo_6_0 6_914.206418359
+roadinfo_6_0 6_796.957755777
+roadinfo_6_0 6_1140.6994732
+roadinfo_6_0 6_689.816097764
+roadinfo_6_0 6_455.102240998
+roadinfo_6_0 6_1078.78095388
+roadinfo_6_0 6_836.92436624
+roadinfo_6_0 6_473.547874855
+roadinfo_6_statuser 6_statuser
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_
+roadinfo_

@@ -1,0 +1,35 @@
+UpdateTime_7:26 PM CO_10 Temperature_1 PM10_64 AQI_64 Humidity_28 Pressure_1024 SO2_7 NO2_20 Wind_2 O3_34 PM25_47 Name_
+UpdateTime_7:26 PM CO_13 Temperature_1 PM10_60 AQI_60 Humidity_28 Pressure_1024 SO2_8 NO2_23 Wind_2 O3_37 PM25_47 Name_
+UpdateTime_7:26 PM CO_15 Temperature_1 PM10_56 AQI_56 Humidity_28 Pressure_1024 SO2_9 NO2_28 Wind_2 O3_37 PM25_45 Name_
+UpdateTime_7:26 PM CO_12 Temperature_1 PM10_58 AQI_58 Humidity_28 Pressure_1024 SO2_7 NO2_50 Wind_2 O3_29 PM25_48 Name_
+UpdateTime_7:26 PM CO_15 Temperature_1 PM10_62 AQI_62 Humidity_26 Pressure_1022 SO2_8 NO2_21 Wind_2 O3_39 PM25_50 Name_
+UpdateTime_7:26 PM CO_12 Temperature_1 PM10_62 AQI_62 Humidity_27 Pressure_1024 SO2_9 NO2_18 Wind_2 O3_40 PM25_47 Name_
+UpdateTime_7:26 PM CO_15 Temperature_1 PM10_58 AQI_58 Humidity_27 Pressure_1024 SO2_11 NO2_52 Wind_2 O3_22 PM25_44 Name_
+UpdateTime_7:26 PM CO_15 Temperature_1 PM10_55 AQI_61 Humidity_27 Pressure_1024 SO2_7 NO2_61 Wind_2 O3_25 PM25_38 Name_
+UpdateTime_7:26 PM CO_12 Temperature_1 PM10_62 AQI_62 Humidity_27 Pressure_1024 SO2_8 NO2_28 Wind_2 O3_32 PM25_45 Name_
+UpdateTime_7:26 PM CO_12 Temperature_0 PM10_67 AQI_67 Humidity_24 Pressure_1025 SO2_7 NO2_25 Wind_2 O3_40 PM25_41 Name_
+
+UpdateTime_7:26 PM CO_12 Temperature_1 PM10_55 AQI_55 Humidity_27 Pressure_1026 SO2_6 NO2_26 Wind_2 O3_34 PM25_40 Name_
+UpdateTime_7:26 PM CO_12 Temperature_1 PM10_62 AQI_62 Humidity_27 Pressure_1026 SO2_10 NO2_26 Wind_2 O3_35 PM25_45 Name_
+UpdateTime_7:26 PM CO_15 Temperature_1 PM10_55 AQI_55 Humidity_27 Pressure_1026 SO2_8 NO2_52 Wind_2 O3_27 PM25_38 Name_
+UpdateTime_7:26 PM CO_12 Temperature_1 PM10_57 AQI_57 Humidity_27 Pressure_1026 SO2_8 NO2_24 Wind_2 O3_31 PM25_41 Name_
+UpdateTime_7:26 PM CO_17 Temperature_None PM10_56 AQI_56 Humidity_None Pressure_None SO2_5 NO2_25 Wind_None O3_34 PM25_47 Name_
+UpdateTime_7:26 PM CO_12 Temperature_None PM10_57 AQI_57 Humidity_None Pressure_None SO2_7 NO2_28 Wind_None O3_35 PM25_47 Name_
+UpdateTime_7:26 PM CO_10 Temperature_None PM10_55 AQI_55 Humidity_None Pressure_None SO2_7 NO2_21 Wind_None O3_32 PM25_40 Name_
+UpdateTime_7:26 PM CO_15 Temperature_None PM10_52 AQI_52 Humidity_None Pressure_None SO2_7 NO2_23 Wind_None O3_36 PM25_41 Name_
+UpdateTime_7:26 PM CO_15 Temperature_None PM10_58 AQI_58 Humidity_None Pressure_None SO2_7 NO2_33 Wind_None O3_31 PM25_53 Name_
+UpdateTime_7:26 PM CO_20 Temperature_1 PM10_59 AQI_59 Humidity_26 Pressure_1026 SO2_10 NO2_22 Wind_2 O3_34 PM25_40 Name_
+UpdateTime_7:26 PM CO_12 Temperature_1 PM10_50 AQI_50 Humidity_26 Pressure_1026 SO2_10 NO2_33 Wind_2 O3_34 PM25_44 Name_
+
+UpdateTime_7:26 PM CO_15 Temperature_0 PM10_56 AQI_56 Humidity_26 Pressure_1029 SO2_12 NO2_26 Wind_2 O3_35 PM25_32 Name_
+UpdateTime_7:26 PM CO_15 Temperature_0 PM10_51 AQI_51 Humidity_26 Pressure_1029 SO2_13 NO2_38 Wind_2 O3_38 PM25_37 Name_
+UpdateTime_7:26 PM CO_12 Temperature_1 PM10_47 AQI_50 Humidity_27 Pressure_1027 SO2_9 NO2_26 Wind_0 O3_35 PM25_50 Name_
+
+
+UpdateTime_7:26 PM CO_15 Temperature_0 PM10_66 AQI_66 Humidity_29 Pressure_1020 SO2_9 NO2_31 Wind_2 O3_36 PM25_47 Name_
+UpdateTime_7:26 PM CO_10 Temperature_0 PM10_39 AQI_39 Humidity_23 Pressure_1027 SO2_7 NO2_16 Wind_0 O3_38 PM25_35 Name_
+UpdateTime_7:26 PM CO_10 Temperature_0 PM10_29 AQI_37 Humidity_23 Pressure_1027 SO2_3 NO2_10 Wind_0 O3_36 PM25_37 Name_
+
+
+
+

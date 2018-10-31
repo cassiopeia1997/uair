@@ -1,0 +1,4539 @@
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_40 6_0
+speed_
+speed_6_90 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_
+speed_
+speed_6_0 6_0 6_0 6_0
+speed_6_80 6_0 6_55 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_45 6_45
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_
+speed_UN
+speed_
+speed_
+speed_6_100 6_0
+speed_6_100 6_0
+speed_6_0 6_60
+speed_
+speed_
+speed_6_0 6_50
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_40 6_0
+speed_6_40 6_0
+speed_6_0 6_0
+speed_6_90 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_
+speed_
+speed_6_0 6_0 6_0 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_UN
+speed_
+speed_
+speed_
+speed_6_45 6_0
+speed_6_45 6_0
+speed_6_0 6_45
+speed_
+speed_UN
+speed_6_0
+speed_6_80 6_75
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_100 6_0
+speed_6_100 6_0
+speed_
+speed_6_0 6_60
+speed_
+speed_
+speed_
+speed_6_0 6_50
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_40 6_0
+speed_6_90 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_
+speed_6_0 6_0 6_0 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_45 6_0
+speed_6_45 6_0
+speed_
+speed_
+speed_
+speed_
+speed_6_80 6_0
+speed_6_0 6_0
+speed_
+speed_6_95 6_90
+speed_6_100 6_0
+speed_
+speed_6_0 6_60
+speed_
+speed_6_0 6_50
+speed_6_0 6_50
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_40 6_0
+speed_6_90 6_0 6_40 6_40
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_0 6_0
+speed_6_0 6_0 6_0 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_45 6_0
+speed_6_45 6_0
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_80 6_0 6_45 6_45
+speed_6_80 6_0
+speed_
+speed_
+speed_
+speed_6_0
+speed_6_95 6_0
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_60
+speed_
+speed_6_0 6_50
+speed_
+speed_UN
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_90 6_0 6_40 6_40
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_40
+speed_6_0 6_0 6_0 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_45 6_0
+speed_6_45 6_0
+speed_
+speed_
+speed_
+speed_6_80 6_0
+speed_6_0 6_0 6_0 6_0
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_95 6_0
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_0 6_50
+speed_UN
+speed_UN
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_90 6_0 6_40 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_10 6_0 6_0 6_0 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_45 6_0
+speed_6_45 6_0
+speed_6_45 6_0
+speed_
+speed_
+speed_
+speed_
+speed_6_80 6_0
+speed_6_80 6_0
+speed_
+speed_6_45 6_45
+speed_
+speed_6_95 6_0
+speed_
+speed_6_0 6_60
+speed_
+speed_
+speed_6_0 6_50
+speed_6_0 6_0
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_90 6_0 6_40 6_0
+speed_6_40 6_0
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_45 6_0
+speed_6_0 6_0
+speed_6_0 6_0
+speed_6_45 6_0
+speed_6_45 6_0
+speed_6_45 6_0
+speed_6_25 6_0 6_40 6_45 6_0 6_0
+speed_6_25 6_0 6_0 6_40 6_35 6_45 6_0 6_0
+speed_6_10 6_0 6_0 6_40 6_40 6_45 6_0 6_0
+speed_6_45 6_0
+speed_6_45 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_45 6_0
+speed_6_45 6_0
+speed_6_45 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_80 6_0
+speed_
+speed_6_0 6_45
+speed_6_45 6_0
+speed_
+speed_6_0 6_0
+speed_6_95 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_50
+speed_6_0 6_50
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_
+speed_
+speed_
+speed_6_50 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_90 6_0
+speed_6_0 6_0 6_40 6_0
+speed_6_0 6_0
+speed_6_0 6_0
+speed_6_45 6_0
+speed_6_45 6_0
+speed_6_45 6_0
+speed_6_0 6_0
+speed_6_0 6_0
+speed_6_0 6_0
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_40 6_0 6_0 6_40
+speed_6_0 6_40 6_0 6_40 6_35 6_30 6_0
+speed_6_10 6_0 6_0 6_0 6_0 6_40 6_40 6_30 6_30 6_0
+speed_
+speed_6_45 6_0
+speed_6_45 6_0
+speed_6_45 6_0
+speed_6_45 6_50
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_45 6_0
+speed_6_45 6_0
+speed_6_45 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_80 6_0
+speed_
+speed_6_45 6_45
+speed_
+speed_6_95 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_50
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_
+speed_
+speed_6_50 6_0
+speed_6_50 6_0
+speed_6_50 6_0
+speed_6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0
+speed_6_90 6_0 6_0 6_0
+speed_6_40 6_40 6_45 6_0 6_ns
+speed_6_45 6_0
+speed_6_0 6_0
+speed_
+speed_
+speed_6_0 6_0
+speed_6_45 6_50
+speed_
+speed_
+speed_
+speed_6_0 6_40 6_30 6_0
+speed_6_0 6_0 6_40 6_35 6_30 6_0
+speed_6_10 6_0 6_0 6_40 6_35 6_30 6_0 6_40 6_40 6_0
+speed_6_10 6_80 6_0 6_30 6_35 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_45 6_0
+speed_6_0 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_80 6_0
+speed_
+speed_
+speed_6_45 6_45
+speed_
+speed_
+speed_6_95 6_0
+speed_6_0 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_
+speed_UN
+speed_UN
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_50 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_90 6_0
+speed_6_40 6_ns
+speed_
+speed_
+speed_
+speed_
+speed_6_45 6_50
+speed_6_0 6_0
+speed_6_0 6_79
+speed_6_0 6_79
+speed_6_0 6_79
+speed_6_0 6_79 6_0 6_40 6_35 6_0
+speed_6_0 6_79 6_40 6_35 6_35 6_0
+speed_6_0 6_0 6_35 6_0 6_40 6_40
+speed_6_10 6_80 6_0 6_35 6_35 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_45 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_80 6_0
+speed_
+speed_
+speed_
+speed_6_45 6_45
+speed_
+speed_
+speed_6_95 6_0
+speed_
+speed_
+speed_
+speed_
+speed_UN
+speed_UN
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_50 6_0
+speed_6_50 6_0
+speed_6_0 6_0
+speed_
+speed_
+speed_
+speed_6_0 6_0 6_0 6_0
+speed_6_90 6_95 6_0 6_79 6_80 6_0 6_0 6_35 6_80 6_0 6_0 6_0
+speed_6_0 6_0 6_35 6_0
+speed_6_0 6_0
+speed_6_0 6_79
+speed_6_0 6_0
+speed_6_0 6_79
+speed_6_0 6_0
+speed_6_0 6_79 6_45 6_50
+speed_6_0 6_0
+speed_
+speed_
+speed_
+speed_6_0 6_40
+speed_6_0 6_0 6_0 6_0
+speed_6_0 6_79 6_40 6_40
+speed_6_10 6_80 6_0 6_0 6_79 6_40 6_0
+speed_6_0 6_79
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_45 6_0
+speed_6_0 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_80 6_0
+speed_6_0
+speed_
+speed_
+speed_6_45 6_45
+speed_
+speed_6_0 6_0
+speed_6_0 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_UN
+speed_
+speed_
+speed_UN
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_50 6_0
+speed_6_50 6_0
+speed_6_50 6_0
+speed_
+speed_
+speed_6_0 6_0
+speed_6_80 6_0 6_40 6_0
+speed_6_35 6_40 6_0 6_0
+speed_6_40 6_0
+speed_6_40 6_45 6_35 6_0
+speed_6_35 6_0
+speed_6_0 6_45 6_0 6_ns
+speed_
+speed_6_45 6_50
+speed_
+speed_
+speed_
+speed_6_0 6_40
+speed_
+speed_6_40 6_40 6_35 6_0
+speed_6_80 6_0 6_40 6_0
+speed_6_0 6_0
+speed_6_0 6_79
+speed_6_0 6_79
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_45 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_80 6_0
+speed_6_0
+speed_
+speed_
+speed_
+speed_
+speed_6_45 6_45
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_50 6_0
+speed_6_50 6_0
+speed_6_50 6_0
+speed_6_0 6_0 6_50 6_0
+speed_6_80 6_0 6_50 6_0
+speed_6_35 6_0
+speed_6_35 6_30 6_35 6_ns
+speed_
+speed_
+speed_6_40 6_0
+speed_
+speed_6_45 6_50
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_40
+speed_
+speed_6_40 6_40 6_0 6_0
+speed_6_0 6_0 6_35 6_35 6_0 6_0
+speed_6_80 6_85 6_40 6_45
+speed_
+speed_6_0 6_79
+speed_6_0 6_79 6_45 6_0
+speed_6_0 6_79 6_0 6_0 6_45 6_0
+speed_
+speed_
+speed_
+speed_6_45 6_0
+speed_6_0 6_0
+speed_
+speed_
+speed_6_30 6_30
+speed_6_20 6_30
+speed_
+speed_
+speed_6_80 6_0
+speed_
+speed_
+speed_
+speed_
+speed_6_45 6_45
+speed_6_95 6_0
+speed_6_0 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_80 6_0 6_35 6_0 6_50 6_0
+speed_6_35 6_0 6_50 6_0
+speed_6_35 6_30 6_0 6_40 6_0 6_35 6_40 6_30 6_35 6_30 6_30 6_ns
+speed_6_30 6_30 6_40 6_0
+speed_6_40 6_0
+speed_6_40 6_0 6_40 6_ns 6_0 6_0
+speed_6_0 6_35
+speed_6_0 6_50
+speed_
+speed_
+speed_
+speed_6_20 6_0
+speed_6_20 6_15 6_0 6_40 6_35 6_0 6_35 6_25
+speed_6_35 6_0
+speed_6_0 6_40 6_35 6_0 6_0 6_35
+speed_6_21 6_0 6_35 6_35 6_35 6_35 6_35 6_0 6_30 6_30 6_35 6_35 6_35 6_35 6_35 6_0
+speed_6_0 6_25 6_80 6_85 6_35 6_35 6_30 6_45 6_0 6_40 6_45
+speed_6_45 6_0
+speed_6_45 6_0
+speed_6_45 6_0
+speed_6_0 6_79 6_40 6_50 6_0 6_0
+speed_6_0 6_79 6_0 6_45 6_0
+speed_6_0 6_79 6_0 6_45 6_0
+speed_6_0 6_79 6_0 6_45 6_0
+speed_6_0 6_79 6_45 6_0 6_40 6_40 6_45 6_0
+speed_6_0 6_79 6_45 6_0
+speed_
+speed_
+speed_
+speed_6_30 6_30 6_35 6_0
+speed_6_20 6_30 6_35 6_0
+speed_6_0 6_0
+speed_
+speed_6_0
+speed_
+speed_
+speed_
+speed_6_95 6_0 6_0 6_0
+speed_6_0 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_45 6_0
+speed_6_0 6_0
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_80 6_0
+speed_6_0 6_0 6_50 6_0 6_30 6_0
+speed_6_15 6_0 6_35 6_0 6_0 6_30 6_30 6_0 6_0 6_30 6_0 6_30 6_30 6_30 6_30 6_0 6_30 6_ns
+speed_6_30 6_30 6_35 6_0 6_30 6_30 6_0 6_40
+speed_6_35 6_0
+speed_6_35 6_0 6_ns 6_ns
+speed_6_0 6_35
+speed_6_45 6_50
+speed_6_45
+speed_
+speed_
+speed_6_0 6_40
+speed_
+speed_6_0 6_35 6_30 6_0 6_0 6_35
+speed_6_0 6_0 6_0 6_30 6_30 6_30 6_0 6_35 6_35 6_35 6_35 6_35 6_35
+speed_6_80 6_85 6_30 6_40 6_30 6_0 6_40 6_45
+speed_6_30 6_0
+speed_
+speed_
+speed_6_0 6_0
+speed_UN
+speed_UN
+speed_6_40 6_0
+speed_6_40 6_40
+speed_6_0 6_79 6_45 6_0
+speed_6_0 6_79 6_0 6_0 6_45 6_0
+speed_6_0 6_0 6_0
+speed_
+speed_6_0 6_30 6_30 6_0 6_40
+speed_6_0 6_25 6_0 6_0 6_0 6_0 6_0 6_0 6_30 6_40
+speed_6_0 6_0 6_35 6_0
+speed_6_80 6_0 6_35 6_35
+speed_6_80 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0 6_0 6_0
+speed_6_95 6_0 6_45 6_45
+speed_6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_45 6_0
+speed_6_45 6_0
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_
+speed_6_0 6_ns
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_
+speed_6_80 6_0 6_0 6_0 6_0 6_55
+speed_6_25 6_0 6_0 6_50 6_0 6_0 6_0 6_40 6_0 6_45 6_55 6_30 6_0 6_ns
+speed_6_30 6_30 6_0 6_0
+speed_
+speed_UN
+speed_
+speed_6_0 6_0
+speed_
+speed_6_35 6_0 6_0 6_40
+speed_6_0 6_0 6_0 6_0
+speed_6_35 6_0 6_0 6_0
+speed_6_35 6_40 6_0 6_35 6_0 6_35 6_40 6_0
+speed_6_0 6_35 6_35 6_35 6_35 6_40 6_0
+speed_6_80 6_85 6_40 6_0 6_40 6_45 6_ns
+speed_6_40 6_30 6_0 6_ns
+speed_6_60 6_0 6_30 6_30
+speed_6_60 6_0
+speed_6_40 6_50 6_60 6_0
+speed_6_0 6_60 6_0
+speed_6_0 6_60 6_0
+speed_6_40 6_0 6_60 6_0
+speed_6_0 6_60 6_0
+speed_6_60 6_0
+speed_6_0 6_40 6_40 6_35 6_40 6_35 6_0 6_60 6_55 6_30 6_0 6_0
+speed_6_0 6_79 6_0 6_0 6_30 6_0 6_45 6_0
+speed_6_0 6_79 6_35 6_30 6_0 6_30 6_35 6_45 6_0
+speed_6_15 6_0 6_79 6_40 6_0 6_0 6_0 6_0 6_45 6_0
+speed_6_0 6_79 6_0 6_0 6_35 6_35 6_30 6_35 6_45 6_0
+speed_6_80 6_0 6_30 6_35 6_25 6_0
+speed_6_80 6_0 6_25 6_0
+speed_6_25 6_0
+speed_6_20 6_25 6_0
+speed_6_20 6_0
+speed_6_0 6_0
+speed_
+speed_
+speed_6_95 6_0 6_0 6_0
+speed_6_0 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_45 6_0
+speed_
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_6_0 6_ns
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_0 6_0 6_0
+speed_6_0 6_0 6_0 6_55
+speed_6_25 6_80 6_0 6_0 6_0 6_40 6_0 6_35 6_0
+speed_6_30 6_30 6_50 6_0 6_35 6_35
+speed_
+speed_UN
+speed_
+speed_6_0 6_50
+speed_
+speed_
+speed_6_0 6_40
+speed_
+speed_6_0 6_0
+speed_6_0 6_0 6_35
+speed_6_0 6_35 6_35 6_35 6_35
+speed_6_80 6_85 6_40 6_45
+speed_
+speed_6_30 6_30
+speed_
+speed_6_40 6_50
+speed_UN
+speed_UN
+speed_6_40 6_0
+speed_UN
+speed_
+speed_6_35 6_40 6_0 6_0 6_0 6_0
+speed_6_0 6_0 6_35 6_35 6_35 6_35
+speed_6_0 6_40 6_0 6_35 6_0 6_0 6_30 6_35
+speed_6_20 6_0 6_35 6_30 6_30 6_0 6_40 6_35 6_ns
+speed_6_20 6_25 6_0 6_79 6_0 6_0 6_0 6_35 6_35 6_35 6_0 6_45 6_0
+speed_6_0 6_79 6_80 6_0 6_0 6_45 6_50
+speed_6_0 6_0
+speed_
+speed_
+speed_6_0 6_0
+speed_6_20 6_40 6_0
+speed_6_40 6_0
+speed_6_0 6_0 6_0 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_45 6_0
+speed_6_0 6_0
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_6_0 6_ns
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_55
+speed_6_0 6_55
+speed_6_0 6_50
+speed_6_0 6_0
+speed_6_80 6_0 6_0 6_55
+speed_6_0 6_0
+speed_6_80 6_0 6_0 6_0
+speed_6_80 6_0 6_0 6_0 6_45
+speed_6_50 6_0
+speed_UN
+speed_UN
+speed_6_0 6_50 6_0
+speed_
+speed_
+speed_
+speed_6_45 6_0 6_0 6_40
+speed_6_45 6_0
+speed_6_45 6_50 6_0 6_0 6_35 6_0
+speed_6_0 6_0 6_35 6_35 6_0
+speed_6_25 6_35 6_35 6_35 6_35 6_35 6_0
+speed_6_80 6_85 6_40 6_0 6_35 6_35 6_40 6_45
+speed_6_40 6_40 6_35 6_0
+speed_6_0 6_75 6_35 6_0 6_25 6_30
+speed_6_0 6_75 6_0 6_0
+speed_6_0 6_75 6_40 6_45
+speed_UN
+speed_UN
+speed_6_40 6_0
+speed_UN
+speed_6_0 6_0
+speed_6_35 6_35 6_35 6_40 6_35 6_0 6_40 6_0
+speed_6_0 6_0 6_0 6_35 6_35 6_40 6_0 6_0 6_0
+speed_6_35 6_40 6_40 6_35 6_0 6_0 6_45 6_45 6_30 6_35
+speed_6_0 6_0 6_25 6_30 6_30 6_35 6_0 6_0 6_45 6_0 6_35 6_35 6_40 6_35
+speed_6_20 6_25 6_80 6_0 6_30 6_30
+speed_6_0 6_0 6_0 6_0
+speed_6_0 6_79
+speed_6_0 6_79
+speed_6_0 6_0
+speed_6_0
+speed_6_0
+speed_6_0 6_0 6_0
+speed_6_95 6_0 6_0 6_40 6_0
+speed_6_40 6_30 6_0 6_0 6_40 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_45 6_0
+speed_6_45 6_0
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_50
+speed_6_0 6_50
+speed_6_0 6_55
+speed_6_80 6_0 6_0 6_55
+speed_
+speed_
+speed_6_80 6_0
+speed_6_0 6_0 6_50 6_0 6_60 6_0
+speed_6_60 6_0
+speed_UN
+speed_6_0 6_50 6_0
+speed_UN
+speed_6_0 6_0
+speed_6_60 6_0
+speed_6_35 6_0 6_0 6_40 6_60 6_ns
+speed_6_0 6_0
+speed_6_0 6_0
+speed_6_0 6_35 6_0 6_35 6_35 6_0
+speed_6_35 6_40 6_35 6_35 6_40 6_35 6_0
+speed_6_80 6_85 6_40 6_45
+speed_
+speed_6_0 6_75 6_0 6_0 6_30 6_30
+speed_6_35 6_0
+speed_6_0 6_75 6_40 6_45 6_35 6_0
+speed_6_0 6_75 6_0 6_35 6_0
+speed_6_40 6_0 6_35 6_0
+speed_6_40 6_0 6_35 6_0
+speed_6_0 6_35 6_0
+speed_6_35 6_0 6_60 6_50
+speed_6_0 6_0 6_35 6_40 6_45 6_0
+speed_6_35 6_35 6_45 6_0 6_45 6_0 6_ns 6_ns
+speed_6_35 6_35 6_45 6_0 6_0 6_0 6_0 6_0
+speed_6_0 6_0 6_30 6_30 6_0 6_0 6_45 6_0 6_35 6_0 6_30 6_0
+speed_6_0 6_80 6_0 6_40 6_50 6_40 6_0 6_45 6_45 6_0 6_35 6_40 6_30 6_0 6_ns
+speed_6_40 6_35 6_40 6_30 6_25 6_0 6_ns 6_ns
+speed_
+speed_
+speed_6_95 6_0
+speed_6_95 6_0
+speed_
+speed_6_0 6_0 6_40 6_0
+speed_6_40 6_0
+speed_6_40 6_0
+speed_6_40 6_0
+speed_6_40 6_0
+speed_6_0 6_0
+speed_
+speed_6_45 6_0
+speed_6_45 6_0
+speed_
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_6_0 6_ns
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_50
+speed_6_0 6_50
+speed_
+speed_
+speed_
+speed_6_85 6_0
+speed_
+speed_6_0 6_0 6_60 6_0
+speed_6_80 6_0 6_50 6_0 6_60 6_0
+speed_6_50 6_45
+speed_
+speed_6_0 6_50
+speed_
+speed_
+speed_
+speed_6_0 6_75
+speed_6_0 6_75 6_35 6_0
+speed_6_0 6_75 6_0 6_0
+speed_6_0 6_75 6_30 6_45 6_0 6_35 6_0 6_35 6_40 6_0
+speed_6_0 6_75 6_35 6_40 6_35 6_35 6_40 6_0 6_0 6_0 6_0 6_0 6_0
+speed_6_80 6_85 6_0 6_75 6_40 6_0 6_0 6_0 6_35 6_35 6_40 6_40
+speed_6_0 6_75 6_0 6_35
+speed_6_0 6_75 6_25 6_30
+speed_
+speed_
+speed_6_0 6_75 6_40 6_0 6_45 6_45
+speed_6_40 6_0
+speed_UN
+speed_6_60 6_50 6_45 6_0 6_40 6_0 6_0 6_0
+speed_6_35 6_40 6_45 6_0 6_45 6_0 6_0 6_ns
+speed_6_0 6_0 6_40 6_30 6_0 6_0 6_45 6_45 6_45 6_40 6_35 6_0 6_ns 6_0
+speed_6_0 6_35 6_0 6_0
+speed_6_80 6_0 6_0 6_50 6_0 6_0
+speed_6_80 6_0 6_35 6_40 6_0 6_0
+speed_6_40 6_ns 6_ns 6_ns
+speed_
+speed_
+speed_6_0 6_79
+speed_6_0 6_0
+speed_6_95 6_0
+speed_
+speed_
+speed_6_0 6_0
+speed_
+speed_
+speed_
+speed_
+speed_6_40 6_0
+speed_6_40 6_0
+speed_6_45 6_0 6_0 6_35
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_85 6_0
+speed_6_85 6_0
+speed_
+speed_
+speed_6_80 6_0
+speed_6_80 6_0 6_0 6_0 6_50 6_45
+speed_6_80 6_0
+speed_6_0 6_50
+speed_
+speed_6_0 6_75
+speed_
+speed_6_0 6_35 6_0 6_ns 6_ns
+speed_6_30 6_45 6_35 6_0 6_0 6_0
+speed_6_20 6_0 6_40 6_40 6_35 6_30 6_0 6_35 6_0 6_40 6_20 6_0 6_30 6_35 6_ns
+speed_6_20 6_80 6_85 6_30 6_35 6_0 6_0 6_25 6_35 6_35 6_30 6_30 6_40 6_40 6_40 6_0
+speed_
+speed_6_25 6_30
+speed_
+speed_
+speed_6_0 6_75 6_35 6_30 6_40 6_0 6_0 6_75 6_45 6_45
+speed_6_0 6_75 6_0 6_65 6_45
+speed_6_0 6_45 6_0
+speed_6_0 6_45 6_0
+speed_6_45 6_0 6_40 6_0 6_0 6_40 6_0 6_ns
+speed_6_45 6_0 6_40 6_0 6_40 6_40 6_35 6_40 6_0
+speed_6_45 6_40 6_0 6_0 6_0 6_0
+speed_6_0 6_0 6_0 6_50 6_0 6_35 6_40 6_35 6_35 6_35 6_45 6_45
+speed_6_80 6_0 6_0 6_50 6_0 6_40
+speed_UN
+speed_UN
+speed_
+speed_
+speed_6_0 6_79
+speed_6_0 6_95 6_0
+speed_6_0 6_0
+speed_
+speed_
+speed_6_0 6_0
+speed_
+speed_
+speed_
+speed_
+speed_6_45 6_0
+speed_6_45 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_6_0 6_ns
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_85 6_0
+speed_
+speed_
+speed_
+speed_6_30 6_0
+speed_6_80 6_0 6_30 6_30
+speed_6_0 6_50
+speed_
+speed_6_0 6_75
+speed_6_0 6_75
+speed_
+speed_6_25 6_0 6_ns 6_ns
+speed_6_35 6_0 6_35 6_35 6_25 6_25
+speed_6_35 6_35 6_40 6_35 6_30 6_0 6_30 6_35 6_20 6_40
+speed_6_10 6_80 6_85 6_0 6_30 6_30 6_40 6_40 6_40 6_0
+speed_6_40 6_40 6_40 6_0 6_ns
+speed_6_25 6_30 6_40 6_35 6_35 6_35 6_20 6_25
+speed_
+speed_
+speed_6_35 6_30 6_0 6_75 6_0 6_45
+speed_6_0 6_75 6_35 6_35
+speed_6_0 6_75
+speed_6_0 6_75
+speed_6_0 6_40
+speed_6_0 6_0 6_0 6_40
+speed_6_45 6_40 6_40 6_40 6_0 6_35 6_35 6_0 6_35 6_40 6_40 6_35
+speed_6_80 6_0 6_0 6_0 6_0 6_40 6_45 6_45 6_0 6_40
+speed_6_0 6_0 6_40 6_0 6_0
+speed_UN
+speed_
+speed_
+speed_
+speed_6_0 6_0 6_0 6_0
+speed_6_75 6_79 6_95 6_0
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_45 6_45
+speed_
+speed_
+speed_
+speed_
+speed_6_45 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_6_0 6_ns
+speed_
+speed_6_0 6_ns
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_85 6_0
+speed_
+speed_
+speed_
+speed_
+speed_6_80 6_0 6_30 6_30
+speed_6_0 6_0
+speed_
+speed_
+speed_6_0 6_75
+speed_
+speed_6_0 6_35
+speed_6_35 6_35 6_ns 6_ns
+speed_6_35 6_35
+speed_6_35 6_0 6_20 6_25 6_30 6_35 6_0 6_30
+speed_6_10 6_80 6_60 6_0 6_0 6_30 6_30 6_40 6_40
+speed_6_40 6_40 6_0 6_0
+speed_6_35 6_35 6_20 6_25 6_30 6_25 6_30 6_0 6_30 6_0 6_30 6_0
+speed_6_30 6_0 6_30 6_35 6_25 6_25 6_30 6_30 6_30 6_30 6_20 6_0 6_0 6_0
+speed_6_10 6_20 6_35 6_0 6_35 6_35 6_30 6_40 6_20 6_25
+speed_6_25 6_35 6_30 6_0 6_35 6_0 6_75 6_27 6_25 6_35 6_0 6_0 6_45
+speed_6_35 6_0 6_35 6_35
+speed_6_35 6_35 6_35 6_0 6_25 6_25
+speed_6_0 6_75 6_0 6_35 6_35 6_0 6_35 6_0
+speed_6_0 6_75 6_35 6_0 6_0 6_40 6_35 6_35 6_35 6_0
+speed_6_0 6_40 6_35 6_35 6_45 6_40 6_40 6_0 6_35 6_35
+speed_6_0 6_0 6_0 6_40 6_35 6_45
+speed_6_80 6_0 6_0 6_0 6_45 6_45 6_0 6_40 6_40 6_0 6_45
+speed_6_40 6_0 6_0 6_0
+speed_6_45 6_0 6_0 6_0 6_0 6_0
+speed_6_45 6_0 6_0 6_45
+speed_
+speed_6_0 6_0
+speed_6_95 6_0
+speed_6_0 6_0 6_0 6_0 6_0 6_75
+speed_6_0 6_0
+speed_
+speed_6_0 6_0
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0 6_45 6_0
+speed_6_85 6_0
+speed_6_85 6_0
+speed_6_85 6_0
+speed_6_85 6_0
+speed_6_85 6_0
+speed_6_85 6_0
+speed_6_85 6_0
+speed_6_85 6_0
+speed_6_85 6_0
+speed_6_85 6_85
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_
+speed_6_0 6_0
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_85 6_0
+speed_
+speed_
+speed_
+speed_
+speed_6_50 6_80 6_0 6_30 6_0
+speed_6_25 6_0 6_50 6_80 6_0 6_30
+speed_
+speed_6_0 6_75
+speed_
+speed_6_0 6_35
+speed_UN
+speed_6_35 6_35
+speed_6_0 6_0 6_20 6_25
+speed_6_80 6_60 6_35 6_35 6_40 6_40
+speed_6_40 6_40 6_30 6_0
+speed_6_0 6_0 6_30 6_0
+speed_6_20 6_0 6_30 6_30
+speed_6_35 6_35 6_0
+speed_6_0 6_75 6_0 6_45
+speed_6_35 6_35
+speed_6_25 6_25
+speed_6_0 6_35 6_35 6_0
+speed_6_0 6_75 6_35 6_0 6_0 6_45
+speed_6_70 6_75 6_35 6_35 6_45 6_40 6_40 6_0 6_35 6_0 6_45 6_45 6_40 6_0
+speed_6_80 6_0 6_0 6_40 6_0 6_40 6_0 6_0 6_40 6_40 6_35 6_45
+speed_6_0 6_0 6_0 6_0
+speed_6_40 6_0 6_0 6_45 6_0 6_ns
+speed_6_40 6_40 6_0 6_45 6_0 6_0
+speed_6_45 6_0 6_0 6_0
+speed_6_0 6_0
+speed_6_95 6_0
+speed_6_0 6_0
+speed_6_0
+speed_6_0 6_75
+speed_6_0 6_0
+speed_
+speed_
+speed_6_45 6_45
+speed_
+speed_
+speed_6_0 6_0
+speed_6_85 6_0 6_45 6_0
+speed_6_0 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_85 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_25 6_80 6_0 6_30
+speed_
+speed_6_0 6_0
+speed_6_0 6_75
+speed_
+speed_6_0 6_35 6_25 6_0 6_30 6_30 6_30 6_30 6_0
+speed_6_25 6_0 6_0
+speed_6_35 6_35 6_25 6_20 6_ns
+speed_6_15 6_0 6_20 6_25 6_30 6_25
+speed_6_15 6_15 6_80 6_60 6_30 6_0 6_40 6_40
+speed_6_40 6_40 6_30 6_0
+speed_6_30 6_0
+speed_6_0 6_30 6_30
+speed_6_35 6_35
+speed_6_0 6_75 6_0 6_45 6_0 6_35
+speed_6_35 6_35
+speed_6_0 6_0 6_35 6_35 6_0 6_25 6_25 6_0
+speed_6_0 6_35 6_35 6_0 6_0
+speed_6_0 6_45 6_0
+speed_6_70 6_75 6_0 6_70 6_80 6_0 6_35 6_0 6_0 6_0 6_45 6_0
+speed_6_0 6_70 6_80 6_0 6_0 6_40 6_35 6_40 6_35 6_45 6_30 6_30 6_0
+speed_
+speed_6_0 6_45
+speed_
+speed_6_0 6_0
+speed_6_95 6_0 6_45 6_0
+speed_6_0 6_0
+speed_
+speed_
+speed_6_0 6_0
+speed_6_0 6_75
+speed_
+speed_6_0 6_0
+speed_6_45 6_0
+speed_
+speed_6_85 6_0
+speed_6_85 6_0
+speed_6_45 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_
+speed_6_0 6_ns
+speed_
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_
+speed_
+speed_6_0 6_0
+speed_6_85 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_25 6_80 6_0 6_30
+speed_6_0 6_0
+speed_6_0 6_75
+speed_6_0 6_0
+speed_
+speed_6_0 6_65 6_30 6_30 6_30 6_30 6_35 6_30 6_20 6_25 6_0 6_40
+speed_6_0 6_65 6_0 6_40
+speed_6_0 6_65 6_35 6_35 6_30 6_0 6_0 6_40
+speed_6_0 6_65 6_30 6_25 6_0 6_40
+speed_6_80 6_60 6_0 6_65 6_40 6_40 6_0 6_40
+speed_6_0 6_65 6_40 6_40 6_30 6_35 6_35 6_35 6_30 6_35 6_0 6_40
+speed_6_0 6_65 6_30 6_0 6_30 6_30 6_0 6_40
+speed_6_0 6_35 6_0 6_65 6_30 6_30 6_30 6_30 6_30 6_30 6_0 6_40
+speed_6_35 6_0 6_0 6_65 6_30 6_30 6_25 6_25 6_35 6_0 6_40
+speed_6_0 6_65 6_0 6_75 6_45 6_45 6_0 6_45 6_0 6_35 6_0 6_40
+speed_6_0 6_65 6_25 6_25 6_0 6_40
+speed_6_20 6_0 6_65 6_35 6_30 6_35 6_25 6_25 6_0 6_0 6_40
+speed_6_0 6_65 6_35 6_0 6_0 6_45 6_0 6_40
+speed_6_80 6_0 6_35 6_35 6_0 6_45 6_0
+speed_6_80 6_0 6_30 6_0 6_0
+speed_6_0 6_70 6_25 6_30 6_30 6_30 6_0
+speed_6_0 6_70
+speed_
+speed_
+speed_6_95 6_0
+speed_6_95 6_0 6_45 6_0
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_75
+speed_6_0 6_75
+speed_6_0 6_0
+speed_6_45 6_45
+speed_6_85 6_0
+speed_
+speed_
+speed_6_45 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_
+speed_6_0 6_0
+speed_
+speed_
+speed_6_0 6_0
+speed_6_85 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_25 6_80 6_0 6_30
+speed_6_0 6_75 6_0
+speed_6_0 6_0
+speed_6_40 6_0
+speed_6_0 6_0 6_0 6_40 6_45
+speed_6_0 6_0 6_65 6_65 6_65 6_35 6_30 6_0 6_0 6_20 6_20 6_30 6_35 6_30 6_30 6_30 6_0 6_0 6_40 6_35 6_35
+speed_6_30 6_0
+speed_6_35 6_35 6_30 6_25
+speed_
+speed_6_80 6_60 6_35 6_30 6_30 6_0 6_40 6_40
+speed_6_30 6_35 6_35 6_35 6_30 6_35 6_30 6_30
+speed_6_30 6_30
+speed_6_0 6_35 6_35 6_30 6_30 6_30 6_25 6_0
+speed_6_15 6_15 6_0 6_30 6_30 6_25 6_25 6_25 6_0 6_25 6_25 6_ns
+speed_6_15 6_30 6_45 6_45 6_25 6_0 6_25 6_25 6_ns
+speed_6_20 6_25 6_25 6_0
+speed_6_0 6_0 6_30 6_35 6_25 6_25 6_40 6_0 6_0
+speed_6_15 6_0 6_65 6_25 6_30 6_0 6_45 6_0 6_35 6_40 6_0
+speed_6_65 6_0 6_80 6_0 6_60 6_0 6_0 6_0 6_40 6_35 6_35
+speed_6_30 6_0 6_0
+speed_6_25 6_30 6_0
+speed_6_0 6_70
+speed_6_0 6_0 6_65 6_70
+speed_6_95 6_0
+speed_6_0 6_0
+speed_6_45 6_0
+speed_6_45 6_0
+speed_
+speed_
+speed_
+speed_6_85 6_0
+speed_6_85 6_0 6_0 6_75
+speed_6_85 6_0 6_0
+speed_6_85 6_0 6_45 6_45
+speed_6_0 6_0
+speed_
+speed_
+speed_6_45 6_0
+speed_6_0 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_85 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_25 6_0 6_0 6_80 6_0 6_30 6_35 6_0
+speed_6_0 6_75 6_0 6_80 6_0 6_35 6_0
+speed_
+speed_6_30 6_0
+speed_6_0 6_25 6_0 6_30 6_35 6_35 6_30
+speed_6_15 6_20 6_0 6_65 6_65 6_0 6_30 6_25 6_25 6_25 6_25 6_30 6_30 6_0 6_0 6_35 6_35
+speed_6_25 6_0 6_30 6_0 6_25 6_0
+speed_6_0 6_55 6_0 6_35 6_35 6_25 6_0 6_35 6_0 6_35
+speed_6_40 6_0 6_55 6_25 6_25 6_0 6_35 6_35
+speed_6_80 6_60 6_0 6_55 6_30 6_0 6_35 6_30 6_40 6_40 6_0 6_35 6_30 6_35
+speed_6_25 6_0 6_0 6_30 6_30 6_30 6_35 6_35 6_35 6_30 6_30 6_35 6_30 6_30 6_25 6_0 6_0
+speed_6_20 6_15 6_20 6_15 6_0 6_0 6_0 6_0 6_30 6_30 6_30 6_30 6_25 6_0
+speed_6_0 6_35 6_30 6_30 6_25 6_25 6_0 6_25
+speed_6_30 6_30 6_25 6_25 6_ns 6_0
+speed_6_15 6_0 6_0 6_20 6_45 6_45 6_25 6_0 6_25 6_20 6_0 6_25 6_25 6_20 6_0 6_ns 6_ns
+speed_6_20 6_20 6_15 6_20 6_0 6_35 6_0 6_30 6_0 6_25 6_30 6_35 6_20 6_20
+speed_6_30 6_35 6_25 6_25 6_30 6_30 6_0
+speed_6_80 6_0 6_25 6_30 6_0
+speed_6_0 6_80 6_0 6_65 6_60 6_30 6_0 6_0 6_35 6_35
+speed_6_0
+speed_6_25 6_30 6_0
+speed_6_0 6_30
+speed_6_15 6_0 6_0 6_65 6_70 6_30 6_45
+speed_6_0 6_0
+speed_
+speed_
+speed_6_45 6_0
+speed_6_0 6_40
+speed_6_85 6_0
+speed_6_85 6_0
+speed_6_85 6_0
+speed_6_0 6_0
+speed_6_0 6_75
+speed_6_45 6_45
+speed_
+speed_
+speed_6_45 6_0
+speed_6_45 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_85 6_0
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_80 6_0 6_35 6_0 6_0 6_0
+speed_6_25 6_0 6_80 6_0 6_35 6_35 6_35 6_35 6_30 6_0
+speed_6_25 6_25 6_0 6_0 6_0 6_30
+speed_6_0 6_35 6_30
+speed_6_0 6_65 6_65 6_30 6_30 6_30 6_0 6_35 6_35
+speed_6_30 6_0 6_20 6_25
+speed_6_0 6_25 6_60 6_0 6_30 6_30 6_0 6_35
+speed_
+speed_6_10 6_25 6_25 6_80 6_60 6_0 6_55 6_60 6_0 6_0 6_30 6_0 6_35
+speed_6_0 6_55 6_30 6_35 6_0 6_35 6_35 6_35 6_0 6_30 6_35 6_0 6_35
+speed_6_20 6_15 6_0 6_55 6_35 6_40 6_40 6_25 6_0 6_0 6_35
+speed_6_15 6_0 6_35 6_0 6_55 6_45 6_0 6_30 6_30 6_0 6_25 6_0 6_35
+speed_6_15 6_15 6_0 6_55 6_30 6_30 6_25 6_25 6_25 6_0 6_25 6_20 6_0 6_35
+speed_6_20 6_20 6_15 6_0 6_55 6_45 6_45 6_40 6_40 6_25 6_20 6_20 6_25 6_25 6_25 6_0 6_35 6_35
+speed_6_0 6_55 6_0 6_35 6_30 6_30 6_30 6_35 6_20 6_20 6_35 6_30 6_30 6_30 6_0 6_0 6_0 6_35
+speed_6_55 6_55 6_80 6_0 6_25 6_25 6_30 6_0 6_0 6_30 6_35
+speed_6_15 6_20 6_20 6_15 6_80 6_0 6_25 6_30 6_30 6_25 6_30 6_0 6_0 6_30 6_0 6_0 6_0
+speed_6_15 6_65 6_60 6_30 6_30 6_0 6_0 6_30 6_40 6_35 6_35
+speed_6_0
+speed_6_15 6_0 6_25 6_30 6_30 6_0
+speed_6_0 6_30
+speed_6_65 6_70
+speed_
+speed_
+speed_
+speed_
+speed_6_85 6_0 6_45 6_40 6_0 6_0
+speed_6_85 6_0 6_0 6_0
+speed_
+speed_
+speed_
+speed_6_0 6_75 6_0 6_45
+speed_6_45 6_45
+speed_6_0 6_0
+speed_6_45 6_0
+speed_6_45 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_85 6_0
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_0 6_35
+speed_6_80 6_0 6_35 6_35 6_0
+speed_6_25 6_25 6_80 6_0 6_60 6_0 6_35 6_40 6_35 6_35 6_0 6_30 6_30 6_0 6_35 6_0
+speed_6_15 6_25 6_0 6_60 6_0 6_0 6_30 6_30 6_35 6_0 6_0
+speed_6_0 6_60 6_60 6_61 6_0 6_65 6_65 6_35 6_0 6_30 6_30 6_25 6_25 6_0 6_40 6_35 6_0 6_35 6_35
+speed_6_0 6_0 6_61 6_60 6_20 6_25 6_0 6_35 6_35 6_35
+speed_6_25 6_55 6_0 6_50 6_60 6_35 6_0 6_20 6_30 6_30 6_0 6_0 6_35 6_35
+speed_6_55 6_0 6_30 6_0
+speed_6_10 6_60 6_60 6_55 6_45 6_0 6_0 6_30 6_30 6_35 6_30 6_35
+speed_6_60 6_35 6_35 6_35
+speed_6_40 6_40 6_30 6_0 6_30 6_0 6_25 6_0
+speed_6_15 6_0 6_15 6_10 6_15 6_45 6_40 6_30 6_35 6_30 6_25 6_0 6_0 6_25
+speed_6_15 6_15 6_20 6_25 6_20 6_25 6_0 6_30 6_30
+speed_6_20 6_20 6_40 6_40 6_25 6_0 6_30 6_25 6_25 6_30 6_0
+speed_6_15 6_15 6_35 6_30 6_30 6_30 6_30 6_30 6_30 6_30 6_30 6_40
+speed_6_10 6_0 6_20 6_20 6_0 6_20 6_15 6_25 6_55 6_55 6_80 6_0 6_0 6_55 6_0 6_25 6_25 6_20 6_25 6_0 6_30 6_35 6_30 6_25
+speed_6_15 6_20 6_15 6_30 6_0 6_25 6_30 6_25 6_0 6_0 6_0
+speed_6_15 6_65 6_60 6_30 6_25 6_35 6_0 6_0 6_0 6_35 6_0 6_0 6_30 6_0 6_0 6_25 6_35 6_35
+speed_6_40 6_40 6_35 6_0 6_35 6_30 6_0 6_30 6_40
+speed_6_15 6_15 6_0 6_35 6_30 6_0
+speed_6_10 6_15 6_0
+speed_6_65 6_70 6_35
+speed_6_85 6_0 6_35
+speed_6_85 6_0 6_35 6_35
+speed_6_85 6_0
+speed_6_85 6_0
+speed_6_85 6_0 6_0 6_0 6_0 6_0
+speed_6_45 6_0 6_45 6_0 6_40 6_0
+speed_6_45 6_0 6_0
+speed_6_45 6_0
+speed_6_40 6_0 6_0 6_45
+speed_6_0 6_75 6_0 6_0 6_0 6_45 6_40 6_45
+speed_6_0 6_0 6_45 6_0 6_40 6_40
+speed_6_45 6_0
+speed_6_0 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_
+speed_
+speed_6_85 6_0
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_0 6_35
+speed_6_35 6_35 6_30 6_0 6_0 6_0
+speed_6_80 6_0 6_30 6_30 6_35 6_35 6_35 6_40 6_35 6_35
+speed_6_15 6_25 6_25 6_0 6_80 6_0 6_0 6_65 6_0 6_0 6_35
+speed_6_25 6_0 6_80 6_0 6_65 6_0 6_35 6_35 6_25 6_25 6_30 6_0 6_35 6_0
+speed_6_0 6_0 6_0 6_35 6_0 6_ns 6_ns
+speed_6_10 6_10 6_10 6_15 6_50 6_60 6_35 6_30 6_25 6_25 6_20 6_25 6_25 6_30 6_25 6_0 6_0 6_35 6_35
+speed_6_25 6_0 6_25 6_25 6_30 6_25
+speed_6_10 6_0 6_20 6_60 6_60 6_45 6_55 6_0 6_30 6_30 6_25 6_25 6_35 6_30 6_25 6_25 6_30 6_35 6_30 6_0 6_35 6_35 6_ns
+speed_6_35 6_0 6_60 6_35 6_35 6_30 6_35 6_30 6_0 6_35 6_40
+speed_6_0 6_60 6_40 6_40 6_30 6_0 6_0 6_0 6_40 6_40 6_30 6_0 6_35
+speed_6_45 6_40 6_0 6_60 6_30 6_35 6_30 6_30 6_41 6_35 6_40 6_40 6_35 6_30 6_35 6_0 6_40 6_35
+speed_6_0 6_60 6_30 6_30 6_35 6_0 6_35
+speed_6_0 6_60 6_40 6_40 6_40 6_45 6_0 6_30 6_25 6_25 6_35 6_0 6_35 6_35 6_35
+speed_6_15 6_15 6_61 6_60 6_30 6_0 6_55 6_50 6_30 6_35 6_35 6_30 6_35 6_30 6_40 6_35 6_25 6_0 6_0 6_0 6_35 6_35
+speed_6_15 6_15 6_20 6_25 6_30 6_30 6_35 6_0 6_0 6_55 6_25 6_20 6_25 6_0 6_25 6_20 6_0 6_0 6_0 6_40
+speed_6_35 6_0 6_0 6_30 6_20 6_20 6_30 6_0 6_20 6_20 6_0
+speed_6_15 6_0 6_0 6_50 6_40 6_0 6_35 6_65 6_60 6_30 6_0 6_30 6_0 6_30 6_30 6_30 6_30 6_35 6_35 6_0 6_0
+speed_6_15 6_10 6_85 6_0 6_40 6_40 6_30 6_30 6_30 6_30 6_0 6_35 6_30 6_30 6_30 6_0 6_35 6_0 6_ns
+speed_6_15 6_0 6_10 6_85 6_0 6_30 6_35 6_30 6_35 6_0 6_0
+speed_6_10 6_15 6_0 6_85 6_0 6_35 6_40 6_35 6_0
+speed_6_25 6_85 6_0 6_65 6_70 6_35 6_0
+speed_6_0 6_85 6_0 6_25 6_0 6_35 6_0
+speed_6_0 6_0 6_0 6_0 6_35
+speed_
+speed_
+speed_6_0 6_0
+speed_6_45 6_0 6_0 6_0 6_30 6_35
+speed_6_0 6_0 6_0 6_40 6_0
+speed_6_40 6_0
+speed_6_40 6_0 6_40 6_35
+speed_6_0 6_0 6_40 6_0 6_0 6_45
+speed_6_75 6_75 6_0 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_6_45 6_ns
+speed_
+speed_6_0 6_0
+speed_6_85 6_0
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_0 6_35
+speed_6_35 6_35 6_45 6_0
+speed_6_20 6_20 6_45 6_30 6_0 6_35 6_40 6_35 6_35 6_25 6_0 6_ns
+speed_6_0 6_0 6_65 6_30 6_25 6_25 6_30 6_0 6_35
+speed_6_0 6_80 6_0 6_35 6_35 6_30 6_0
+speed_6_20 6_80 6_80 6_0 6_60 6_35 6_0 6_25 6_30 6_30 6_0 6_35
+speed_6_0 6_35 6_30 6_35 6_40 6_25 6_25 6_0 6_0 6_25 6_0 6_35
+speed_6_20 6_0 6_30 6_30 6_0 6_25 6_30 6_30 6_25 6_0 6_25 6_25 6_0 6_30 6_25 6_0 6_0 6_ns 6_ns 6_ns 6_ns
+speed_6_25 6_15 6_20 6_55 6_0 6_72 6_0 6_0 6_30 6_30 6_25 6_25 6_35 6_30 6_30 6_35 6_30 6_0 6_35 6_35 6_30 6_25 6_0 6_25 6_20 6_0 6_35
+speed_6_30 6_30 6_30 6_35 6_30 6_0 6_30 6_25 6_30 6_30 6_25 6_30 6_25 6_0
+speed_6_25 6_0 6_20 6_40 6_40 6_30 6_30 6_30 6_30 6_30 6_30 6_25 6_30 6_30 6_0 6_ns
+speed_6_15 6_15 6_0 6_20 6_40 6_40 6_35 6_30 6_30 6_35 6_30 6_25 6_36 6_25 6_42 6_25 6_25 6_30 6_30
+speed_
+speed_6_30 6_0 6_0 6_40 6_45 6_35 6_40 6_30 6_30 6_0 6_35 6_30 6_35
+speed_6_0 6_25 6_55 6_50 6_30 6_35 6_35 6_0 6_30 6_35 6_35 6_35 6_0 6_40 6_35 6_0 6_0 6_0 6_30 6_30 6_35 6_35 6_30 6_35 6_35
+speed_6_25 6_20 6_0 6_0 6_55 6_35 6_40 6_0 6_0 6_25 6_20 6_20 6_25 6_25 6_30 6_25 6_40 6_25 6_25 6_20 6_35 6_0 6_0
+speed_6_20 6_0 6_35 6_0 6_20 6_20 6_30 6_30 6_40 6_30
+speed_6_65 6_60 6_35 6_0 6_30 6_0 6_30 6_30 6_0 6_35 6_35
+speed_6_35 6_35 6_30 6_0
+speed_
+speed_6_0 6_35 6_40
+speed_6_25 6_65
+speed_6_0 6_0 6_0
+speed_6_0 6_25 6_35
+speed_
+speed_
+speed_6_0 6_0
+speed_6_40 6_0 6_30 6_35
+speed_6_45 6_0 6_0 6_45 6_40 6_0 6_35 6_35
+speed_6_40 6_0
+speed_6_40 6_0 6_40 6_35 6_35 6_0
+speed_6_0 6_0
+speed_6_75 6_75
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_45 6_ns 6_ns 6_0
+speed_UN
+speed_UN
+speed_6_85 6_0 6_ns 6_0
+speed_UN
+speed_UN
+speed_UN
+speed_6_0 6_0 6_ns 6_ns
+speed_6_0 6_35 6_30 6_0 6_30 6_30 6_40 6_40
+speed_6_30 6_0
+speed_6_35 6_40 6_35 6_35 6_30 6_0 6_30 6_35
+speed_6_0 6_0 6_65 6_30 6_30 6_35 6_0 6_30 6_0 6_0 6_35
+speed_6_0 6_35 6_35 6_35 6_35 6_0 6_0 6_30 6_0 6_30 6_30
+speed_6_0 6_0 6_60 6_20 6_30 6_30 6_30 6_20 6_0 6_35 6_ns
+speed_6_5 6_5 6_15 6_25 6_20 6_35 6_30 6_35 6_30 6_40 6_0 6_0 6_35 6_25 6_25 6_0 6_25 6_52 6_0
+speed_6_20 6_20 6_50 6_0 6_0 6_0 6_30 6_30 6_0 6_21 6_25 6_30 6_ns 6_ns
+speed_6_20 6_15 6_15 6_20 6_55 6_0 6_50 6_50 6_40 6_0 6_35 6_30 6_35 6_35 6_20 6_25 6_20 6_30 6_30 6_35 6_35
+speed_6_30 6_25 6_40 6_0 6_30 6_30 6_25 6_30 6_20 6_25 6_30
+speed_6_20 6_40 6_40 6_40 6_35 6_0 6_40 6_30 6_30 6_40 6_0 6_30 6_35 6_40 6_35 6_25 6_25 6_0 6_20 6_25
+speed_6_0 6_20 6_15 6_30 6_0 6_45 6_0 6_30 6_0 6_40 6_40 6_0 6_0 6_0 6_25 6_30 6_20 6_20 6_30 6_35
+speed_6_20 6_15 6_30 6_0 6_45 6_0 6_20 6_25 6_30 6_30
+speed_6_20 6_15 6_10 6_15 6_40 6_0 6_30 6_30 6_45 6_40 6_27 6_0 6_35 6_30 6_35 6_25 6_31 6_35 6_35 6_30 6_30
+speed_6_15 6_55 6_50 6_40 6_35 6_35 6_0 6_0 6_30 6_30 6_0 6_25 6_20 6_30 6_35
+speed_6_15 6_20 6_15 6_20 6_15 6_15 6_0 6_0 6_0 6_35 6_0 6_25 6_0 6_25 6_25 6_25 6_25 6_25 6_35 6_30 6_0
+speed_6_0 6_55 6_0 6_40 6_30 6_30 6_0 6_30 6_ns
+speed_6_65 6_60 6_30 6_0 6_30 6_0 6_35 6_35 6_ns
+speed_6_0 6_20 6_0 6_ns
+speed_6_0 6_ns
+speed_6_0 6_0 6_35 6_40 6_0 6_ns
+speed_6_25 6_65 6_40 6_ns
+speed_UN
+speed_6_0 6_25 6_35
+speed_
+speed_
+speed_6_35 6_0
+speed_6_30 6_35 6_35 6_0
+speed_6_40 6_0 6_45 6_0 6_35 6_35 6_35 6_0
+speed_6_40 6_0 6_40 6_40 6_45 6_45 6_35 6_30 6_35 6_35 6_30 6_0
+speed_6_30 6_0
+speed_6_35 6_0 6_30 6_35 6_0 6_0
+speed_6_75 6_75 6_35 6_40 6_40 6_45
+speed_
+speed_
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_UN
+speed_
+speed_
+speed_6_85 6_0
+speed_
+speed_
+speed_
+speed_6_0 6_0 6_65 6_0 6_25 6_0 6_30 6_0 6_45 6_0 6_ns 6_ns
+speed_6_65 6_0 6_30 6_30 6_40 6_40 6_25 6_25 6_45 6_0
+speed_6_65 6_0 6_25 6_35 6_45 6_0
+speed_6_65 6_0 6_35 6_40 6_35 6_35 6_35 6_35 6_30 6_0 6_30 6_30 6_45 6_0
+speed_6_0 6_65 6_65 6_55 6_0 6_0 6_65 6_30 6_0 6_30 6_30 6_45 6_45 6_35 6_0 6_0 6_35
+speed_6_0 6_55 6_0 6_35 6_35 6_35 6_30 6_30 6_25 6_0 6_0 6_30 6_30 6_35 6_0
+speed_6_35 6_0 6_0 6_60 6_55 6_0 6_20 6_25 6_30 6_30 6_30 6_0 6_0 6_35 6_35 6_35
+speed_6_25 6_20 6_25 6_61 6_0 6_0 6_65 6_40 6_40 6_25 6_30 6_30 6_25 6_0 6_35
+speed_6_0 6_61 6_0 6_0 6_0 6_35 6_35 6_0 6_35 6_0
+speed_6_15 6_0 6_0 6_20 6_55 6_0 6_61 6_61 6_35 6_30 6_40 6_0 6_25 6_25 6_30 6_30 6_0 6_0 6_0 6_35 6_35 6_35 6_0 6_35
+speed_6_15 6_55 6_55 6_30 6_30 6_40 6_0 6_30 6_30 6_25 6_30 6_25 6_25 6_35
+speed_6_30 6_35 6_35 6_0 6_40 6_35 6_40 6_40 6_40 6_40 6_40 6_40 6_30 6_25 6_20 6_25 6_35 6_30
+speed_6_35 6_35 6_30 6_0 6_35 6_30 6_35 6_30
+speed_6_25 6_20 6_20 6_30 6_30 6_40 6_0 6_30 6_30 6_25
+speed_6_20 6_15 6_10 6_35 6_0 6_40 6_30 6_35 6_35 6_30 6_30 6_30 6_30 6_30 6_25 6_0 6_30 6_30
+speed_6_20 6_20 6_25 6_25 6_55 6_50 6_35 6_30 6_50 6_25 6_20 6_25 6_30 6_20 6_35 6_30 6_35 6_ns
+speed_6_25 6_15 6_15 6_0 6_35 6_30 6_30 6_40 6_0
+speed_6_10 6_20 6_0 6_25 6_50 6_55 6_30 6_0 6_0 6_30
+speed_6_10 6_0 6_15 6_10 6_0 6_60 6_30 6_0 6_30 6_30 6_30 6_25 6_0 6_35 6_35
+speed_6_20 6_20 6_25 6_0
+speed_6_25 6_20
+speed_6_15 6_0 6_40
+speed_6_25 6_65 6_40 6_ns
+speed_UN
+speed_6_0 6_25 6_35
+speed_
+speed_
+speed_
+speed_6_40 6_0
+speed_6_40 6_0 6_0 6_35 6_35
+speed_6_35 6_30
+speed_
+speed_6_30 6_35 6_40 6_0
+speed_6_75 6_75 6_0 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_85 6_0 6_0
+speed_6_35 6_0 6_35 6_ns
+speed_6_35 6_0 6_35 6_40
+speed_6_35 6_0 6_25 6_30 6_30 6_0
+speed_6_0 6_0 6_35 6_0 6_35 6_0 6_30 6_25 6_30 6_36
+speed_6_30 6_30 6_40 6_40 6_35 6_0 6_35 6_0 6_40 6_40
+speed_6_25 6_0 6_35 6_0 6_35 6_0 6_35 6_30
+speed_6_20 6_20 6_40 6_0 6_35 6_35 6_35 6_30 6_35 6_35 6_30 6_0 6_30 6_30
+speed_6_25 6_0 6_65 6_40 6_0 6_30 6_30 6_0 6_40 6_35
+speed_6_0 6_40 6_0 6_35 6_30 6_30 6_30
+speed_6_0 6_35 6_50 6_40 6_0 6_30 6_30 6_0 6_35
+speed_6_40 6_40 6_40 6_0 6_25 6_30 6_30 6_25 6_30 6_30 6_30 6_0 6_35
+speed_6_25 6_35 6_35 6_50 6_0 6_0 6_35 6_30 6_35 6_35 6_30 6_30
+speed_6_10 6_0 6_35 6_30 6_50 6_50 6_35 6_35 6_46 6_0 6_30 6_30 6_25 6_25 6_25 6_0
+speed_6_0 6_55 6_55 6_30 6_30 6_46 6_45 6_31 6_31 6_25 6_25 6_25 6_20 6_0 6_35 6_0 6_ns
+speed_6_20 6_20 6_40 6_40 6_40 6_0 6_46 6_30 6_30 6_30 6_25 6_20 6_20 6_30 6_30 6_30 6_30 6_35 6_35
+speed_6_25 6_10 6_0 6_0 6_40 6_40 6_35 6_30 6_35 6_30
+speed_6_5 6_25 6_25 6_20 6_20 6_25 6_15 6_15 6_20 6_35 6_0 6_30 6_25 6_25
+speed_6_10 6_15 6_10 6_15 6_15 6_20 6_25 6_0 6_35 6_30 6_0 6_30 6_30 6_30 6_0 6_30 6_30 6_30
+speed_6_20 6_5 6_10 6_35 6_30 6_25 6_10 6_20 6_40 6_0 6_55 6_50 6_0 6_56 6_30 6_40 6_30 6_30 6_25 6_25 6_35 6_35
+speed_6_10 6_10 6_15 6_15 6_20 6_20 6_25 6_0 6_40 6_0 6_50 6_0 6_56 6_35 6_30 6_0 6_30 6_0 6_0
+speed_6_0 6_20 6_25 6_25 6_25 6_45 6_0 6_40 6_35 6_50 6_50 6_0 6_25 6_30 6_30 6_35 6_35 6_30
+speed_6_10 6_30 6_10 6_20 6_20 6_65 6_45 6_56 6_65 6_0 6_statuser 6_0 6_30 6_0 6_30 6_0 6_50 6_65 6_35 6_35 6_35
+speed_6_65 6_0 6_statuser 6_0 6_35 6_45 6_0
+speed_6_65 6_0 6_statuser 6_0 6_45 6_0
+speed_6_15 6_15 6_65 6_0 6_statuser 6_55 6_25 6_35 6_40 6_45 6_0
+speed_6_25 6_65 6_65 6_0 6_statuser 6_0 6_45 6_0
+speed_6_0 6_65 6_0 6_statuser 6_0 6_45 6_0
+speed_6_0 6_65 6_0 6_statuser 6_0 6_25 6_35 6_45 6_0
+speed_6_65 6_0 6_statuser 6_0 6_45 6_0
+speed_6_60 6_0 6_65 6_0 6_statuser 6_0 6_0 6_45 6_0
+speed_6_60 6_0 6_65 6_0 6_statuser 6_0 6_45 6_40
+speed_6_40 6_0 6_60 6_65 6_25 6_0
+speed_6_25 6_0
+speed_6_35 6_30 6_35 6_35 6_0 6_35 6_30 6_0
+speed_6_40 6_0 6_30 6_30 6_40 6_0
+speed_6_40 6_0 6_0 6_35
+speed_6_75 6_75 6_40 6_35
+speed_
+speed_
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_0 6_0
+speed_UN
+speed_6_35 6_ns
+speed_6_35 6_40 6_0 6_0 6_30 6_0
+speed_6_30 6_30 6_25 6_30 6_35 6_0 6_0 6_0 6_0 6_35 6_30 6_35
+speed_6_0 6_0 6_40 6_0 6_35 6_35 6_30 6_30
+speed_6_40 6_40 6_40 6_0
+speed_6_40 6_0 6_35 6_30
+speed_6_0 6_0 6_25 6_35 6_35 6_0 6_0 6_30 6_0
+speed_6_0 6_0 6_0 6_65 6_30 6_0 6_30 6_35 6_0 6_30 6_0 6_40 6_35
+speed_6_25 6_0 6_35 6_30 6_60 6_0 6_30 6_0 6_0 6_30 6_30 6_30 6_30 6_30 6_25 6_35 6_35 6_30 6_30
+speed_6_35 6_50 6_0 6_60 6_30 6_0 6_30 6_30 6_0 6_35
+speed_6_0 6_0
+speed_6_25 6_0 6_30 6_0 6_35 6_35
+speed_6_0 6_15 6_10 6_55 6_0 6_0 6_35 6_35 6_25 6_25 6_25 6_25 6_30 6_35 6_0 6_0 6_35
+speed_6_25 6_55 6_55 6_30 6_30 6_30 6_0 6_25 6_25 6_25 6_30 6_36 6_20 6_0 6_35 6_35 6_ns
+speed_6_0 6_0 6_0 6_0 6_20 6_25 6_20 6_30 6_30 6_30 6_30 6_30 6_40 6_0 6_20 6_0 6_0 6_25 6_30 6_25 6_30 6_35 6_35
+speed_6_25 6_10 6_25 6_25
+speed_6_0 6_10 6_10 6_15 6_25 6_20 6_0 6_25 6_15 6_0 6_0 6_20 6_15 6_0 6_30 6_25 6_25 6_30
+speed_6_10 6_10 6_20 6_25 6_15 6_15 6_15 6_25 6_25 6_25 6_26 6_40 6_0 6_30 6_30
+speed_6_10 6_5 6_0 6_0 6_0 6_35 6_30 6_20 6_0 6_0 6_0 6_20 6_20 6_15 6_50 6_25 6_25 6_30 6_0 6_25 6_25 6_0 6_30 6_25 6_30 6_35 6_35
+speed_6_0 6_10 6_0 6_25 6_15 6_15 6_20 6_25 6_25 6_25 6_15 6_15 6_15 6_35 6_30 6_0 6_25 6_30 6_30 6_0 6_30 6_25 6_30 6_30 6_25 6_25 6_25
+speed_6_15 6_30 6_25 6_25 6_0 6_25 6_20 6_15 6_50 6_50 6_0 6_35 6_0 6_25 6_30 6_30 6_25 6_30 6_0 6_0 6_30 6_30 6_35 6_30 6_30
+speed_6_30 6_10 6_0 6_20 6_15 6_65 6_50 6_25 6_30 6_35 6_35 6_35 6_0 6_0 6_30 6_0 6_25 6_30 6_35 6_0
+speed_6_35 6_0 6_25 6_25
+speed_6_15 6_20 6_20 6_35 6_0 6_0 6_35 6_30
+speed_6_25 6_20 6_35 6_0 6_25 6_35
+speed_6_25 6_65 6_35 6_0
+speed_6_0 6_35 6_0
+speed_6_0 6_21 6_35 6_30 6_25 6_35
+speed_6_0 6_35
+speed_6_20 6_45 6_0 6_35
+speed_6_65 6_0 6_statuser 6_0 6_45 6_0
+speed_6_46 6_65 6_70 6_statuser 6_0 6_75 6_0 6_45 6_40
+speed_6_0 6_0
+speed_6_35 6_35
+speed_6_40 6_0
+speed_6_0 6_35 6_40 6_0 6_35 6_30
+speed_6_75 6_75 6_40 6_45
+speed_
+speed_
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_0 6_0 6_70 6_0 6_40 6_0
+speed_6_40 6_0 6_30 6_35 6_70 6_0 6_35 6_40 6_35 6_0
+speed_6_55 6_0 6_40 6_35 6_70 6_0 6_35 6_30 6_0 6_30 6_35 6_ns
+speed_6_55 6_0 6_70 6_0 6_25 6_30 6_30 6_0
+speed_6_55 6_0 6_70 6_65 6_30 6_30 6_0 6_0 6_0 6_30 6_35
+speed_6_0 6_0 6_55 6_0 6_0 6_0 6_30 6_30
+speed_6_55 6_0 6_40 6_40 6_35 6_30 6_0 6_0
+speed_6_55 6_0 6_40 6_0 6_0 6_0 6_35 6_30
+speed_6_55 6_0 6_35 6_35 6_40 6_45 6_0 6_0 6_30 6_30
+speed_6_0 6_45 6_0 6_0 6_65 6_55 6_55 6_35 6_35 6_35 6_35 6_30 6_0 6_30 6_30 6_40 6_35
+speed_6_15 6_10 6_0 6_45 6_0 6_60 6_30 6_30 6_40 6_30 6_30 6_25 6_30 6_30
+speed_6_50 6_55 6_45 6_0 6_60 6_60 6_25 6_30 6_25 6_25 6_25 6_0 6_0 6_35
+speed_6_0 6_45 6_0 6_35 6_35 6_30 6_25 6_0 6_0 6_25 6_0
+speed_6_15 6_40 6_0 6_45 6_40 6_25 6_0 6_35 6_35 6_30
+speed_6_0 6_55 6_40 6_0 6_35 6_35 6_40 6_35 6_25 6_25 6_25 6_25 6_20 6_25 6_0 6_35
+speed_6_0 6_0 6_40 6_30 6_30 6_25 6_25 6_25 6_0 6_30 6_0 6_35 6_ns
+speed_6_10 6_10 6_15 6_20 6_25 6_20 6_20 6_15 6_0 6_0 6_25 6_30 6_25 6_0 6_30 6_30 6_25 6_20 6_20 6_30 6_30 6_30 6_30 6_30 6_30 6_35 6_0 6_35 6_35
+speed_6_10 6_0 6_32 6_25 6_25 6_20 6_25 6_30 6_25 6_35 6_36 6_25 6_0 6_0 6_35 6_30 6_30 6_30
+speed_6_10 6_10 6_5 6_10 6_10 6_10 6_10 6_20 6_15 6_20 6_30 6_25 6_41 6_0 6_25 6_35 6_30 6_30 6_25 6_20 6_25 6_0 6_0 6_ns
+speed_6_20 6_41 6_40 6_30 6_0 6_25 6_25 6_25 6_25 6_30 6_30 6_30
+speed_6_5 6_10 6_5 6_10 6_0 6_20 6_25 6_20 6_15 6_20 6_15 6_15 6_20 6_0 6_15 6_50 6_50 6_30 6_35 6_35 6_30 6_30 6_0 6_20 6_25 6_0 6_0 6_30 6_25 6_25 6_20 6_25 6_0 6_25 6_30 6_30 6_30 6_35 6_35
+speed_6_5 6_15 6_15 6_0 6_0 6_25 6_20 6_15 6_15 6_0 6_0 6_15 6_0 6_35 6_30 6_30 6_30 6_30 6_35 6_40 6_0 6_25 6_25 6_25 6_0 6_25 6_27 6_25 6_20 6_66
+speed_6_10 6_30 6_30 6_25 6_15 6_25 6_15 6_0 6_10 6_50 6_40 6_0 6_30 6_25 6_25 6_25 6_25 6_0 6_25 6_0 6_30 6_30 6_ns 6_ns
+speed_6_20 6_15 6_65 6_50 6_35 6_35 6_30 6_30 6_40 6_0 6_25 6_30 6_25 6_25 6_35 6_0
+speed_6_40 6_0 6_25 6_25 6_25 6_25
+speed_6_15 6_20 6_20 6_40 6_0 6_30 6_30 6_30 6_35 6_0 6_30 6_25
+speed_6_25 6_20 6_40 6_0 6_40 6_35 6_25 6_25 6_35 6_30
+speed_6_25 6_65 6_40 6_0
+speed_6_40 6_0
+speed_6_40 6_0
+speed_6_40 6_0
+speed_6_40 6_0
+speed_6_40 6_0
+speed_6_75 6_0 6_40 6_0 6_55 6_0
+speed_6_75 6_0 6_0 6_0 6_40 6_0
+speed_6_75 6_0 6_0 6_35 6_45 6_0 6_40 6_40 6_40 6_ns
+speed_6_75 6_0 6_0 6_0 6_0 6_0
+speed_6_75 6_0 6_35 6_35 6_35 6_30
+speed_6_75 6_75 6_75 6_0
+speed_6_75 6_0
+speed_6_75 6_0
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_70 6_0 6_35 6_0
+speed_6_0 6_0 6_70 6_0 6_35 6_0
+speed_6_70 6_0 6_35 6_35 6_40 6_0
+speed_6_0 6_0 6_40 6_40
+speed_6_0 6_0 6_30 6_35 6_30 6_0 6_30 6_0
+speed_6_0 6_0 6_0 6_0 6_0 6_0
+speed_6_30 6_30 6_30 6_30 6_35 6_0 6_30 6_30
+speed_6_0 6_0 6_35 6_0
+speed_6_0 6_30 6_35 6_0 6_40 6_40
+speed_6_35 6_0 6_0 6_40 6_35 6_30
+speed_6_35 6_35 6_35 6_0 6_45 6_40 6_30 6_30 6_0 6_0 6_0 6_0
+speed_6_0 6_0 6_65 6_35 6_0 6_0 6_35 6_30 6_30 6_35 6_40 6_40 6_35
+speed_6_0 6_35 6_0 6_60 6_40 6_30 6_30 6_30
+speed_6_50 6_55 6_35 6_0 6_35 6_35 6_60 6_0 6_25 6_25 6_0 6_35
+speed_6_35 6_35 6_35 6_0 6_20 6_20
+speed_6_35 6_0 6_35 6_35 6_35 6_35 6_0
+speed_6_0 6_15 6_50 6_55 6_35 6_35 6_40 6_35 6_55 6_65 6_0 6_0 6_20 6_25 6_25 6_35 6_0 6_35
+speed_6_5 6_20 6_30 6_30 6_35 6_0 6_25 6_30 6_35 6_30 6_25 6_20 6_30 6_25
+speed_6_15 6_10 6_15 6_20 6_25 6_30 6_0 6_0 6_35 6_25 6_30 6_30 6_30 6_30 6_30 6_30 6_30 6_20 6_30 6_35
+speed_6_15 6_20 6_30 6_35 6_30 6_0 6_30 6_30 6_30
+speed_6_5 6_0 6_0 6_35 6_30 6_30 6_30 6_0 6_30 6_25 6_25 6_30 6_ns 6_ns
+speed_6_10 6_20 6_20 6_0 6_30 6_35 6_0 6_30 6_25 6_25 6_25 6_25 6_30 6_25
+speed_6_10 6_10 6_0 6_25 6_20 6_0 6_0 6_10 6_15 6_10 6_20 6_50 6_50 6_35 6_30 6_35 6_0 6_41 6_0 6_30 6_30 6_25 6_30 6_25 6_25 6_30 6_30 6_25 6_25 6_25 6_20 6_35 6_35 6_0
+speed_6_15 6_15 6_20 6_15 6_15 6_20 6_20 6_35 6_30 6_0 6_40 6_30 6_35 6_0 6_0 6_30 6_ns 6_0
+speed_6_10 6_0 6_30 6_0 6_15 6_20 6_20 6_15 6_10 6_15 6_50 6_30 6_35 6_40 6_35 6_0 6_35 6_35 6_25 6_25 6_25 6_0 6_25 6_30 6_30 6_0
+speed_6_15 6_20 6_65 6_50 6_30 6_30 6_35 6_35 6_35 6_0 6_25 6_25 6_25 6_25 6_25 6_35 6_0
+speed_6_25 6_20 6_25 6_25 6_35 6_0 6_35 6_30 6_30 6_0 6_ns 6_0
+speed_6_0 6_25 6_30 6_30 6_0 6_0 6_0 6_0 6_25
+speed_6_40 6_35
+speed_6_25 6_65
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_40 6_0 6_55 6_50
+speed_6_0 6_0 6_0
+speed_6_0 6_35 6_45 6_0 6_35 6_35
+speed_6_0 6_0 6_45 6_0
+speed_6_75 6_75 6_0 6_30 6_45 6_0
+speed_
+speed_6_0 6_0
+speed_6_75 6_0
+speed_6_75 6_0
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_0 6_0 6_70 6_0 6_35 6_0
+speed_6_70 6_0 6_40 6_0 6_0 6_35
+speed_6_40 6_40
+speed_6_0 6_0 6_0 6_0
+speed_6_30 6_0 6_30 6_0
+speed_6_30 6_30 6_35 6_0 6_30 6_0 6_30 6_0
+speed_6_0 6_0 6_35 6_35 6_30 6_0 6_30 6_25 6_30 6_0
+speed_6_30 6_0 6_40 6_40 6_30 6_30
+speed_6_0 6_40 6_30 6_0
+speed_6_30 6_0
+speed_6_0 6_0 6_65 6_25 6_0 6_0 6_0 6_36 6_25 6_35 6_40 6_40 6_35
+speed_6_0 6_0 6_60 6_25 6_25 6_25 6_25
+speed_6_50 6_55 6_60 6_45 6_0 6_25 6_25 6_35 6_0 6_0 6_35 6_35 6_0
+speed_6_20 6_15 6_56 6_0 6_0 6_35 6_45 6_45 6_35 6_40 6_0 6_0 6_35 6_35 6_40 6_0 6_35 6_35
+speed_6_56 6_0 6_35 6_35 6_40 6_0
+speed_6_10 6_15 6_25 6_50 6_55 6_56 6_0 6_61 6_55 6_0 6_55 6_65 6_20 6_25 6_35 6_35 6_35 6_30 6_31 6_25 6_25 6_0 6_35 6_40 6_0 6_35 6_40 6_0
+speed_6_5 6_0 6_60 6_55 6_0 6_30 6_30 6_30 6_30 6_30 6_35 6_25 6_30 6_0 6_30 6_25 6_40 6_35 6_35 6_40 6_0
+speed_6_20 6_25 6_30 6_35 6_0 6_30 6_30 6_35 6_25 6_25 6_30 6_0
+speed_6_20 6_0 6_20 6_20 6_30 6_25 6_30 6_30 6_25 6_30 6_20
+speed_6_25 6_10 6_30 6_25 6_30 6_0 6_30 6_30 6_25 6_25 6_ns
+speed_6_10 6_20 6_20 6_15 6_30 6_25 6_0 6_30 6_30 6_0 6_30 6_35 6_25 6_0
+speed_6_10 6_25 6_20 6_15 6_10 6_20 6_25 6_50 6_50 6_30 6_25 6_35 6_0 6_40 6_0 6_25 6_20 6_36 6_30 6_25 6_30 6_25 6_0 6_35 6_35 6_35 6_35
+speed_6_20 6_35 6_0 6_30 6_35 6_30 6_50 6_25 6_0 6_25 6_0
+speed_6_30 6_20 6_20 6_50 6_45 6_35 6_35 6_35 6_35 6_0 6_20 6_20 6_30 6_30 6_25 6_25
+speed_6_65 6_50 6_35 6_0 6_35 6_0 6_25 6_25
+speed_6_0 6_0 6_35 6_30 6_35 6_0 6_ns 6_0
+speed_6_10 6_0 6_30 6_30 6_35 6_0 6_30 6_0 6_30 6_35 6_30 6_30 6_0 6_ns 6_ns 6_ns
+speed_6_35 6_0 6_40 6_35 6_35 6_25 6_30 6_30
+speed_6_25 6_40 6_65 6_75 6_0 6_35 6_40
+speed_6_75 6_0
+speed_6_75 6_0
+speed_6_75 6_65 6_0 6_0
+speed_
+speed_
+speed_6_0 6_0 6_0 6_0
+speed_6_55 6_50
+speed_
+speed_6_0 6_0
+speed_
+speed_6_75 6_75 6_45 6_0
+speed_6_45 6_0
+speed_6_45 6_0
+speed_6_0 6_45 6_50
+speed_6_0 6_75 6_0 6_45
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_40 6_0
+speed_6_40 6_0
+speed_
+speed_
+speed_6_0 6_30
+speed_6_30 6_30
+speed_6_0 6_0 6_35 6_35
+speed_6_35 6_0 6_40 6_40
+speed_6_35 6_0 6_0 6_40
+speed_6_35 6_0
+speed_6_20 6_0 6_0 6_65 6_45 6_0 6_35 6_35 6_30 6_0 6_35 6_40 6_0 6_40 6_35
+speed_6_15 6_20 6_0 6_0 6_60 6_45 6_0 6_0 6_0 6_37 6_30 6_30 6_35 6_25 6_0 6_25 6_25 6_25 6_25 6_35 6_0
+speed_6_50 6_55 6_45 6_0 6_20 6_0 6_25 6_25 6_20 6_25 6_30 6_30 6_0 6_35 6_35 6_0
+speed_6_20 6_20 6_15 6_20 6_35 6_40 6_30 6_0 6_35 6_35 6_25 6_25 6_20 6_20 6_20 6_20 6_25
+speed_6_0 6_65 6_35 6_35 6_35 6_0 6_30 6_30
+speed_6_10 6_15 6_0 6_25 6_61 6_55 6_65 6_35 6_35 6_25 6_25 6_0 6_35
+speed_6_15 6_20 6_20 6_20 6_55 6_0 6_30 6_30 6_31 6_31 6_0 6_0 6_25 6_35 6_40 6_0
+speed_6_15 6_20 6_25 6_55 6_0 6_55 6_0 6_35 6_40 6_35 6_30 6_35 6_35 6_30 6_30 6_0 6_25 6_0 6_0 6_35 6_30 6_40 6_0
+speed_6_15 6_20 6_20 6_20 6_15 6_55 6_0 6_40 6_35 6_30 6_20 6_25 6_20 6_0 6_25 6_40 6_0
+speed_6_10 6_55 6_0 6_30 6_30 6_40 6_40 6_0 6_0 6_20 6_25 6_40 6_0
+speed_6_40 6_20 6_15 6_55 6_46 6_0 6_30 6_35 6_30 6_30 6_30 6_30 6_30 6_40 6_0 6_ns
+speed_6_25 6_20 6_46 6_60 6_50 6_50 6_66 6_0 6_0 6_35 6_25 6_25 6_40 6_0 6_30 6_0 6_35 6_35 6_25 6_30 6_30 6_30 6_30 6_0 6_0 6_40 6_40 6_35 6_35
+speed_6_0 6_20 6_15 6_0 6_15 6_20 6_10 6_50 6_0 6_66 6_0 6_30 6_35 6_30 6_25 6_40 6_35 6_0 6_25 6_0 6_35 6_20 6_20 6_25 6_0 6_25 6_30 6_0 6_0
+speed_6_10 6_0 6_50 6_45 6_35 6_35 6_35 6_0 6_25 6_25 6_20 6_20 6_25 6_25 6_30 6_30
+speed_6_0 6_0 6_65 6_50 6_35 6_35 6_0 6_0 6_0 6_35 6_0
+speed_6_15 6_0 6_0 6_35 6_30 6_0 6_25 6_35 6_0
+speed_6_0 6_30 6_30 6_0 6_30 6_30 6_30 6_0 6_0 6_0 6_30 6_0 6_30 6_ns 6_ns
+speed_6_65 6_0 6_30 6_30 6_35 6_25 6_30 6_30 6_30 6_0
+speed_6_25 6_65 6_65
+speed_
+speed_
+speed_6_70 6_0
+speed_
+speed_
+speed_6_0 6_0 6_0 6_50 6_55 6_50
+speed_6_45 6_0 6_0 6_0
+speed_6_45 6_0
+speed_6_45 6_0 6_35 6_35
+speed_6_45 6_0
+speed_6_75 6_75 6_45 6_45
+speed_
+speed_
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_35 6_0
+speed_6_0 6_0 6_40 6_0 6_35 6_30 6_50 6_50
+speed_6_40 6_0
+speed_
+speed_
+speed_
+speed_6_0 6_0 6_35 6_0 6_35 6_35
+speed_6_35 6_0 6_40 6_40
+speed_6_0 6_40 6_30 6_35
+speed_
+speed_6_20 6_0 6_20 6_0 6_20 6_0 6_0 6_65 6_35 6_0 6_35 6_40 6_30 6_20 6_35 6_0 6_0 6_20 6_20 6_40 6_35
+speed_6_20 6_15 6_20 6_25 6_0 6_0 6_0 6_0 6_60 6_35 6_35 6_61 6_60 6_0 6_25 6_25 6_25 6_25 6_25 6_30 6_35 6_36 6_35 6_30 6_30 6_30
+speed_6_50 6_55 6_60 6_0 6_30 6_35 6_0 6_25 6_30 6_30 6_30 6_0 6_30 6_25 6_25 6_25 6_0 6_35 6_35 6_0 6_35 6_35
+speed_6_20 6_0 6_0 6_35 6_0 6_35 6_40 6_20 6_30 6_30 6_0
+speed_6_0 6_35 6_0 6_35 6_35 6_35 6_35 6_0
+speed_6_10 6_20 6_61 6_60 6_50 6_35 6_0 6_25 6_25 6_20 6_0 6_35 6_35 6_35
+speed_6_20 6_20 6_35 6_30 6_0 6_35 6_30 6_0 6_35 6_30
+speed_6_0 6_35 6_55 6_0 6_0 6_30 6_35 6_35 6_30 6_25 6_0
+speed_6_20 6_20 6_15 6_15 6_15 6_0 6_0 6_40 6_35 6_25 6_0 6_25 6_25 6_0 6_20 6_0
+speed_6_20 6_20 6_15 6_20 6_20 6_0 6_0 6_20 6_15 6_40 6_40 6_35 6_0 6_0 6_20 6_25 6_0 6_25 6_25 6_20 6_20 6_20 6_25 6_0
+speed_6_0 6_15 6_0 6_30 6_30 6_35 6_0 6_30 6_30 6_25 6_25 6_25 6_25
+speed_6_10 6_0 6_20 6_0 6_0 6_0 6_0 6_35 6_30 6_0 6_30 6_30 6_0 6_25 6_30 6_30 6_30 6_20 6_20 6_0 6_25 6_0 6_0 6_20 6_20 6_25 6_0
+speed_6_0 6_0 6_20 6_60 6_55 6_50 6_0 6_45 6_0 6_66 6_0 6_40 6_35 6_30 6_30 6_40 6_0 6_35 6_25 6_25 6_20 6_25 6_35 6_30 6_30 6_0
+speed_6_15 6_15 6_0 6_0 6_40 6_40 6_25 6_25
+speed_6_0 6_0 6_65 6_50 6_35 6_35 6_0 6_20 6_0 6_35 6_0
+speed_6_15 6_0 6_0 6_15 6_20 6_25 6_0 6_25 6_0 6_0 6_20 6_20 6_25 6_0
+speed_6_35 6_30 6_25 6_30 6_ns
+speed_6_65 6_0 6_30 6_0
+speed_
+speed_
+speed_
+speed_6_70 6_0
+speed_
+speed_6_0 6_50
+speed_6_55 6_50
+speed_
+speed_
+speed_
+speed_
+speed_6_75 6_75
+speed_
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_6_50 6_0
+speed_6_50 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0 6_50 6_0
+speed_6_0 6_0 6_50 6_50
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0 6_35 6_35
+speed_
+speed_6_0 6_40 6_30 6_35
+speed_6_45 6_0
+speed_6_20 6_0 6_0 6_0 6_65 6_60 6_0 6_30 6_30 6_30 6_45 6_40 6_40 6_35 6_40 6_0
+speed_6_25 6_25 6_0 6_0 6_61 6_60 6_30 6_30 6_30 6_0 6_25 6_30 6_0 6_0
+speed_6_0 6_0 6_55 6_55 6_30 6_25 6_30 6_30 6_25 6_25 6_30 6_30 6_0 6_0 6_35 6_35
+speed_6_60 6_0 6_35 6_40 6_30 6_35 6_25 6_25 6_35 6_0
+speed_6_0 6_20 6_60 6_0 6_35 6_0 6_35 6_35 6_20 6_25 6_35 6_0
+speed_6_0 6_60 6_0 6_60 6_50 6_0 6_0 6_35 6_0 6_35 6_35 6_0
+speed_6_60 6_0 6_0 6_35 6_40 6_40 6_35 6_30 6_30 6_25 6_25 6_35 6_0 6_ns
+speed_6_0 6_55 6_50 6_60 6_0 6_65 6_55 6_35 6_30 6_35 6_0 6_35 6_35
+speed_6_30 6_25 6_25 6_60 6_0 6_40 6_35 6_0 6_0 6_45 6_45 6_35 6_0
+speed_6_20 6_10 6_30 6_15 6_20 6_25 6_0 6_40 6_40 6_40 6_35 6_35 6_0
+speed_6_0 6_25 6_20 6_0 6_60 6_0 6_30 6_30 6_30 6_30 6_40 6_35 6_0 6_20 6_25 6_35 6_0
+speed_6_10 6_20 6_20 6_20 6_15 6_0 6_75 6_0 6_60 6_0 6_30 6_0 6_25 6_0 6_25 6_30 6_30 6_35 6_35
+speed_6_20 6_0 6_0 6_45 6_0 6_0 6_0 6_30 6_35 6_40 6_0 6_30 6_0 6_30 6_0 6_30
+speed_6_20 6_10 6_60 6_65 6_0 6_45 6_0 6_66 6_0 6_40 6_40 6_30 6_0 6_30 6_30 6_40 6_40 6_35 6_0
+speed_6_20 6_15 6_0 6_20 6_0 6_65 6_50 6_30 6_30 6_0 6_0 6_25 6_20 6_25 6_25 6_25 6_25 6_35 6_0
+speed_6_0 6_0 6_15 6_20 6_20 6_0 6_0 6_25 6_0 6_25 6_25 6_0
+speed_
+speed_6_65 6_0 6_30 6_0
+speed_6_30 6_30
+speed_
+speed_
+speed_6_70 6_0
+speed_
+speed_6_0 6_50
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_75 6_75
+speed_
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_6_50 6_0
+speed_6_50 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0 6_50 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0 6_35 6_0 6_35 6_35
+speed_6_0 6_40 6_35 6_0
+speed_6_0 6_40 6_35 6_0 6_30 6_35
+speed_6_35 6_35 6_45 6_0
+speed_6_60 6_0 6_0 6_0 6_40 6_0
+speed_6_25 6_60 6_0 6_61 6_60 6_40 6_40 6_0 6_0 6_0 6_0 6_40 6_0
+speed_6_25 6_0 6_0 6_25 6_0 6_55 6_55 6_30 6_0 6_30 6_30 6_25 6_25 6_30 6_30 6_51 6_36 6_30 6_51 6_36 6_35 6_35 6_0 6_35 6_35
+speed_6_0 6_20 6_25 6_40 6_0 6_30 6_30 6_30 6_35 6_25 6_0 6_25 6_25 6_25 6_0 6_35 6_45
+speed_6_20 6_15 6_40 6_0 6_35 6_35 6_25 6_25 6_30 6_25
+speed_6_0 6_20 6_60 6_50 6_50 6_35 6_40 6_35 6_35 6_0 6_35 6_35 6_30
+speed_6_40 6_40 6_35 6_0 6_30 6_30 6_25 6_25
+speed_6_5 6_20 6_0 6_65 6_55 6_35 6_0 6_35 6_35
+speed_6_20 6_15 6_35 6_0 6_30 6_30 6_45 6_45 6_35 6_35 6_35 6_40 6_20 6_20
+speed_6_10 6_10 6_15 6_20 6_35 6_0 6_40 6_35 6_25 6_26
+speed_6_40 6_35 6_35 6_0 6_40 6_35 6_20 6_25 6_30 6_30 6_25 6_25
+speed_6_20 6_15 6_75 6_0 6_35 6_40 6_30 6_0 6_0 6_0 6_0 6_30 6_0 6_ns 6_0
+speed_6_60 6_0 6_30 6_35 6_40 6_0 6_30 6_30 6_30 6_0 6_0 6_0 6_40 6_0 6_ns 6_ns
+speed_6_10 6_0 6_60 6_65 6_45 6_0 6_0 6_40 6_40 6_0 6_30 6_0 6_0 6_0 6_25 6_25 6_40 6_40
+speed_6_10 6_10 6_20 6_20 6_15 6_0 6_0 6_15 6_0 6_15 6_0 6_0 6_40 6_40 6_0 6_30 6_30 6_30 6_30 6_35 6_30 6_30 6_25 6_25 6_25 6_20 6_25
+speed_6_0 6_0 6_20 6_20 6_15 6_10 6_15 6_0 6_30 6_25 6_25 6_0
+speed_6_65 6_0 6_25 6_30
+speed_6_0 6_0
+speed_6_30 6_0
+speed_6_20 6_30 6_30 6_40 6_0
+speed_6_45 6_50 6_40 6_0
+speed_6_70 6_0 6_40 6_0
+speed_6_40 6_0
+speed_6_0 6_50
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_75 6_75
+speed_
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_6_50 6_0
+speed_6_50 6_0
+speed_6_50 6_0
+speed_
+speed_
+speed_
+speed_
+speed_6_50 6_0
+speed_6_50 6_0
+speed_
+speed_
+speed_6_0 6_0 6_50 6_0
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0 6_35 6_35
+speed_6_0 6_40
+speed_6_45 6_0 6_35 6_0
+speed_6_45 6_0
+speed_6_0 6_40
+speed_6_60 6_0 6_0 6_40 6_0
+speed_6_25 6_25 6_25 6_25 6_20 6_60 6_0 6_55 6_55 6_30 6_30 6_30 6_0 6_36 6_35 6_30 6_0 6_25 6_30 6_40 6_0 6_35 6_35
+speed_6_20 6_0 6_60 6_0 6_30 6_35 6_40 6_35 6_25 6_25 6_25 6_0 6_30 6_35 6_35 6_45 6_40 6_0
+speed_6_20 6_20 6_60 6_0 6_35 6_35 6_25 6_25 6_0 6_0 6_25 6_35 6_30 6_30 6_25 6_25 6_40 6_0
+speed_6_0 6_35 6_25 6_20 6_60 6_0 6_46 6_40 6_40 6_30 6_40 6_0
+speed_6_5 6_25 6_0 6_25 6_60 6_0 6_30 6_30 6_0 6_0 6_25 6_25 6_25 6_25 6_25 6_25 6_40 6_0
+speed_6_10 6_35 6_0 6_25 6_25 6_65 6_55 6_60 6_0 6_25 6_40 6_0 6_35 6_40
+speed_6_20 6_60 6_0 6_45 6_45 6_25 6_30 6_0 6_35 6_41 6_35 6_40 6_0 6_0 6_40 6_0
+speed_6_10 6_25 6_25 6_20 6_60 6_0 6_40 6_35 6_30 6_0 6_30 6_35 6_40 6_40 6_25 6_0 6_40 6_0
+speed_6_25 6_0 6_20 6_60 6_0 6_30 6_30 6_40 6_35 6_30 6_30 6_30 6_30 6_30 6_20 6_30 6_40 6_0
+speed_6_25 6_0 6_75 6_0 6_60 6_0 6_30 6_30 6_0 6_0 6_25 6_0 6_40 6_0
+speed_6_60 6_0 6_0 6_0 6_30 6_0 6_35 6_30 6_30 6_30 6_25 6_0 6_40 6_0
+speed_6_15 6_0 6_20 6_15 6_30 6_0 6_30 6_0 6_30 6_0 6_30 6_25 6_30 6_0 6_25 6_25 6_ns 6_20 6_20 6_25 6_30
+speed_6_10 6_20 6_15 6_0 6_15 6_0 6_25 6_20 6_0 6_20 6_40 6_0 6_40 6_0 6_25 6_35 6_0 6_30 6_30 6_30 6_30 6_0 6_25 6_30 6_0 6_0 6_0
+speed_6_0 6_0 6_20 6_20 6_0 6_35 6_0 6_0 6_0
+speed_6_20 6_20 6_65 6_0
+speed_
+speed_
+speed_
+speed_6_0 6_45 6_50
+speed_6_70 6_0
+speed_6_0 6_50 6_40 6_0
+speed_6_0 6_50 6_40 6_35
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_75 6_75
+speed_
+speed_
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_6_0 6_0
+speed_6_50 6_0
+speed_6_50 6_0
+speed_6_50 6_50
+speed_6_50 6_0
+speed_6_50 6_0
+speed_
+speed_6_0 6_0 6_50 6_0
+speed_
+speed_
+speed_
+speed_6_0
+speed_6_0 6_0 6_35 6_35 6_0 6_35 6_0
+speed_6_75 6_0 6_0 6_40 6_35 6_0 6_35 6_0
+speed_6_75 6_75 6_35 6_0
+speed_6_35 6_0
+speed_6_0 6_40 6_0 6_35 6_0
+speed_6_0 6_55 6_0 6_40 6_40 6_35 6_0 6_30 6_0 6_0 6_35
+speed_6_55 6_55 6_25 6_25 6_35 6_0 6_0 6_35 6_30 6_30 6_35 6_35
+speed_6_0 6_30 6_0 6_35 6_35 6_25 6_25 6_0
+speed_6_5 6_20 6_20 6_15 6_35 6_35 6_30 6_0 6_35 6_35 6_40 6_25 6_35 6_30 6_30 6_25 6_25 6_25 6_25
+speed_6_10 6_0 6_0 6_40 6_40 6_30 6_35 6_35 6_0
+speed_6_30 6_35 6_35 6_0 6_30 6_25
+speed_6_30 6_20 6_15 6_20 6_65 6_65 6_0 6_35 6_40 6_0 6_25 6_0 6_25 6_30 6_35 6_40
+speed_6_20 6_0 6_0 6_50 6_35 6_40 6_35 6_0 6_30 6_30 6_35 6_35 6_40 6_30 6_30 6_35 6_0 6_ns 6_ns 6_ns
+speed_6_35 6_0 6_0 6_40 6_40 6_0
+speed_6_5 6_25 6_15 6_40 6_0 6_35 6_45 6_35 6_30 6_30 6_30 6_40 6_40 6_35 6_30 6_0 6_0 6_20
+speed_6_25 6_75 6_0 6_56 6_0 6_0 6_40 6_30 6_35 6_35
+speed_6_75 6_0 6_35 6_35 6_50 6_40 6_0 6_0
+speed_6_15 6_20 6_35 6_0 6_30 6_25 6_25 6_0 6_30 6_0 6_30 6_0 6_30 6_0 6_30 6_30 6_35 6_35 6_0 6_0 6_30 6_30 6_0 6_20 6_25 6_25
+speed_6_0 6_0 6_0 6_20 6_25 6_10 6_20 6_40 6_0 6_0 6_30 6_30 6_30 6_30 6_30 6_30 6_30 6_30 6_30 6_25 6_0
+speed_6_10 6_0 6_0 6_65 6_0 6_40 6_0 6_76 6_25 6_25 6_35 6_0
+speed_6_65 6_0
+speed_
+speed_
+speed_
+speed_6_45 6_45
+speed_6_70 6_0
+speed_6_0 6_50
+speed_
+speed_
+speed_
+speed_
+speed_6_75 6_0
+speed_6_75 6_75
+speed_
+speed_
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_
+speed_
+speed_
+speed_6_50 6_0
+speed_6_50 6_0
+speed_6_50 6_0
+speed_6_50 6_0
+speed_6_50 6_0
+speed_6_50 6_0
+speed_6_50 6_0
+speed_
+speed_6_50 6_0
+speed_6_50 6_0
+speed_6_0 6_0 6_50 6_0
+speed_6_0 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_35 6_0
+speed_6_75 6_75 6_70 6_0 6_35 6_0
+speed_6_70 6_0 6_35 6_0 6_35 6_0
+speed_6_70 6_0 6_40 6_40 6_35 6_35 6_40 6_35 6_35 6_30 6_0
+speed_6_0 6_55 6_55 6_50 6_30 6_0
+speed_6_35 6_0
+speed_6_35 6_35 6_25 6_25 6_35 6_40
+speed_6_5 6_15 6_35 6_40 6_35 6_0 6_40 6_0 6_25 6_25
+speed_6_10 6_0 6_40 6_0 6_0 6_40 6_0 6_35 6_35
+speed_6_0 6_65 6_40 6_35 6_35 6_0 6_25 6_25 6_0 6_40
+speed_6_65 6_65 6_0 6_0 6_0 6_35 6_0 6_35 6_35 6_45 6_40 6_25 6_25 6_35 6_40
+speed_6_25 6_35 6_40 6_0 6_35 6_35 6_40 6_0 6_0 6_35 6_30 6_30 6_0 6_0 6_0 6_0 6_ns 6_ns 6_ns
+speed_6_0 6_40 6_0 6_40 6_40 6_30 6_25
+speed_6_5 6_25 6_15 6_40 6_45 6_35 6_30 6_40 6_40 6_30 6_0 6_0
+speed_6_35 6_35 6_30 6_30 6_35 6_40
+speed_6_75 6_0 6_35 6_35 6_30 6_0 6_35 6_0 6_30 6_0
+speed_6_0 6_25 6_30 6_0 6_30 6_30 6_35 6_0 6_30 6_30 6_30 6_30 6_35 6_35 6_30 6_35 6_35 6_30 6_35 6_0 6_30 6_30
+speed_6_0 6_0 6_0 6_30 6_30 6_30 6_30 6_35 6_30 6_40 6_40 6_35 6_40 6_30 6_0 6_30 6_35
+speed_6_10 6_0 6_60 6_71 6_40 6_0 6_70 6_76 6_35 6_0
+speed_6_0 6_0 6_0 6_0 6_0 6_0
+speed_
+speed_
+speed_6_0 6_45 6_0 6_40
+speed_6_45 6_0 6_0 6_40
+speed_6_70 6_0 6_0 6_50 6_40 6_40
+speed_6_0 6_0 6_0 6_50
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_75 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_6_50 6_0
+speed_6_50 6_0
+speed_6_50 6_0
+speed_6_50 6_0
+speed_6_50 6_0
+speed_6_50 6_0
+speed_6_50 6_0
+speed_
+speed_
+speed_6_0 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_70 6_0 6_40 6_40 6_40 6_35
+speed_6_70 6_0 6_55 6_50 6_40 6_40
+speed_6_70 6_0
+speed_6_35 6_0 6_35 6_35
+speed_6_35 6_40 6_0 6_0 6_35 6_0
+speed_6_35 6_40 6_35 6_35 6_25 6_25 6_40 6_0 6_35 6_ns
+speed_6_20 6_0 6_65 6_40 6_45 6_40 6_0 6_0 6_0 6_40
+speed_6_40 6_0 6_45 6_40 6_0 6_60 6_40 6_0
+speed_6_0 6_35 6_0 6_0 6_40 6_35 6_35 6_55 6_0 6_65 6_30 6_30 6_0 6_51 6_40 6_0 6_0 6_ns 6_ns
+speed_6_0 6_40 6_40 6_55 6_50 6_40 6_0
+speed_6_40 6_40 6_0 6_0 6_45 6_ns
+speed_6_35 6_40 6_40 6_30 6_ns 6_0
+speed_6_60 6_0 6_75 6_0 6_35 6_35 6_40 6_0 6_30 6_0 6_ns
+speed_6_25 6_20 6_60 6_0 6_30 6_0 6_30 6_35 6_35 6_30 6_40 6_0 6_30 6_30 6_30 6_30
+speed_6_25 6_25 6_60 6_0 6_0 6_30 6_40 6_35 6_40 6_40 6_30 6_0 6_30 6_35 6_30 6_30
+speed_6_0 6_0 6_30 6_25
+speed_6_0 6_40 6_0 6_70 6_35 6_0
+speed_6_0 6_0
+speed_
+speed_6_0 6_0
+speed_
+speed_6_0 6_0
+speed_6_70 6_0
+speed_
+speed_
+speed_
+speed_
+speed_6_75 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_6_50 6_0
+speed_6_50 6_0
+speed_
+speed_6_50 6_0
+speed_6_50 6_0
+speed_
+speed_
+speed_6_0 6_0
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_35
+speed_6_0 6_0 6_40 6_35
+speed_6_40 6_40 6_35 6_0
+speed_6_70 6_0 6_30 6_35
+speed_6_70 6_0 6_35 6_35 6_30 6_30 6_0 6_ns
+speed_6_70 6_0 6_80 6_0 6_0 6_ns
+speed_6_25 6_70 6_0 6_0 6_65 6_35 6_40 6_35 6_35 6_0 6_45
+speed_6_25 6_70 6_0 6_0 6_65 6_0 6_0 6_46 6_0
+speed_6_70 6_0 6_45 6_40 6_0 6_40 6_0 6_60
+speed_6_70 6_0 6_65
+speed_6_70 6_0 6_40 6_40 6_55 6_50
+speed_6_30 6_70 6_0 6_40 6_40
+speed_6_30 6_60 6_0 6_0 6_0 6_30 6_25 6_45 6_40 6_30 6_0 6_ns 6_ns
+speed_6_60 6_0 6_75 6_0 6_30 6_0 6_0 6_0
+speed_6_25 6_30 6_30 6_35 6_30 6_30 6_35 6_35
+speed_6_40 6_40
+speed_
+speed_6_0 6_40 6_0 6_70 6_0 6_0
+speed_6_0 6_0 6_45 6_70 6_35 6_0
+speed_6_0 6_0 6_35 6_0
+speed_6_0 6_45
+speed_
+speed_
+speed_6_70 6_0
+speed_6_85 6_0
+speed_6_85 6_0
+speed_6_0 6_0
+speed_6_75 6_0
+speed_
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_6_50 6_0
+speed_6_50 6_0
+speed_6_50 6_0
+speed_
+speed_6_0 6_0
+speed_6_50 6_0
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_35 6_0 6_0 6_35
+speed_6_0 6_40 6_35 6_0 6_0 6_0
+speed_6_35 6_0
+speed_6_0 6_35 6_35 6_0 6_30 6_35 6_0
+speed_6_30 6_30 6_30 6_30 6_35 6_0 6_35 6_35 6_30 6_30 6_30 6_0 6_ns 6_ns
+speed_6_25 6_0 6_30 6_0 6_40 6_35 6_30 6_30
+speed_6_25 6_25 6_0 6_0 6_65 6_0 6_30 6_25 6_25 6_0 6_45 6_ns
+speed_6_0 6_25 6_0
+speed_6_45 6_40 6_0
+speed_
+speed_6_40 6_40 6_30 6_0 6_0 6_0
+speed_6_40 6_40 6_30 6_0 6_35 6_0
+speed_6_30 6_35 6_35 6_35 6_30 6_30 6_25 6_45 6_40 6_ns 6_ns 6_ns
+speed_6_75 6_0 6_0 6_30 6_0 6_0
+speed_6_75 6_0 6_30 6_30
+speed_
+speed_
+speed_
+speed_6_40 6_45 6_0
+speed_6_0 6_70 6_0 6_0
+speed_6_10 6_10 6_0 6_70 6_0 6_45 6_0 6_30
+speed_6_10 6_0 6_0
+speed_
+speed_6_85 6_0 6_70 6_0
+speed_6_85 6_0 6_0 6_0
+speed_
+speed_6_85 6_0
+speed_6_75 6_0
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_90 6_0
+speed_6_90 6_0
+speed_6_90 6_0
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_UN
+speed_6_50 6_0
+speed_6_50 6_0
+speed_6_50 6_0
+speed_6_50 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_
+speed_
+speed_
+speed_6_35 6_0
+speed_6_35 6_35 6_0 6_0
+speed_6_0 6_40 6_0
+speed_6_40 6_0 6_40 6_0
+speed_
+speed_6_0 6_35 6_0 6_0
+speed_6_35 6_0 6_35 6_ns
+speed_6_35 6_0
+speed_6_0 6_30 6_30 6_0 6_35 6_35 6_35 6_0 6_0 6_30 6_35 6_ns 6_0
+speed_6_0 6_0 6_30 6_30 6_40 6_0 6_0 6_30 6_30 6_30 6_ns 6_ns
+speed_6_0 6_0 6_40 6_0 6_30 6_35 6_40 6_35 6_45 6_0
+speed_6_0 6_65 6_0 6_35 6_35 6_0 6_45 6_ns
+speed_6_0 6_40 6_35 6_0 6_25 6_0
+speed_6_0 6_0 6_0 6_35 6_0 6_25
+speed_6_0 6_0
+speed_6_0 6_40 6_40 6_40 6_30 6_0 6_25 6_0 6_35 6_0 6_30 6_35
+speed_6_40 6_40 6_0 6_25 6_25 6_35 6_30 6_0 6_35 6_0 6_35 6_0 6_0
+speed_6_35 6_35 6_30 6_0 6_40 6_0 6_ns
+speed_6_0 6_0
+speed_6_75 6_0
+speed_6_75 6_70
+speed_
+speed_
+speed_6_0 6_0 6_0 6_40 6_45 6_50
+speed_6_85 6_0
+speed_6_0 6_85 6_0 6_0 6_0
+speed_6_0 6_0 6_85 6_0 6_70 6_0 6_40
+speed_6_0 6_85 6_0 6_0
+speed_6_85 6_0 6_0 6_0
+speed_6_70 6_75
+speed_
+speed_6_0 6_0
+speed_6_75 6_0 6_85 6_80 6_90 6_0
+speed_6_90 6_0
+speed_6_90 6_0
+speed_6_90 6_0
+speed_6_0 6_0
+speed_6_0 6_0
+speed_
+speed_6_0 6_0
+speed_6_90 6_0
+speed_6_0 6_0
+speed_
+speed_UN
+speed_UN
+speed_
+speed_
+speed_
+speed_UN
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_0 6_0
+speed_
+speed_
+speed_6_35 6_0
+speed_6_35 6_0 6_50 6_0
+speed_6_0 6_50 6_40 6_0 6_ns
+speed_6_0 6_0
+speed_6_40 6_0 6_40 6_0
+speed_6_40 6_0
+speed_6_40 6_0 6_0 6_35 6_35 6_40 6_40 6_0
+speed_6_40 6_0 6_0
+speed_
+speed_6_25 6_30 6_35 6_25 6_0 6_0 6_0 6_0 6_0 6_30 6_35 6_0 6_30 6_ns 6_0 6_ns
+speed_6_35 6_30 6_0 6_0 6_0 6_35 6_0 6_0 6_0 6_30 6_ns 6_ns
+speed_6_0 6_65 6_30 6_35 6_45 6_0 6_45 6_0
+speed_6_45 6_0
+speed_6_0 6_0 6_45 6_0
+speed_6_0 6_0
+speed_
+speed_6_0 6_40 6_40 6_40
+speed_6_35 6_30 6_0 6_0
+speed_6_45 6_40 6_35 6_35
+speed_6_0 6_0
+speed_
+speed_6_75 6_70
+speed_
+speed_6_85 6_0
+speed_6_0 6_85 6_0 6_0
+speed_6_0 6_50
+speed_
+speed_6_0 6_70 6_0 6_0
+speed_6_20 6_70 6_65 6_40
+speed_6_15 6_50 6_45 6_0
+speed_6_15 6_70 6_75 6_40 6_0 6_35 6_0 6_30 6_30
+speed_6_40 6_35 6_0 6_35
+speed_6_0 6_0
+speed_6_75 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_90 6_0
+speed_6_90 6_0
+speed_UN
+speed_UN
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_
+speed_
+speed_UN
+speed_UN
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0 6_35 6_0
+speed_6_0 6_0 6_35 6_0
+speed_6_35 6_0 6_50 6_0
+speed_6_45 6_45 6_35 6_0 6_50 6_0
+speed_6_0 6_0
+speed_
+speed_6_0 6_40
+speed_
+speed_6_0 6_0
+speed_6_35 6_0
+speed_6_0 6_0
+speed_6_40 6_0
+speed_6_35 6_35 6_0 6_0 6_45 6_0 6_40 6_35 6_0 6_30 6_0 6_ns
+speed_6_0 6_0 6_35 6_30 6_35 6_35 6_45 6_40 6_0 6_35 6_35 6_0 6_30 6_36 6_45
+speed_6_0 6_65 6_35 6_30 6_35 6_0 6_45 6_0
+speed_
+speed_6_0 6_0 6_40 6_40 6_45 6_0
+speed_6_35 6_0 6_45 6_45
+speed_6_35 6_0
+speed_6_45 6_45 6_40 6_40 6_35 6_0
+speed_6_0 6_35 6_35 6_35
+speed_6_45 6_40 6_35 6_35
+speed_6_0 6_0
+speed_6_35 6_35
+speed_6_75 6_70 6_85 6_0
+speed_6_85 6_0
+speed_6_85 6_0
+speed_
+speed_6_0 6_50
+speed_
+speed_
+speed_6_20 6_70 6_65 6_50 6_0 6_50 6_55 6_45 6_40 6_40
+speed_6_50 6_45 6_0
+speed_6_70 6_75 6_30 6_30
+speed_
+speed_6_75 6_0
+speed_6_0 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_90 6_0
+speed_6_90 6_0
+speed_6_90 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_40
+speed_6_0 6_0 6_50 6_0
+speed_6_0 6_0 6_0
+speed_6_45 6_45
+speed_
+speed_
+speed_6_0 6_40
+speed_
+speed_6_35 6_0
+speed_UN
+speed_
+speed_6_0 6_0
+speed_6_0 6_0 6_30 6_ns
+speed_6_0 6_65 6_45 6_40 6_0 6_36 6_45 6_0
+speed_6_0 6_0 6_35 6_0 6_0 6_0 6_0
+speed_6_35 6_0
+speed_6_40 6_40 6_45 6_0 6_35 6_30
+speed_6_45 6_35 6_35 6_0
+speed_6_0 6_0
+speed_6_45 6_45
+speed_6_35 6_0 6_30 6_0 6_35 6_35
+speed_6_35 6_35 6_0 6_0
+speed_
+speed_6_35 6_35
+speed_6_75 6_70
+speed_
+speed_
+speed_
+speed_6_0 6_50 6_0 6_0
+speed_6_25 6_50 6_0 6_0 6_55
+speed_6_0 6_55
+speed_6_5 6_25 6_70 6_65 6_50 6_0 6_50 6_55 6_45 6_40
+speed_
+speed_
+speed_6_75 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_90 6_0
+speed_6_90 6_0
+speed_6_90 6_0
+speed_6_90 6_0
+speed_6_90 6_0
+speed_6_90 6_0
+speed_6_90 6_0
+speed_
+speed_
+speed_UN
+speed_UN
+speed_UN
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_40 6_0
+speed_6_0 6_0 6_40 6_0 6_50 6_0
+speed_6_0 6_40 6_0 6_0 6_45
+speed_6_40 6_0 6_45 6_0
+speed_6_0 6_0
+speed_6_40 6_0
+speed_6_40 6_0 6_0 6_40
+speed_6_40 6_0
+speed_6_40 6_0 6_35 6_0
+speed_6_0 6_0
+speed_
+speed_6_0 6_ns
+speed_6_0 6_0 6_0
+speed_6_75 6_80 6_0 6_65 6_40 6_0 6_40 6_0 6_45 6_0
+speed_6_40 6_0 6_35 6_30 6_30 6_35
+speed_6_40 6_35 6_30 6_30 6_30 6_30
+speed_
+speed_
+speed_6_0 6_0
+speed_6_0 6_15 6_45 6_45 6_30 6_35 6_0 6_ns
+speed_6_15 6_30 6_0 6_35 6_0 6_30 6_0 6_35 6_35
+speed_6_30 6_30 6_30 6_30
+speed_
+speed_6_35 6_35
+speed_6_0 6_0
+speed_
+speed_
+speed_
+speed_6_0 6_55
+speed_6_50 6_0 6_0
+speed_
+speed_6_5 6_25 6_70 6_65 6_45 6_40
+speed_6_75 6_0
+speed_6_75 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_90 6_0
+speed_6_90 6_0
+speed_6_0 6_0
+speed_
+speed_
+speed_
+speed_UN
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_85 6_0 6_0 6_45
+speed_
+speed_
+speed_
+speed_6_0 6_40
+speed_
+speed_6_0 6_35 6_0
+speed_6_40 6_0
+speed_6_0 6_40 6_0 6_0
+speed_6_0 6_ns
+speed_6_0 6_0 6_45 6_0
+speed_6_0 6_0 6_40 6_0 6_0 6_0 6_30 6_0 6_0 6_0
+speed_6_40 6_0 6_35 6_30 6_30 6_35 6_30 6_0
+speed_6_0 6_35 6_30 6_30 6_35 6_0 6_35 6_0 6_0 6_30 6_30 6_30
+speed_6_35 6_35 6_35 6_45
+speed_
+speed_
+speed_6_25 6_45 6_45 6_0
+speed_6_25 6_30 6_0 6_35 6_35
+speed_6_30 6_30 6_30 6_30
+speed_
+speed_6_35 6_35
+speed_6_75 6_70
+speed_
+speed_
+speed_6_0 6_55
+speed_6_0 6_0
+speed_6_50 6_0
+speed_
+speed_6_5 6_25 6_70 6_65 6_35 6_35
+speed_6_75 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0
+speed_6_90 6_0
+speed_6_90 6_0
+speed_6_0 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0 6_0 6_0
+speed_
+speed_
+speed_
+speed_6_0 6_40
+speed_
+speed_
+speed_
+speed_6_0 6_40 6_0 6_ns
+speed_6_0 6_0 6_40 6_0 6_0
+speed_6_0 6_80 6_45 6_0
+speed_6_0 6_35
+speed_6_35 6_30
+speed_6_30 6_30 6_30 6_30
+speed_
+speed_
+speed_
+speed_6_45 6_45
+speed_
+speed_
+speed_
+speed_
+speed_6_75 6_0
+speed_
+speed_
+speed_6_0 6_55
+speed_
+speed_6_50 6_0
+speed_
+speed_6_35 6_35
+speed_6_75 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_90 6_0
+speed_6_90 6_0
+speed_6_90 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_85 6_0 6_0 6_45 6_40 6_0
+speed_6_40 6_0
+speed_
+speed_
+speed_6_0 6_40
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_80 6_40 6_0 6_45 6_0
+speed_6_0 6_0 6_35 6_0 6_40 6_45 6_45 6_0
+speed_6_35 6_0
+speed_6_35 6_0
+speed_6_35 6_0
+speed_6_35 6_0
+speed_6_35 6_0
+speed_
+speed_6_0 6_0
+speed_
+speed_6_35 6_0
+speed_
+speed_6_75 6_70 6_30 6_35
+speed_
+speed_
+speed_6_0 6_55
+speed_
+speed_6_50 6_0
+speed_
+speed_6_0 6_0
+speed_
+speed_6_75 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_90 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_85 6_0 6_0 6_45
+speed_6_40 6_0
+speed_6_40 6_0
+speed_6_0 6_0
+speed_6_0 6_40
+speed_
+speed_
+speed_
+speed_6_0 6_30 6_0 6_0
+speed_6_0 6_80 6_30 6_0 6_45 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_35 6_0
+speed_6_35 6_0
+speed_6_45 6_45 6_35 6_0
+speed_6_35 6_0
+speed_6_35 6_0
+speed_6_35 6_40
+speed_
+speed_6_75 6_70 6_30 6_35
+speed_
+speed_
+speed_6_0 6_0
+speed_
+speed_6_50 6_0
+speed_
+speed_6_35 6_35 6_75 6_75
+speed_
+speed_6_75 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0 6_0 6_45
+speed_
+speed_6_40 6_0
+speed_6_40 6_40 6_0 6_40
+speed_
+speed_
+speed_
+speed_6_0 6_80 6_45 6_0
+speed_6_0 6_0 6_0 6_0 6_0 6_0
+speed_6_30 6_0
+speed_6_30 6_0
+speed_6_30 6_0
+speed_6_30 6_0
+speed_6_30 6_0
+speed_6_30 6_0
+speed_6_30 6_0
+speed_6_30 6_0 6_45 6_45
+speed_6_30 6_0
+speed_6_0 6_0
+speed_6_0 6_0 6_35 6_40
+speed_6_30 6_0 6_75 6_0
+speed_6_75 6_70 6_30 6_35 6_75 6_0
+speed_6_75 6_0
+speed_6_0 6_55
+speed_
+speed_6_50 6_0
+speed_6_50 6_0 6_0 6_ns
+speed_6_0 6_75 6_75 6_ns
+speed_6_0 6_ns
+speed_6_75 6_0 6_0 6_ns
+speed_6_0 6_ns
+speed_6_60 6_ns
+speed_6_35 6_30
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_85 6_0 6_0 6_45
+speed_6_0 6_0
+speed_6_45 6_0
+speed_6_45 6_0
+speed_6_45 6_0 6_0 6_40
+speed_6_45 6_0
+speed_6_45 6_0
+speed_6_45 6_0
+speed_6_0 6_80 6_45 6_45 6_45 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_45 6_45
+speed_
+speed_
+speed_
+speed_
+speed_6_75 6_70
+speed_
+speed_6_75 6_0
+speed_6_75 6_0 6_0 6_55
+speed_6_75 6_0
+speed_6_75 6_0
+speed_6_50 6_0 6_75 6_0 6_ns 6_0
+speed_6_0 6_75 6_75 6_ns 6_0
+speed_UN
+speed_6_75 6_0
+speed_
+speed_
+speed_6_35 6_35 6_30
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_UN
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_45 6_0 6_45 6_45
+speed_6_85 6_0 6_45 6_0 6_0 6_45
+speed_6_45 6_0
+speed_
+speed_6_40 6_40
+speed_
+speed_
+speed_6_0 6_0 6_0 6_0
+speed_6_0 6_80 6_45 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_45 6_45
+speed_
+speed_
+speed_
+speed_
+speed_6_75 6_70
+speed_UN
+speed_UN
+speed_6_0 6_55 6_ns 6_0
+speed_UN
+speed_UN
+speed_6_0 6_0 6_ns 6_0
+speed_6_50 6_0
+speed_UN
+speed_6_75 6_0 6_ns 6_ns 6_0 6_0
+speed_6_35 6_0 6_0 6_ns
+speed_6_0 6_35 6_30 6_35 6_30 6_0
+speed_6_35 6_40 6_30 6_35
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_45 6_45
+speed_6_85 6_0
+speed_
+speed_
+speed_6_0 6_40
+speed_6_40 6_40
+speed_
+speed_
+speed_6_0 6_80 6_35 6_0 6_45 6_0
+speed_6_0 6_0 6_0 6_0 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_
+speed_
+speed_
+speed_
+speed_6_75 6_70 6_ns 6_0
+speed_UN
+speed_
+speed_6_0 6_55
+speed_6_0 6_0
+speed_6_88 6_0
+speed_6_88 6_0
+speed_6_88 6_0 6_50 6_0
+speed_6_75 6_0 6_88 6_85 6_50 6_0
+speed_6_75 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_45 6_45
+speed_6_0 6_0
+speed_6_85 6_0
+speed_6_0 6_40
+speed_
+speed_
+speed_6_0 6_0
+speed_6_0 6_80 6_45 6_0
+speed_6_35 6_0
+speed_6_35 6_40 6_40 6_40
+speed_
+speed_
+speed_
+speed_
+speed_6_45 6_45
+speed_
+speed_
+speed_
+speed_
+speed_6_75 6_70 6_0 6_0 6_0 6_0
+speed_6_88 6_0
+speed_6_88 6_0 6_0 6_55
+speed_6_88 6_0
+speed_6_0 6_0
+speed_
+speed_
+speed_6_50 6_0
+speed_6_50 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_45 6_45
+speed_
+speed_6_85 6_0
+speed_6_0 6_0
+speed_
+speed_
+speed_
+speed_6_0 6_0 6_0 6_0
+speed_6_0 6_0 6_0 6_0
+speed_6_0 6_0
+speed_6_40 6_40
+speed_
+speed_
+speed_
+speed_6_88 6_0
+speed_6_88 6_0
+speed_6_88 6_0 6_45 6_45
+speed_6_88 6_0
+speed_6_88 6_0
+speed_6_88 6_0
+speed_6_88 6_0
+speed_6_88 6_0 6_100 6_0
+speed_6_0 6_0
+speed_
+speed_6_0 6_55
+speed_
+speed_
+speed_
+speed_
+speed_6_50 6_0
+speed_6_50 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_6_45 6_0
+speed_
+speed_6_0 6_0
+speed_6_85 6_85 6_88 6_0
+speed_6_88 6_0
+speed_6_88 6_0
+speed_6_88 6_0
+speed_6_0 6_0 6_0 6_80 6_45 6_0
+speed_6_0 6_0
+speed_6_0 6_40
+speed_6_0 6_0
+speed_
+speed_
+speed_6_88 6_0
+speed_6_88 6_0
+speed_6_88 6_0
+speed_6_0 6_0
+speed_
+speed_6_45 6_45
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_0
+speed_
+speed_
+speed_6_0 6_55
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_6_0 6_ns
+speed_6_50 6_0 6_0 6_ns
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_6_0 6_ns
+speed_6_60 6_0
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_
+speed_

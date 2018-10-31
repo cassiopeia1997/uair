@@ -1,0 +1,340 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+	<meta charset="utf-8" />
+	<script type="text/javascript" src="http://webapi.amap.com/maps?v=1.4.4&key=70c6db0bc4b360e57f92e814c4b4828b"></script> 
+	<script src="js/jquery.js"></script>
+	<style type="text/css">
+		<span style="white-space:pre;"></span>*{  
+            margin:0px;  
+            padding: 0px;  
+        }  
+        .divBox{  
+            background: white;  
+            width: 100%;  
+        }  
+        .top{  
+            background: white;  
+            width: 100%;  
+            height: 90px;  
+            position: absolute;  
+            top: 0;  
+        }  
+		.topTitle{
+			background:palegreen;
+			width: 30%;
+			height:90px;
+			position: absolute;
+			float:left;
+			line-height:100px;
+			font-size:2vw
+		}
+		.topclass1{
+			background:honeydew;
+			width: 25%;
+			height:90px;
+			position: absolute;
+			float:left;
+			line-height:100px;
+			left:30%;
+			font-size:1.5vw
+		}
+		.topclass2{
+			background:honeydew;
+			width: 25%;
+			height:90px;
+			position: absolute;
+			float:left;
+			line-height:100px;
+			left:55%;
+			font-size:1.5vw
+		}
+		 
+      
+  
+		.panel{
+       background:honeydew;
+			width: 20%;
+			height:90px;
+			position: absolute;
+			float:left;
+			line-height:100px;
+			left:80%
+      }
+      .panel .bt{
+        float: left;
+        padding: 2px,2px,2px,2px;
+        color: #09f;
+        border: solid 1px #09f;
+        background-color: #fff;
+        margin: 5%;
+        cursor: pointer;
+        border-radius: 10px;
+        height:60px;
+        width:20%;
+        font-size:1.1vw
+        
+      }
+	  
+        .center{  
+            width: 100%;  
+            
+            position: absolute;  
+            top: 90px;  
+            bottom: 0px;  
+        }  
+        .bottom{  
+            width: 100%;  
+            background: yellow;    
+            height: 50px;  
+            position: absolute;  
+            bottom: 0;  
+        }  
+         .info {
+            border: solid 1px silver;
+        }
+        div.info-top {
+            position: relative;
+            background: none repeat scroll 0 0 #F9F9F9;
+            border-bottom: 1px solid #CCC;
+            border-radius: 5px 5px 0 0;
+        }
+        div.info-top div {
+            display: inline-block;
+            color: #333333;
+            font-size: 14px;
+            font-weight: bold;
+            line-height: 31px;
+            padding: 0 10px;
+        }
+        div.info-top img {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            transition-duration: 0.25s;
+        }
+        div.info-top img:hover {
+            box-shadow: 0px 0px 5px #000;
+        }
+        div.info-middle {
+            font-size: 12px;
+            padding: 6px;
+            line-height: 20px;
+        }
+       
+        span {
+            margin-left: 5px;
+            font-size: 11px;
+        }
+        .info-middle img {
+            float: left;
+            margin-right: 6px;
+       }
+       ul,li{line-height: 24px; list-style:none; font-size: 14px;}
+li i{width:4px; height:4px; line-height: 24px; vertical-align: top; margin: 10px 10px 0 0; overflow: hidden; background:#f00; display:inline-block;}
+
+	</style>
+	
+</head>
+<body>
+	<header>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Cache-Control" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    
+	</header>
+	
+		<div class="divBox">  
+		<div class="top">
+			<div class="topTitle" style=" text-align:center;"><a href="test.html">Air Quality</a></div>
+			
+			<div class="topclass1" >
+     <ul>
+    <li><font color="green" size="2wn">G: Good </font></li>
+    <li><font color="yellow" size="2wn">M: Moderate </font></li>
+    <li><font color="orange"size="2wn">U-S: Unhealthy for sensitive</font></li>
+</ul></div>
+<div class="topclass2" >
+     <ul>
+    <li><font color="red" size="2wn">U: Unhealthy </font></li>
+    <li><font color="DarkViolet" size="2wn">VU: Very Unhealthy </font></li>
+    <li><font color="maroon" size="2wn">H: Hazardous </font></li>
+    </ul></div>
+			
+			<div class='panel'>
+				<div class = 'bt' onclick = 'bindEvent()' style=" text-align:center;">Point</div>
+				<div class = 'bt' onclick = 'bindEvent2()' style=" text-align:center;">All</div>
+				<div class = 'bt' onclick = 'removeEvent()' style=" text-align:center;">Reset</div>
+				
+   </div>
+		</div>  
+		<div class="center" id=container>
+			
+			
+			<script type="text/javascript">
+				var map = new AMap.Map('container');
+				map.setZoom(10);              //setzoom 指定缩放级别
+				map.setCenter([116.39,39.9]);  //指定地图中心
+				var _onClick = function(e){
+				
+        //构建信息窗体中显示的内容
+       function createInfoWindow(title, content,pm10) {
+        var info = document.createElement("div");
+        info.className = "info";
+
+        //可以通过下面的方式修改自定义窗体的宽高
+        //info.style.width = "400px";
+        //info.style.height = "400px";
+        // 定义顶部标题
+        var top = document.createElement("div");
+        var titleD = document.createElement("div");
+        var closeX = document.createElement("img");
+        top.className = "info-top";
+        titleD.innerHTML = title;
+        if(pm10=="G"){titleD.style.color='green';}
+        if(pm10=="M"){titleD.style.color='yellow';}
+        if(pm10=="U-S"){titleD.style.color='orange';}
+        if(pm10=="U"){titleD.style.color='red';}
+        if(pm10=="VU"){titleD.style.color='purple';}
+        if(pm10=="H"){titleD.style.color='purple';}
+        closeX.src = "https://webapi.amap.com/images/close2.gif";
+        closeX.onclick = closeInfoWindow;
+
+        top.appendChild(titleD);
+        top.appendChild(closeX);
+        info.appendChild(top);
+
+        // 定义中部内容
+        var middle = document.createElement("div");
+        middle.className = "info-middle";
+        middle.style.backgroundColor = 'white';
+        middle.innerHTML = content;
+        info.appendChild(middle);
+
+        // 定义底部内容
+      /*
+        var bottom = document.createElement("div");
+        bottom.className = "info-bottom";
+        bottom.style.position = 'relative';
+        bottom.style.top = '0px';
+        bottom.style.margin = '0 auto';
+        var sharp = document.createElement("img");
+        sharp.src = "https://webapi.amap.com/images/sharp.png";
+        bottom.appendChild(sharp);
+        info.appendChild(bottom);*/
+        return info;
+    }
+
+    //关闭信息窗体
+    function closeInfoWindow() {
+        map.clearInfoWindow();
+    }
+		//alert("ok");
+	    $.post("first",//url 
+	    { 
+	      lng : e.lnglat.getLng(),
+	      lat : e.lnglat.getLat()
+	    }, function(data) { 
+	      var obj = eval('(' + data + ')'); 
+	     //console.log(data);  
+	     //alert(obj.Temperature);
+	     var info = [];
+      //  info.push("<div><div><img style=\"float:left;\" src=\" http://webapi.amap.com/images/autonavi.png \"/></div> ");
+       
+       // info.push(obj.Temperature);
+        var temperature0="Temperature: "+obj.Temperature;
+        info.push(temperature0);
+        var humidity0="Humidity: "+obj.Humidity;
+        info.push(humidity0);
+        var pressure0="Pressure: "+obj.Pressure;
+        info.push(pressure0);
+        var wind0="Wind: "+obj.Wind;
+        info.push(wind0);
+        var pm10="PM10: "+obj.PM10;
+        info.push(pm10);
+        var title = 'INFO',
+       
+        infoWindow = new AMap.InfoWindow({
+        	isCustom:true,
+            content: createInfoWindow(title,info.join("<br/>"),obj.PM10)  //使用默认信息窗体框样式，显示信息内容
+        });
+        infoWindow.open(map, e.lnglat);
+	    }); 
+   	    
+			}
+			
+			// ALL
+		
+			
+			var clickListener,clickListner2;
+			var bindEvent = function(){
+			  reset_();
+			 map.clearMap();
+			  clickListener = AMap.event.addListener(map, "click", _onClick);
+			  
+			}
+			var bindEvent2=function(){
+				reset_();
+				map.clearMap();
+				//clickListener2=AMap.event.addListener(map,"click",_onClick2);
+				console.log(map.getBounds().getSouthWest().getLng( )); 
+				$.post("second",
+				{
+				sw_lng: map.getBounds().getSouthWest().getLng( ),
+				sw_lat: map.getBounds().getSouthWest().getLat( ),
+				ne_lng: map.getBounds().getNorthEast().getLng( ),
+				ne_lat: map.getBounds().getNorthWest().getLng( )
+				
+				},function(data){
+				 var obj = eval('(' + data + ')'); 
+				 var allgrids=obj.allgrids;
+				 var coloreach;
+				 //console.log(allgrids);
+				 for (var i = 0; i <allgrids.length; i++) {
+        				var lineArr=[
+				        [allgrids[i].min_lng,allgrids[i].max_lat],
+				        [allgrids[i].max_lng,allgrids[i].max_lat],
+				        [allgrids[i].max_lng,allgrids[i].min_lat],
+				        [allgrids[i].min_lng,allgrids[i].min_lat]
+				    ];
+				    if (allgrids[i].PM10=="G"){coloreach="green";}
+				    if (allgrids[i].PM10=="M"){coloreach="yellow";}
+				    if (allgrids[i].PM10=="U-S"){coloreach="orange";}
+				    if (allgrids[i].PM10=="U"){coloreach="red";}
+				    if (allgrids[i].PM10=="VU"){coloreach="DarkViolet";}
+				    if (allgrids[i].PM10=="H"){coloreach="maroon";}
+   				 var polygon=new AMap.Polygon({
+		        map:map,
+		        path:lineArr,
+		        fillColor:coloreach,
+		        strokeOpacity:0,
+		        fillOpacity:0.6
+   			 });
+        			
+   						 }
+				 
+				}
+				
+				);
+				
+			}
+			var removeEvent = function(){
+			  if(clickListener) {
+				AMap.event.removeListener(clickListener);//移除事件，以绑定时返回的对象作为参数
+				
+			  }
+			  map.clearMap();
+			   console.log("clear");
+			}
+			var reset_ = function(){//用在示例Demo中防止重复绑定
+			  console.log("clear");
+			  removeEvent();
+			  map.clearMap();
+			}
+			
+			</script>
+			  
+		</div>  
+</div>  
+
+</body>

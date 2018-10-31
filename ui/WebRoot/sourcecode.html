@@ -1,0 +1,757 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=10" />
+    <title> Urban Air</title>
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+    <script src="/bundles/jquery?v=63U2Wc9qLir9tYLD8m5qqisYIbmsGJSwieOBGapA8Ww1"></script>
+
+    
+    <script src="/bundles/jqueryui?v=-1vX65GlVtMkeGT01zJ6QaF3YbFvPqsq3Epuw75hsjU1"></script>
+
+
+    
+    
+    
+    
+    <link href="/Public/Js/css?v=qNFfrI7LwH0zRY57dwUfGAgmGw2IPnKXRlWuIaA2hTQ1" rel="stylesheet" />
+
+    <link href="/Public/Js/themes/base/css?v=ZK6-IjQE7_VTPmFCPqG8bMxNPfPJrZDgOm9StYYRi401" rel="stylesheet" />
+
+    <script src="/bundles/modernizr?v=inCVuEFe6J4Q07A0AcRsbJic_UE5MwpRMNGcOtk94TE1"></script>
+
+
+<script type="text/javascript" src="https://www.bing.com/rms/MapCoreBundle/cj,nj/73fc95aa/e0a84e9b.js?bu=rms+answers+MapsSDK+AnonymousBegin*MapCore.zh-chs*MapCoreBegin*LabelOptions*LocalStorageCache*Gimme*GimmeWrapper*evPromise*ExternalPromise*StaticPromise*LruCache*Point*Rectangle*NAARectangle*ResourceManager*Anchor*Size*Binding*EventBinding*Observable*ObservableObject*ObservableObjectChangedArgs*ObservableCollection*Debug*DelayLoadedObject*JSEvent*Dispatcher*WorkDispatcher*Iterator*ElementSizeHelper*GimmeExt*GimmeTransition*Helper*PerfState*ClientPerf*LoggingWrapper*LoggerConstants*Network*ThrottledEventInvoker*ObjectPool*StaticObjectPool*FixedSizeObjectPool*OrderedDictionary*PooledImage*Url*MapCoreMiddle*NavigationBarMode*NavigationBarOrientation*TransformCurve*CurveKey*Curve*Color*CurveVector4*CurveColor*Vector4*DiscreteRange*DiscreteRangeCollectionSpline*MapLayer*CopyrightProvider*CopyrightProviderService*CustomMapStyleManager*MapFrameManager*LayerFrameManager*GoalCounter*FrameEventAggregator*DataMonitor*MapFrameData*LayerFrameData*Clipper*CompositePrimitiveSet*DataLoader*FixedPrimitiveSet*Overlay*ImageryMapLayer*SimpleSceneContributor*VectorMapLayer*BasicMapAnimation*MapViewAnimator*BoundsAccumulator*CombinedLayerCollection*ConstrainViewArgs*LatLonCrs*LocationRect*Matrix2D*MapInstrumentationManager*PerfV2Logger*Map*MapHelper*MapMath*MapLocation*MapType*MapTypeChangeArgs*MapTypeCollection*MapTypeId*MapView*MapQuadrant*PrimitiveOverlayHelper*OverlayBehavior*GeometryGeneralizer*SimplePointPrimitive*SimpleLinePrimitive*SimpleAreaPrimitive*MoveableSimplePointPrimitive*TargetViewChangeArgs*VectorMath*ViewChangeArgs*ZoomLevel*ZoomAroundLocationAnimator*ZoomEventArgs*OverviewMapMode*MapAuthentication*PublicApi*InternalApi*AnonymousEnd"></script><script type="text/javascript" src="https://www.bing.com/rms/ConfigurableMapPlugin/cj,nj/f6bbb382/a0dd1f4d.js?bu=rms+answers+MapsSDK+ConfigurableMapPluginStart*ConfigurableMap*ConfigurableMapPluginEnd"></script><script type="text/javascript" src="https://www.bing.com/rms/VectorDrawingPluginBundle/cj,nj/93ad4e90/34217477.js?bu=rms+answers+MapsSDK+AnonymousBegin*VectorDrawingPluginStart*CanvasDrawingContext*HitTestingData*HitTestingCanvasDrawingContext*VectorDrawingPluginEnd*AnonymousEnd"></script><link type="text/css" rel="stylesheet" href="https://www.bing.com/rms/TemplatingCssBundle/cir2,cc,nc/4b82ecdd/f34e5c38.css?bu=rms+answers+MapsSDK+Templating_zhcn_v8" /><script type="text/javascript" src="https://www.bing.com/rms/TemplatingPluginBundle/cj,nj/90af5a5d/70c19269.js?bu=rms+answers+MapsSDK+AnonymousBegin*MapDelay.zh-chs*TemplatingPluginStart*Template*ControlTemplate*Control*Slider*ContentControl*ItemsControl*MappedItemsControl*DictionaryItemsControl*Button*CheckBox*ContainerControl*StarRating*RadioGroup*SpinBoxTemplate*SpinBox*TimeControlTemplate*TimeControl*SelectControl*TabControl*ComboBox*DraggableList*PopOut*PopOutButton*Dropdown*TextBlock*FormattedTextBlock*WatermarkedTextInput*InfoboxOverlay*ArrowTemplate*BasicTemplate*BitmapImageTemplate*CoordinateProjection*CommonTemplates*VectorLabelTemplate*VectorImageTemplate*DefaultTemplateSelector*TemplatingPluginEnd*AnonymousEnd"></script><script type="text/javascript" src="https://www.bing.com/rms/CompositeModeBundle/cj,nj/c321bdeb/fdfdaeab.js?bu=rms+answers+MapsSDK+AnonymousBegin*CompositeModePluginBegin*Viewport*CompositeMapMode*BoundaryHelper*CompositeModeHelper*ElevationRequest*EnhancedBirdseyeCrs*BirdseyeV2Crs*BirdseyeV2Manager*RegionIndex*HitTestIndex*HitTestController*MercatorCubeCrs*MercatorTileUtility*RasterImageryScene*BirdseyeV2ImageryScene*BirdseyeV2Metadata*RobinsonCubeCrs*CompositeModePluginEnd*AnonymousEnd"></script><script type="text/javascript" src="https://www.bing.com/rms/TilePyramidPluginBundle/cj,nj/2c70a303/3f7cd863.js?bu=rms+answers+MapsSDK+AnonymousBegin*TilePyramidPluginStart*CanvasTilePlacement*HtmlTilePlacement*HtmlTilePlacementGrid*PyramidTileId*TileGrid*TilePyramid*SheetId*VectorTile*TileCache*VectorTileLayerData*PyramidTileSpatialIndex*SheetCrs*SheetSpatialIndex*TileSystemHelper*TilePyramidPluginEnd*AnonymousEnd"></script><script type="text/javascript" src="https://www.bing.com/rms/BaseMapDataBundle/cj,nj/1c0ca62a/e7a3af64.js?bu=rms+answers+MapsSDK+AnonymousBegin*BaseMapDataPluginStart*BaseMapDataSource*BaseMapEntity*LandmarkEntity*EntityHelper*LandmarkInfo*IBaseMapTemplateSelector*FallbackTemplateSelector*BaseMapTemplateSelector*BaseMapTemplateSelectorProxy*Palette*GridCrs*GridId*GridSpatialIndex*BaseMapDataPluginEnd*AnonymousEnd"></script><script type="text/javascript" src="https://www.bing.com/rms/LabelsBundle/cj,nj/dc36dce7/ebadafee.js?bu=rms+answers+MapsSDK+AnonymousBegin*LabelsPluginStart*LabelKey*LabelRegionBounds*Label*IconLabel*RelativePlacement*PointLabel*LineLabel*AreaLabel*ShieldLabel*CollisionIndex*CollisionManager*LabelerWorker*Labeler*LabelController*LabelCollider*LabelRenderer*CanvasLabelRenderer*VectorLabels*LabelsPluginEnd*AnonymousEnd"></script><link type="text/css" rel="stylesheet" href="https://www.bing.com/rms/rms answers MapsSDK SDK/cir2,cc,nc/9060ac9d/b4fc99ec.css" /><script type="text/javascript" src="https://www.bing.com/rms/SDKPlugin/cj,nj/86a494c2/be9b4e5f.js?bu=rms+answers+MapsSDK+AnonymousBegin*SDKPluginStart*SDKInfoboxOverlay*Infobox*SDKColor*TileSource*TileLayer*Module*Layer*EntityCollection*Events*SDKPrimitiveTemplateSelector*UserMouseEventArgs*PixelReference*Pushpin*SDKPolygon*SDKPolyline*TestDataGenerator*CustomOverlay*GroundOverlay*AnimatedTileLayer*MapsTilePrimerV2*SDKMap*PointCompression*DeprecatedClass*SDKPluginEnd*AnonymousEnd"></script><link type="text/css" rel="stylesheet" href="https://www.bing.com/rms/rms answers MapsSDK Navigation_zhcn_v8/cir2,cc,nc/22023ecd/a81c4b6a.css" /><script type="text/javascript" src="https://www.bing.com/rms/MapDelayPluginBundle/cj,nj/d81a3991/b4f1fd60.js?bu=rms+answers+MapsSDK+AnonymousBegin*Navigation*MapDelay.zh-chs*MapDelayPluginStart*TransitLandmarkOverlay*SharingImage*Permalink*DefaultPrimitiveCriteria*IRoutePolylineOptions*IRoutePushpinOptions*ITransitPushpinOptions*RoutePolyline*RoutePushpin*ListDataSource*KeyProvider*BrowserKeyProvider*PointerProvider*BrowserPointerProvider*MapInteractionKeyboardState*MapInteraction*MapModeStateHistory*PrintContent*BrowserHistoryManager*HashBasedHistory*HistoryWrapper*NavigationControl*AerialBirdsEyeTransitionManager*NavigationBar*MePoi*NavigationButton*NavigationButtonTemplate*NavigationHelper*RotateControl*GeochainControl*GeochainOverlay*GeochainTemplate*GeochainSegment*GeochainManager*LocateMeControl*LocateMeErrorDialog*SelectorControl*MapInteractionBehavior*OverlayManager*NavigationBarOverlay*GlobalDataEventHandler*ImageFromCssHelper*DataHandlerKeys*IDirectionsTaskState*Waypoint*CollectionEnumerators*OverlayEntity*OverlayDataEntityAction*TaskTypes*TaskDataHandlerHelper*LocalSearchEntity*RecommendationEntity*Geocoder*ReverseGeocoder*GeolocationProvider*ManipulationDelta*Inertia*PointerTrail*ManipulationDeltaTrail*StreetsideAutoEntryBehavior*StreetsideAutoEntryBubblePickerOverlay*StreetsideBootstrapper*StreetsideModeBootstrapper*StreetsideMiniOverlay*StreetsideMiniBootstrapper*StreetsideDirectionsOverlay*StreetsideDirectionsBootstrapper*StreetsideLocalDetailsBootstrapper*StreetsideCoverageBehavior*StreetsideBubblePickerOverlay*StreetsideLoggerConstants*StreetsidePerfConstants*ZoomInButton*ZoomOutButton*MapTypeSwitcherButton*TrafficToggleButton*RadialMenu*MapTypeButton*MapTypeButtonTemplate*RoadButton*AerialButton*BirdseyeButton*StreetsideButton*OrdnanceSurveyButton*SeasonalButton*GrayscaleButton*CanvasDarkButton*CanvasLightButton*SymbolicNightButton*WinterButton*LabelToggleButton*BirdseyeV2ExitButton*BirdseyeV2InfoExitControl*LandmarksManager*LandmarksOverlay*CityPolygonManager*TravelAttractionEntity*MapDelayPluginEnd*AnonymousEnd*ExternalPromise"></script><script type="text/javascript" src="Public/Js/HtmlPushpinLayerModule.js"></script><script type="text/javascript" src="https://www.bing.com/rms/SDKTrafficPlugin/cj,nj/d1564f02/d417e5ba.js?bu=rms+answers+MapsSDK+AnonymousBegin*SDKTrafficPluginStart*TrafficManager*SDKTrafficPluginEnd*AnonymousEnd"></script><link type="text/css" rel="stylesheet" href="https://www.bing.com/rms/rms answers MapsSDK TaskFramework_zhcn_v8/cir2,cc,nc/ff4c0881/fae47055.css" /><script type="text/javascript" src="https://www.bing.com/rms/TaskFrameworkPluginBundle/cj,nj/d3333048/34073443.js?bu=rms+answers+MapsSDK+AnonymousBegin*TaskFramework.zh-chs*TaskFrameworkPluginStart*PoiToolTip*MultiCardLayoutTemplate*SlideoutCardLayoutTemplate*MultiCardSelectLayout*BaseTask*LayoutManager*TaskManager*TaskStack*TaskCard*SelectionTaskCard*SingleTaskCard*FullMapLayout*MultiCardLayout*MultiCardLeftLayout*MultiCardLeftSelectionLayout*BaseTaskViewModel*TaskListViewModel*TaskListSelectionViewModel*PoiViewStateChangedArgs*BasePoiTemplateSelector*SearchResultsPoiTemplateSelector*MicroPoiResultsPoiTemplateSelector*DetailsPoiTemplateSelector*CollectionsPoiTemplateSelector*XsrPoiTemplateSelector*XsrBoundaryTemplateSelector*NearbyTransitPoiTemplateSelector*PoiManager*DetailsTaskPoiManager*PolygonBoundaryManager*ResultsTaskPoiManager*CollectionsTaskPoiManager*TransitStopTaskPoiManager*NearbyTransitTaskPoiManager*ItineraryTaskPoiManager*ItineraryTemplateSelector*MicroPoiRequestProcessor*MicroPoiManager*MicroPoiPerfLogger*TaskPrimitivesZOrderManager*SingleTaskCardTemplate*TaskFrameworkPluginEnd*AnonymousEnd"></script><script type="text/javascript" src="https://www.bing.com/rms/DataHandlerPluginBundle/cj,nj/45574e0f/4ed881a5.js?bu=rms+answers+MapsSDK+AnonymousBegin*DataHandlerPluginStart*TaskActivator*TaskProcessDataHandler*StreetsideDataHandler*InstrumentationDataHandler*PrintDataHandler*PhotosynthDataHandler*ShareDataHandler*LayerManagerDataHandler*LayoutDataHandler*MapViewDataHandler*BirdsEyeV2DialogDataHandler*DataHandlerPluginEnd*AnonymousEnd"></script><link type="text/css" rel="stylesheet" href="https://www.bing.com/rms/rms answers MapsSDK CommonControls_zhcn_v8/cir2,cc,nc/1605d4b6/db687acc.css" /><script type="text/javascript" src="https://www.bing.com/rms/CommonControlsPluginBundle/cj,nj/0500ac88/de6e61cd.js?bu=rms+answers+MapsSDK+AnonymousBegin*CommonControls.zh-chs*CommonControlsPluginStart*ListDropdown*CheckboxListDropdown*RatingListDropdown*NearbyListDropdown*PopupMessage*PopOutButtonTemplate*TaskBarListDropDown*ModalDialogViewModel*SendToMobileDialogTemplate*SendToMobileDialogViewModel*AutosuggestV2Template*SignInState*TabControlRequester*PopUpMessageControl*SignInPopUpControl*CanvasControl*CategoriesBarTemplate*CategoriesBarViewModel*CategoriesBar*CategoriesBarItem*CategoriesBarItemData*SessionStore*OutlookCalendarHelper*CalendarSyncTemplate*O365CalendarSync*GoogleCalendarSync*OutlookDesktopSync*CalendarSyncViewModel*CalendarSync*TransientLensTemplate*FiltersBarTemplate*FiltersBarViewModel*FiltersStatusBarTemplate*FiltersStatusBarViewModel*FiltersBar*FiltersBarItem*FiltersBarItemData*FiltersBarModuleViewModel*SignInPopup*CollectionsTaskResponseProcessor*ButtonGroupViewModel*TransientLensViewModel*PoiOverlayEntity*PoiTransientLensViewModel*DetailsPoiTransientLensViewModel*CollectionsPoiTransientLensViewModel*TransientLens*ListDropdownViewModel*DirectionsListDropdownViewModel*CollectionsListDropdownViewModel*SelectionListDropdownViewModel*NearbyListDropdownViewModel*PopOutButtonViewModel*FilterViewModel*PopOutMessageViewModel*CollectionPopOutMessageViewModel*AutosuggestDataModel*LocalSearchEntity*DirectionsAutosuggestDataModel*SearchBoxAutosuggestDataModel*CollectionsAutosuggestDataModel*AutosuggestInstrumentationHelper*SearchHistoryLocalStorageHelper*AutosuggestV2*MobileAutosuggestV2*AutosuggestViewModel*SuggestionViewModelV2*SyndicatedAdsTemplate*SyndicatedAdsViewModel*SyndicatedAds*AdsInstrumentation*AdRating*TaskBarDropdownViewModel*MultiselectDropdownControl*MultiselectDropdownTemplate*DropdownItem*CommonControlsPluginEnd*AnonymousEnd"></script><link type="text/css" rel="stylesheet" href="https://www.bing.com/rms/rms answers MapsSDK Traffic_zhcn_v8/cir2,cc,nc/1214fca0/a3d3bba2.css" /><script type="text/javascript" src="https://www.bing.com/rms/TrafficPluginBundle/cj,nj/ca676251/49170a58.js?bu=rms+answers+MapsSDK+AnonymousBegin*TrafficPluginStartV2*CameraOverlay*TrafficCard*Incident*Camera*TrafficOverlayV2*TrafficMiniOverlayV2*CameraMiniOverlay*TrafficLegendTemplate*TrafficCardVM*TrafficCardModuleVM*IncidentVM*TrafficIncidentLayerV2*TrafficInstrumentationHelper*TrafficLegendControl*TrafficLegendOverlay*TrafficLayerV2*TrafficLocalStorageHelper*TrafficOverlayEntityV2*CameraOverlayEntity*TrafficPinV2*TrafficTask*TrafficFlipTask*TrafficPluginEndV2*AnonymousEnd"></script><link type="text/css" rel="stylesheet" href="https://www.bing.com/rms/rms answers MapsSDK MapOverlays/cir2,cc,nc/731c1a4f/b8c1610e.css" /><script type="text/javascript" src="https://www.bing.com/rms/MapOverlaysPluginBundle/cj,nj/eff1190b/04177686.js?bu=rms+answers+MapsSDK+AnonymousBegin*MapOverlaysPluginStart*MapOverlayManager*LogoControl*LogoOverlay*CopyrightControl*CopyrightOverlay*ScaleBar*ScaleBarControl*ScaleBarConversion*ScaleBarStyle*ScaleBarUnit*ScaleBarOverlay*ScaleBarDataModel*MapOverlaysPluginEnd*AnonymousEnd"></script></head>
+<body style="">
+    <header>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Cache-Control" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+
+    <script type="text/javascript" src="https://www.bing.com/api/maps/mapcontrol?setLang=zh-cn"></script>
+    <script src="/bundles/Js?v=b--ccBoEq5t8qzXofgG45q4yhdHAZsUOEpndmh_t2uA1"></script>
+
+    
+
+</header>
+
+
+    <div class="Content" ng-app="index" ng-controller="AppCtrl" style="height: 528px; font-family: &quot;Microsoft YaHei&quot;;">
+        <div class="TitleContent">
+            <div class="logo">
+                <div class="logoImg"><a href="/Ch"><img src="/Public/Images/logo.png" /></a></div>
+                <div class="logoTitle">
+                    <span style="color:#545454">Urban</span><span style="color:#02CDFF">Air</span>
+
+                </div>
+                <div class="logoDescription">实时-细粒度-空气质量</div>
+            </div>
+            <div id="City">
+                <div id="CityName">北京</div>
+                <div class="arrow"><img src="/Public/Images/arrows.png" /></div>
+            </div>
+
+            <script type="text/javascript">
+                //$("#City").hide();
+                UAir.Cookie.createCookie("onlyShowAirQualityInCityBoundingBox", "false", 100);
+            </script>
+
+            <div id="Category">
+                <div id="CategoryName">全部</div>
+                <div class="arrow"><img src="/Public/Images/arrows.png" /></div>
+            </div>
+            
+            <button class="button" style="padding-top: 4px; padding-bottom: 2px; font-size: 12px; background-color: rgb(234, 151, 9); color: rgb(255, 255, 255);" id="AQI">轻度污染</button>
+            <div id="Weather">
+                <img src="/Public/Images/weather_2.png" style="height: 35px; width: 35px;" />
+            </div>
+            <div id="Temperature">
+                <div id="TempTemperature">18℃</div>
+            </div>
+            <div class="IconSwitchStyle" style="position: absolute; right: 218px;">
+                <input type="checkbox" id="IconSwitch" checked="checked" />
+            </div>
+            <div class="Language" style="position: absolute; right: 430px; font-size: 12px; text-decoration: underline">
+                <a href="http://research.microsoft.com/en-us/projects/urbanair/default.aspx" target="_blank">学术主页</a>
+            </div>
+            <div class="Language" style="position: absolute; right: 290px; font-size: 12px; text-decoration: underline">
+                <a href="http://yourweather.azurewebsites.net/" target="_blank">手机客户端下载</a>
+            </div>
+            <div class="Language" style="position: absolute; right: 146px; font-size: 12px;">
+                <label for="IconSwitch" style="color: #808080;">显示站点图标</label>
+            </div>
+            <div class="Language">
+                <a href="/En">English</a> | <a href="/Ch">中文</a>
+            </div>
+        </div>
+        <div class="MapContent" style="height: 437px;">
+            <div id="myMap" style="position:absolute; width:100%; height:100%;"><div class="MicrosoftMap" style="position: absolute; width: 100%; height: 100%; left: 0px; top: 0px;"><div style="position: absolute; overflow: hidden; width: 100%; height: 100%; top: 0px; left: 0px;"><div class="ms-composite" tabindex="-1" dir="ltr" style="opacity: 1; position: absolute; top: 0px; left: 0px; z-index: 0;"><canvas id="tileCanvasId" width="1034" height="437" style="outline: none; position: absolute; background-color: rgb(235, 233, 226); width: 1034px; height: 437px;"></canvas><div tabindex="0" id="mapFocus" aria-label="Map" style="top: 1px; left: 1px; z-index: 0; position: absolute; width: 1032px; height: 435px;"></div><div class="letterbox" style="position: absolute; z-index: 10; background-color: rgb(235, 233, 226); visibility: hidden;"></div><div class="letterbox" style="position: absolute; z-index: 10; background-color: rgb(235, 233, 226); visibility: hidden;"></div><canvas id="labelCanvasId" class="labelCanvas" width="4068" height="2186" style="outline: none; position: absolute; width: 2034px; height: 1093px; top: -328px; left: -500px;"></canvas><div style="position: absolute; left: 0px; top: 0px;"><div style="position: absolute; left: 344.901px; top: -1.87263px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_3.png" /></span><span class="StationsValue">134</span><div class="StationDetailNameBarTitle" style="border-color:#ea9709;">海淀北部新区</div></div></div><div style="position: absolute; left: 368.027px; top: 80.6274px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_7.png" /></span><div class="StationDetailNameBarTitle" style="border-color:gray;">海淀北京植物园</div></div></div><div style="position: absolute; left: 427.839px; top: 96.44px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_2.png" /></span><span class="StationsValue" style="color:black;">95</span><div class="StationDetailNameBarTitle" style="border-color:#fdfc01;">海淀万柳</div></div></div><div style="position: absolute; left: 472.651px; top: 128.049px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_3.png" /></span><span class="StationsValue">102</span><div class="StationDetailNameBarTitle" style="border-color:#ea9709;">西直门北大街</div></div></div><div style="position: absolute; left: 352.682px; top: 165.691px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_3.png" /></span><span class="StationsValue">111</span><div class="StationDetailNameBarTitle" style="border-color:#ea9709;">石景山古城</div></div></div><div style="position: absolute; left: 343.151px; top: 259.878px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_2.png" /></span><span class="StationsValue" style="color:black;">100</span><div class="StationDetailNameBarTitle" style="border-color:#fdfc01;">丰台云岗</div></div></div><div style="position: absolute; left: 505.433px; top: 201.971px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_2.png" /></span><span class="StationsValue" style="color:black;">90</span><div class="StationDetailNameBarTitle" style="border-color:#fdfc01;">永定门内大街</div></div></div><div style="position: absolute; left: 486.355px; top: 221.159px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_3.png" /></span><span class="StationsValue">115</span><div class="StationDetailNameBarTitle" style="border-color:#ea9709;">南三环西路</div></div></div><div style="position: absolute; left: 421.745px; top: 214.034px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_3.png" /></span><span class="StationsValue">110</span><div class="StationDetailNameBarTitle" style="border-color:#ea9709;">丰台花园</div></div></div><div style="position: absolute; left: 317.589px; top: 328.44px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_1.png" /></span><span class="StationsValue">48</span><div class="StationDetailNameBarTitle" style="border-color:#25e82c;">房山良乡</div></div></div><div style="position: absolute; left: 218.524px; top: 482.402px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_1.png" /></span><span class="StationsValue">48</span><div class="StationDetailNameBarTitle" style="border-color:#25e82c;">京西南琉璃河</div></div></div><div style="position: absolute; left: 507.901px; top: 101.44px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_3.png" /></span><span class="StationsValue">114</span><div class="StationDetailNameBarTitle" style="border-color:#ea9709;">朝阳奥体中心</div></div></div><div style="position: absolute; left: 554.026px; top: 144.127px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_3.png" /></span><span class="StationsValue">118</span><div class="StationDetailNameBarTitle" style="border-color:#ea9709;">朝阳农展馆</div></div></div><div style="position: absolute; left: 570.777px; top: 141.815px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_3.png" /></span><span class="StationsValue">124</span><div class="StationDetailNameBarTitle" style="border-color:#ea9709;">东四环北路</div></div></div><div style="position: absolute; left: 556.777px; top: 129.443px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_7.png" /></span><div class="StationDetailNameBarTitle" style="border-color:gray;">北京美国大使馆</div></div></div><div style="position: absolute; left: 474.823px; top: 200.065px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_3.png" /></span><span class="StationsValue">101</span><div class="StationDetailNameBarTitle" style="border-color:#ea9709;">西城万寿西宫</div></div></div><div style="position: absolute; left: 474.136px; top: 151.55px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_1.png" /></span><span class="StationsValue">42</span><div class="StationDetailNameBarTitle" style="border-color:#25e82c;">西城官园</div></div></div><div style="position: absolute; left: 522.089px; top: 151.565px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_1.png" /></span><span class="StationsValue">40</span><div class="StationDetailNameBarTitle" style="border-color:#25e82c;">东城东四</div></div></div><div style="position: absolute; left: 515.151px; top: 192.19px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_3.png" /></span><span class="StationsValue">117</span><div class="StationDetailNameBarTitle" style="border-color:#ea9709;">东城天坛</div></div></div><div style="position: absolute; left: 506.433px; top: 180.19px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_2.png" /></span><span class="StationsValue" style="color:black;">97</span><div class="StationDetailNameBarTitle" style="border-color:#fdfc01;">前门东大街</div></div></div><div style="position: absolute; left: 514.277px; top: 351.752px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_2.png" /></span><span class="StationsValue" style="color:black;">98</span><div class="StationDetailNameBarTitle" style="border-color:#fdfc01;">大兴黄村镇</div></div></div><div style="position: absolute; left: 587.214px; top: 279.44px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_1.png" /></span><span class="StationsValue">35</span><div class="StationDetailNameBarTitle" style="border-color:#25e82c;">亦庄开发区</div></div></div><div style="position: absolute; left: 436.977px; top: 539.064px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_1.png" /></span><span class="StationsValue">47</span><div class="StationDetailNameBarTitle" style="border-color:#25e82c;">京南榆垡</div></div></div><div style="position: absolute; left: 702.152px; top: 193.377px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_3.png" /></span><span class="StationsValue">137</span><div class="StationDetailNameBarTitle" style="border-color:#ea9709;">通州新城</div></div></div><div style="position: absolute; left: 788.687px; top: 357.571px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_2.png" /></span><span class="StationsValue" style="color:black;">52</span><div class="StationDetailNameBarTitle" style="border-color:#fdfc01;">京东南永乐店</div></div></div><div style="position: absolute; left: 695.48px; top: -36.4525px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_3.png" /></span><span class="StationsValue">103</span><div class="StationDetailNameBarTitle" style="border-color:#ea9709;">顺义新城</div></div></div><div style="position: absolute; left: 386.005px; top: -122.22px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_3.png" /></span><span class="StationsValue">111</span><div class="StationDetailNameBarTitle" style="border-color:#ea9709;">昌平镇</div></div></div><div style="position: absolute; left: 378.723px; top: -193.78px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_3.png" /></span><span class="StationsValue">127</span><div class="StationDetailNameBarTitle" style="border-color:#ea9709;">昌平定陵</div></div></div><div style="position: absolute; left: 295.71px; top: 144.24px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_3.png" /></span><span class="StationsValue">108</span><div class="StationDetailNameBarTitle" style="border-color:#ea9709;">门头沟龙泉镇</div></div></div><div style="position: absolute; left: 1019.52px; top: -51.6917px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_2.png" /></span><span class="StationsValue" style="color:black;">78</span><div class="StationDetailNameBarTitle" style="border-color:#fdfc01;">平谷镇</div></div></div><div style="position: absolute; left: 1034.08px; top: -10.7443px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_2.png" /></span><span class="StationsValue" style="color:black;">73</span><div class="StationDetailNameBarTitle" style="border-color:#fdfc01;">京东东高村</div></div></div><div style="position: absolute; left: 675.819px; top: -228.157px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_3.png" /></span><span class="StationsValue">105</span><div class="StationDetailNameBarTitle" style="border-color:#ea9709;">怀柔镇</div></div></div><div style="position: absolute; left: 824.368px; top: -268.287px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_3.png" /></span><span class="StationsValue">119</span><div class="StationDetailNameBarTitle" style="border-color:#ea9709;">密云镇</div></div></div><div style="position: absolute; left: 881.894px; top: -391.699px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_3.png" /></span><span class="StationsValue">129</span><div class="StationDetailNameBarTitle" style="border-color:#ea9709;">京东北密云水库</div></div></div><div style="position: absolute; left: 198.135px; top: -347.665px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_1.png" /></span><span class="StationsValue">42</span><div class="StationDetailNameBarTitle" style="border-color:#25e82c;">延庆镇</div></div></div><div style="position: absolute; left: 209.786px; top: -263.508px;"><div class="StationsMsg"><span class="StationsImg"><img src="/Public/Images/data_4.png" /></span><span class="StationsValue">172</span><div class="StationDetailNameBarTitle" style="border-color:#fe0000;">京西北八达岭</div></div></div></div><div style="position: absolute; left: 0px; top: 0px;"></div><div style="position: absolute; left: 0px; top: 0px;"></div></div></div><div style="position: absolute; overflow: hidden; width: 100%; height: 100%; top: 0px; left: 0px; pointer-events: none; transform: scale(1);"><div style="position: absolute; width: 100%; height: 100%; pointer-events: none;"><div class="trafficLegend" data-tag="trafficLegend" style="display: none;"><div class="tlGroup"><div class="tlLegend"><span class="tlSlow" data-tag="tlSlow">慢</span><span class="tlFast" data-tag="tlFast">快</span><div class="tlKey" data-tag="tlKey"></div></div></div></div></div><div class="bm_bottomRightOverlay" style="position: absolute; right: 25px; bottom: 5px;"><div id="ScaleBarId" class="bm_disable_highlighting quadrantOverride" style="z-index: 0;font-family: arial, helvetica, sans-serif;font-size: 9px;text-align: right;display: block"><div style="display: inline-block;position: relative;margin-left: 1em;padding-top: .5em;padding-bottom: .05em;width: 70px"><div style="color: #000;text-shadow: #fff 1px 1px">5 英里</div><div style="width: 100%;height: 3px;border: 1px solid #fff;line-height: 0;overflow: hidden"><div style="width: 100%;height: 0;border: 10px solid #49f"></div></div></div><div style="display: inline-block;position: relative;margin-left: 1em;padding-top: .5em;padding-bottom: .05em;width: 87px"><div style="color: #000;text-shadow: #fff 1px 1px">10 千米</div><div style="width: 100%;height: 3px;border: 1px solid #fff;line-height: 0;overflow: hidden"><div style="width: 100%;height: 0;border: 10px solid #49f"></div></div></div></div><div id="CopyrightContainer" class="CopyrightContainer quadrantOverride"><div id="TermsLinkContainer" class="TermsLinkContainer"><a class="ShadowTextDark" href="https://www.microsoft.com/maps/assets/docs/terms.aspx" title="Terms" target="mc_bingMaps" style="pointer-events: auto">Terms</a></div><div id="CopyrightControl" class="CopyrightControl" style="max-width: 937px;"><span class="ShadowTextDark"><span class="CopyrightAttributionStyle">© 2018 Microsoft Corporation - GS(2017)2172,© 2018 NavInfo,© 2018 Microsoft Corporation</span></span></div></div></div><div class="bm_bottomLeftOverlay" style="position: absolute; left: 5px; bottom: 5px;"><div class="bm_LogoContainer quadrantOverride"><a href="http://www.bing.com/maps?cp=39.89038009751642~116.39617200000002&amp;lvl=10&amp;style=r&amp;FORM=BMLOGO" title="Bing Maps" target="mc_bingMaps" style="pointer-events: none"><div id="bingLogo" class="bingLogoLight"></div></a></div></div></div></div></div>
+        </div>
+        <div id="controlPanel" style="">
+            <marquee scrollamount="3" class="ScrollCaption" style="display: none;">
+                <span class="NoData">官方网站暂未发布最新空气质量检测数据。</span>
+                <span class="Statement">500+表示严重污染。</span>
+            </marquee>
+            <div class="CityList" id="CityListLevel1" style="width: 400px; height: 345px; right: 5px; display: none;">
+                <div class="CityItem" style="width: 80px; left: 5px; top: 9px; color:black; font-weight:bold;">城市群:</div>
+                <div class="CityItem" style="width: 80px; left: 85px; top: 9px"><a class="CityName CityGroup" style="font-size: 12px;">京津冀(257)</a><a class="StationCount"></a></div>
+                <div class="CityItem" style="width: 80px; left: 165px; top: 9px"><a class="CityName CityGroup" style="font-size: 12px;">长三角(192)</a><a class="StationCount"></a></div>
+                <div class="CityItem" style="width: 80px; left: 245px; top: 9px"><a class="CityName CityGroup" style="font-size: 12px;">珠三角(213)</a><a class="StationCount"></a></div>
+                <div class="CityItem" style="width: 80px; left: 325px; top: 9px"><a class="CityName CityGroup" style="font-size: 12px;">成渝(122)</a><a class="StationCount"></a></div>
+                
+                <div class="CityItem" style="width: 395px; top: 35px"><hr /></div>
+                <div class="CityItem" style="width: 80px; left: 5px; top: 52px; color:black; font-weight:bold;">直辖市:</div>
+                <div class="CityItem SpecialCityItem" style="width: 80px; left: 85px; top: 52px; "><a class="CityName" style="font-size: 12px;">北京(36)</a><a class="StationCount"></a></div>
+                <div class="CityItem SpecialCityItem" style="width: 80px; left: 165px; top: 52px; "><a class="CityName" style="font-size: 12px;">上海(14)</a><a class="StationCount"></a></div>
+                <div class="CityItem SpecialCityItem" style="width: 80px; left: 245px; top: 52px; "><a class="CityName" style="font-size: 12px;">天津(26)</a><a class="StationCount"></a></div>
+                <div class="CityItem SpecialCityItem" style="width: 80px; left: 325px; top: 52px; "><a class="CityName" style="font-size: 12px;">重庆(17)</a><a class="StationCount"></a></div>
+                <div class="CityItem" style="width: 395px; top: 80px"><hr /></div>
+                <div class="CityItem" style="width: 80px; left: 5px; top: 95px; color:black; font-weight:bold;">特区:</div>
+                <div class="CityItem SpecialCityItem" style="width: 80px; left: 85px; top: 95px"><a class="CityName" style="font-size: 12px;">香港(15)</a><a class="StationCount"></a></div>
+                <div class="CityItem SpecialCityItem" style="width: 80px; left: 165px; top: 95px"><a class="CityName" style="font-size: 12px;">澳门(0)</a><a class="StationCount"></a></div>
+                <div class="CityItem" style="width: 395px; top: 120px"><hr /></div>
+                <div class="CityItem" style="width: 80px; left: 5px; top: 130px; color:black; font-weight:bold;">自治区:</div>
+                <div class="CityItem" style="width: 80px; left: 85px; top: 130px"><a class="RegionName" style="font-size: 12px;">广西(46)</a><a class="StationCount"></a></div>
+                <div class="CityItem" style="width: 80px; left: 165px; top: 130px"><a class="RegionName" style="font-size: 12px;">内蒙古(44)</a><a class="StationCount"></a></div>
+                <div class="CityItem" style="width: 80px; left: 245px; top: 130px"><a class="RegionName" style="font-size: 12px;">宁夏(19)</a><a class="StationCount"></a></div>
+                <div class="CityItem" style="width: 80px; left: 325px; top: 130px"><a class="RegionName" style="font-size: 12px;">西藏(18)</a><a class="StationCount"></a></div>
+                <div class="CityItem" style="width: 80px; left: 85px; top: 155px"><a class="RegionName" style="font-size: 12px;">新疆(39)</a><a class="StationCount"></a></div>
+                <div class="CityItem" style="width: 395px; top: 180px"><hr /></div>
+                <div class="CityItem" style="width: 80px; left: 5px; top: 190px; color:black; font-weight:bold;">省份:</div>
+                <div class="CityItem" style="width: 80px; left: 85px; top: 190px"><a class="RegionName" style="font-size: 12px;">安徽省(66)</a><a class="StationCount"></a></div>
+                <div class="CityItem" style="width: 80px; left: 165px; top: 190px"><a class="RegionName" style="font-size: 12px;">福建省(37)</a><a class="StationCount"></a></div>
+                <div class="CityItem" style="width: 80px; left: 245px; top: 190px"><a class="RegionName" style="font-size: 12px;">甘肃省(30)</a><a class="StationCount"></a></div>
+                <div class="CityItem" style="width: 80px; left: 325px; top: 190px"><a class="RegionName" style="font-size: 12px;">广东省(152)</a><a class="StationCount"></a></div>
+
+                <div class="CityItem" style="width: 80px; left: 85px; top: 215px"><a class="RegionName" style="font-size: 12px;">贵州省(33)</a><a class="StationCount"></a></div>
+                <div class="CityItem" style="width: 80px; left: 165px; top: 215px"><a class="RegionName" style="font-size: 12px;">海南省(46)</a><a class="StationCount"></a></div>
+                <div class="CityItem" style="width: 80px; left: 245px; top: 215px"><a class="RegionName" style="font-size: 12px;">河北省(195)</a><a class="StationCount"></a></div>
+                <div class="CityItem" style="width: 80px; left: 325px; top: 215px"><a class="RegionName" style="font-size: 12px;">河南省(86)</a><a class="StationCount"></a></div>
+
+                <div class="CityItem" style="width: 80px; left: 85px; top: 240px"><a class="RegionName" style="font-size: 12px;">黑龙江省(58)</a><a class="StationCount"></a></div>
+                <div class="CityItem" style="width: 80px; left: 165px; top: 240px"><a class="RegionName" style="font-size: 12px;">湖北省(69)</a><a class="StationCount"></a></div>
+                <div class="CityItem" style="width: 80px; left: 245px; top: 240px"><a class="RegionName" style="font-size: 12px;">湖南省(77)</a><a class="StationCount"></a></div>
+                <div class="CityItem" style="width: 80px; left: 325px; top: 240px"><a class="RegionName" style="font-size: 12px;">吉林省(31)</a><a class="StationCount"></a></div>
+
+                <div class="CityItem" style="width: 80px; left: 85px; top: 265px"><a class="RegionName" style="font-size: 12px;">江苏省(112)</a><a class="StationCount"></a></div>
+                <div class="CityItem" style="width: 80px; left: 165px; top: 265px"><a class="RegionName" style="font-size: 12px;">江西省(59)</a><a class="StationCount"></a></div>
+                <div class="CityItem" style="width: 80px; left: 245px; top: 265px"><a class="RegionName" style="font-size: 12px;">辽宁省(59)</a><a class="StationCount"></a></div>
+                <div class="CityItem" style="width: 80px; left: 325px; top: 265px"><a class="RegionName" style="font-size: 12px;">青海省(12)</a><a class="StationCount"></a></div>
+
+                <div class="CityItem" style="width: 80px; left: 85px; top: 290px"><a class="RegionName" style="font-size: 12px;">山东省(138)</a><a class="StationCount"></a></div>
+                <div class="CityItem" style="width: 80px; left: 165px; top: 290px"><a class="RegionName" style="font-size: 12px;">山西省(57)</a><a class="StationCount"></a></div>
+                <div class="CityItem" style="width: 80px; left: 245px; top: 290px"><a class="RegionName" style="font-size: 12px;">陕西省(52)</a><a class="StationCount"></a></div>
+                <div class="CityItem" style="width: 80px; left: 325px; top: 290px"><a class="RegionName" style="font-size: 12px;">四川省(105)</a><a class="StationCount"></a></div>
+
+                <div class="CityItem" style="width: 80px; left: 85px; top: 315px"><a class="RegionName" style="font-size: 12px;">台湾省(0)</a><a class="StationCount"></a></div>
+                <div class="CityItem" style="width: 80px; left: 165px; top: 315px"><a class="RegionName" style="font-size: 12px;">云南省(42)</a><a class="StationCount"></a></div>
+                <div class="CityItem" style="width: 80px; left: 245px; top: 315px"><a class="RegionName" style="font-size: 12px;">浙江省(66)</a><a class="StationCount"></a></div>
+
+            </div>
+            <div class="CityList" id="CityListLevel3" style="width: 400px; right: 5px; top: 443px; display: none;">
+                
+            </div>
+            <div class="CategoryList" style="display: none;">
+                <div class="CategoryItem"><a class="CategoryName">全部</a></div>
+                <div class="CategoryItem"><a class="CategoryName">PM2.5</a></div>
+                <div class="CategoryItem"><a class="CategoryName">PM10</a></div>
+                <div class="CategoryItem"><a class="CategoryName">NO2</a></div>
+                <div class="CategoryItem"><a class="CategoryName">CO</a></div>
+                <div class="CategoryItem"><a class="CategoryName">O3</a></div>
+                <div class="CategoryItem"><a class="CategoryName">SO2</a></div>
+            </div>
+            <div class="CityDetail" style="width: 210px; height: 290px; display: none;">
+                <img id="DetailPic" src="/Public/Images/background_city-summary.png" style="width:210px;height:360px" />
+                <div class="Details">
+                    <div class="Details_Close">
+                        <img src="/Public/Images/close.png" />
+                    </div>
+                    <div class="Details_AQI_Img">
+                        <img src="/Public/Images/face_3.png" />
+                        <div id="Details_AQIValue">111</div>
+                    </div>
+                    <div id="Details_AQI">
+                        <div id="Details_AQIDescription" style="color: rgb(234, 151, 9);">轻度污染</div>
+                    </div>
+                    <div id="Details_UpdateTime" style="padding-top:20px;">更新于 3/29/2018 1:20 PM</div>
+                    <div class="Details_Content">
+                        <div class="Details_Weather">
+                            <div id="Details_Wind">风力：2</div>
+                            <div id="Details_Humidity">湿度：21%</div>
+                        </div>
+                        <div class="Details_Precision">
+                            <div class="Details_Precision_Title">
+                                细粒度预测准确率：
+                            </div>
+                            <div class="Details_Precision_Content">
+                                <div class="Details_AQI_Items" style="padding-left:0;width:35px">
+                                    <div class="Details_AQI_Title">
+                                        PM2.5
+                                    </div>
+                                    <div id="Details_PM25">0.855</div>
+                                </div>
+
+                                <div class="Details_AQI_Items" style="width:35px">
+                                    <div class="Details_AQI_Title">
+                                        PM10
+                                    </div>
+                                    <div id="Details_PM10">0.824</div>
+                                </div>
+                                <div class="Details_AQI_Items" style="border:0;width:35px">
+                                    <div class="Details_AQI_Title">
+                                        NO2
+                                    </div>
+                                    <div id="Details_NO2">0.873</div>
+                                </div>
+                                <br />
+                                <div class="Details_AQI_Items" style="padding-left:0;width:35px">
+                                    <div class="Details_AQI_Title">
+                                        SO2
+                                    </div>
+                                    <div id="Details_SO2">1</div>
+                                </div>
+                                <div class="Details_AQI_Items" style="width:35px">
+                                    <div class="Details_AQI_Title">
+                                        CO
+                                    </div>
+                                    <div id="Details_CO">0.984</div>
+                                </div>
+                                <div class="Details_AQI_Items" style="border:0;width:35px">
+                                    <div class="Details_AQI_Title">
+                                        O3
+                                    </div>
+                                    <div id="Details_O3">0.984</div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <br /><br /><br /><br />
+
+                        <div id="DailyPrediction">
+                            <div class="Details_Precision" style="margin-top:20px">
+                                <div class="Details_Precision_Title">
+                                    明日均值预测：
+                                </div>
+                                <div class="Details_Precision_Content">
+                                    <div class="Details_AQI_Items" style="padding-left:0; width:35px">
+                                        <div class="Details_AQI_Title">
+                                            PM2.5
+                                        </div>
+                                        <div id="DailyPrediction_PM25IconDescription" class="AQIColorBox" style="background-color: rgb(234, 151, 9);"></div>
+                                        <div id="DailyPrediction_PM25_AQI">117</div>
+                                    </div>
+
+                                    <div class="Details_AQI_Items" style="width:35px">
+                                        <div class="Details_AQI_Title">
+                                            PM10
+                                        </div>
+                                        <div id="DailyPrediction_PM10IconDescription" class="AQIColorBox" style="background-color: rgb(112, 48, 160);"></div>
+                                        <div id="DailyPrediction_PM10_AQI">259</div>
+                                    </div>
+                                    <div class="Details_AQI_Items" style="border:0;width:35px">
+                                        <div class="Details_AQI_Title">
+                                            NO2
+                                        </div>
+                                        <div>
+                                            <div id="DailyPrediction_NO2IconDescription" class="AQIColorBox" style="background-color: rgb(37, 232, 44);"></div>
+                                            <div id="DailyPrediction_NO2_AQI">49</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <br />
+                            <div class="Details_Precision">
+                                <div class="Details_Precision_Content">
+
+                                    <div class="Details_AQI_Items" style="padding-left:0;width:35px">
+                                        <div class="Details_AQI_Title">
+                                            SO2
+                                        </div>
+                                        <div id="DailyPrediction_SO2IconDescription" class="AQIColorBox" style="background-color: rgb(37, 232, 44);"></div>
+                                        <div id="DailyPrediction_SO2_AQI">7</div>
+                                    </div>
+                                    <div class="Details_AQI_Items" style="width:35px">
+                                        <div class="Details_AQI_Title">
+                                            CO
+                                        </div>
+                                        <div id="DailyPrediction_COIconDescription" class="AQIColorBox" style="background-color: rgb(37, 232, 44);"></div>
+                                        <div id="DailyPrediction_CO_AQI">19</div>
+                                    </div>
+                                    <div class="Details_AQI_Items" style="border:0;width:35px">
+                                        <div class="Details_AQI_Title">
+                                            O3
+                                        </div>
+                                        <div id="DailyPrediction_O3IconDescription" class="AQIColorBox" style="background-color: rgb(37, 232, 44);"></div>
+                                        <div id="DailyPrediction_O3_AQI">34</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <br /><br />
+
+                    </div>
+
+                </div>
+            </div>
+            <div class="Traffic" title="交通状况">
+                <img class="TrafficSignal" src="/Public/Images/traffic_2.png" />
+                <img class="TrafficBackground" src="/Public/Images/background_traffic.png" />
+            </div>
+            <div class="Standard">
+                <div id="StandardTitle">中</div>
+                <img class="TrafficBackground" src="/Public/Images/background_traffic.png" />
+            </div>
+            <div class="DashBoard" style="width: 305px;">
+                <div class="DashBoard_Item" title="选择一个点" style="background-color: rgb(84, 84, 84);">
+                    <div id="DashBoard_Point">
+                        <img src="/Public/Images/select-a-point_2.png" />
+                    </div>
+                </div>
+                <div class="DashBoard_Item" title="选择区域" style="background-color: rgb(255, 255, 255);">
+                    <div id="DashBoard_Region">
+                        <img src="/Public/Images/select-region_1.png" />
+                    </div>
+                </div>
+                <div class="DashBoard_Item" title="显示全城" style="background-color: rgb(255, 255, 255);">
+                    <div id="DashBoard_City">
+                        <img src="/Public/Images/view-city_1.png" />
+                    </div>
+                </div>
+                
+                <div class="DashBoard_Item" id="CityHistoryBtn" title="历史数据分布" style="background-color: rgb(255, 255, 255);">
+                    <div id="DashBoard_Air">
+                        <img src="/Public/Images/air-data_1.png" />
+                    </div>
+                </div>
+                <div class="DashBoard_Item" style="border: 0px; background-color: rgb(255, 255, 255);" title="预测">
+                    <div id="DashBoard_Predict">
+                        <img src="/Public/Images/Predict_1.png" style="height:40px;width:60px;top:0px;left:0px;position:absolute" />
+                    </div>
+                </div>
+                
+            </div>
+            <div class="StationsMsg" id="MousePushPinEntity" style="display: none; visibility: visible;">
+                <span class="StationsImg" id="MousePushPinImgEntity"><img src="/Public/Images/data_1.png" /></span>
+                <span class="StationsValue" id="MousePushPinValueEntity">0</span>
+                <div class="StationDetailNameBarTitle" id="MousePushPinTitleEntity" style="border-color:green;">MousePinPoint</div>
+            </div>
+            <div class="DashBoardHistory BorderShadow" style="display: none;">
+                <div class="DashBoard_item">
+                    <div id="DashBoardHistory">
+                        <img src="/Public/Images/history_1.png" />
+                    </div>
+                </div>
+                <div id="BestHistory">
+                    历史最好
+                </div>
+                <div id="WorstHistory">
+                    历史最差
+                </div>
+            </div>
+            <div class="DashBoardCity BorderShadow" style="display: none;">
+                <div class="DashBoard_item">
+                    <div id="DashBoardCity">
+                        <img src="/Public/Images/view-city_1.png" />
+                    </div>
+                </div>
+                <div id="CurrentAllCityState">
+                    全图即时
+                </div>
+                
+            </div>
+            <div class="Legend">
+                <img src="/Public/Images/color_bar_chinese.png" />
+            </div>
+
+            <div class="CopyrightPrivacy" style="bottom: 20px;">
+                <div>
+                    Copyright ©2016 Microsoft Corporation.
+                    <a href="http://go.microsoft.com/fwlink/?LinkID=536683" style="padding-left:20px;color:gray" target="_blank">隐私声明</a>
+                </div>
+            </div>
+
+            
+
+            <div class="SliderBox" style="width: 1014px; bottom: 10px; display: none;">
+                <div class="SliderTitle">
+                    <div id="HistoryPeriod" style="border-color: transparent; width: 150px;">2012.09-2018.3</div>
+                    <img id="SliderPlay" src="/Public/Images/Play.png" />
+                </div>
+                <div class="SliderSection" style="width: 810px;">
+                    <div id="slider" class="ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all" aria-disabled="false" style="width: 640px; left: 30px;"><a class="ui-slider-handle ui-state-default ui-corner-all" href="#" style="left: 58.3333%; width: 20px; height: 10px; margin-top: 3px; margin-left: -15px;"></a></div>
+                    <div class="amount" style="width: 800px;">
+                        <div class="amountItem" style="width: 62px;">0AM</div>
+                        <div class="amountItem" style="width: 62px;">2AM</div>
+                        <div class="amountItem" style="width: 62px;">4AM</div>
+                        <div class="amountItem" style="width: 62px;">6AM</div>
+                        <div class="amountItem" style="width: 62px;">8AM</div>
+                        <div class="amountItem" style="width: 62px;">10AM</div>
+                        <div class="amountItem" style="width: 62px;">12AM</div>
+                        <div class="amountItem" style="width: 62px;">2PM</div>
+                        <div class="amountItem" style="width: 62px;">4PM</div>
+                        <div class="amountItem" style="width: 62px;">6PM</div>
+                        <div class="amountItem" style="width: 62px;">8PM</div>
+                        <div class="amountItem" style="width: 62px;">10PM</div>
+                        <div class="amountItem" style="width: 52px;">12PM</div>
+                    </div>
+                </div>
+            </div>
+            <div class="PredictSlider" style="bottom: 10px; display: none;">
+                <div class="PredictTitle">
+                    <img id="PredictPlay" src="/Public/Images/Play.png" />
+                </div>
+                <div class="PredictSliderSection">
+                    <div id="PSlider" class="ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all" aria-disabled="false"><a class="ui-slider-handle ui-state-default ui-corner-all" href="#" style="left: 0%; width: 20px; height: 10px; margin-top: 3px; margin-left: -15px;"></a></div>
+                    <div class="PredictAmount">
+                        <div class="pAmountItem" id="PredicitBarLabel1">1小时</div>
+                        <div class="pAmountItem" id="PredicitBarLabel2">2小时</div>
+                        <div class="pAmountItem" id="PredicitBarLabel3">3小时</div>
+                        <div class="pAmountItem" id="PredicitBarLabel4">4小时</div>
+                        <div class="pAmountItem" id="PredicitBarLabel5">5小时</div>
+                        <div class="pAmountItem" id="PredicitBarLabel6">6小时</div>
+                        <div class="pAmountItem" id="PredicitBarLabel7">7~12</div>
+                        <div class="pAmountItem" id="PredicitBarLabel8">13~24</div>
+                        <div class="pAmountItem" id="PredicitBarLabel9">25~48</div>
+                    </div>
+                </div>
+                <div class="PredPricesion">
+                    <p style="display:inline">整体准确率:</p>
+                    <p id="PrecValue" style="display:inline; padding-left:10px;">0.72</p>
+                </div>
+                <div class="PredictTime">
+                    <p style="display:inline">预测时间:</p>
+                    <p id="PredT" style="display:inline; padding-left:10px;">14:00 PM</p>
+                </div>
+            </div>
+            <div class="AllCitySlider" style="bottom: 10px; display: none;">
+                <div class="AllCityTitle">
+                    <img id="AllCityPlay" src="/Public/Images/Play.png" />
+                </div>
+                <div class="AllCitySliderSection">
+                    <div id="AllCitySliderBar" class="ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all" aria-disabled="false"><a class="ui-slider-handle ui-state-default ui-corner-all" href="#" style="left: 0%; width: 20px; height: 10px; margin-top: 3px; margin-left: -15px;"></a></div>
+                    <div class="AllCityAmount">
+                        <div class="AllCityAmountItem" id="HistoryBarLabel1">-24时</div>
+                        <div class="AllCityAmountItem" id="HistoryBarLabel2">-20时</div>
+                        <div class="AllCityAmountItem" id="HistoryBarLabel3">-16时</div>
+                        <div class="AllCityAmountItem" id="HistoryBarLabel4">-12时</div>
+                        <div class="AllCityAmountItem" id="HistoryBarLabel5">-8时</div>
+                        <div class="AllCityAmountItem" id="HistoryBarLabel6">-4时</div>
+                        <div class="AllCityAmountItem" id="HistoryBarLabel7">现在</div>
+                    </div>
+                </div>
+            </div>
+            <div class="MapFrame" style="display: none;">
+                <div class="MapDescription">
+                    <div class="MapDescriptionClose"><img src="/Public/Images/close.png" /></div>
+                    <div class="AQIAreaDescription">
+                        <div id="AQIColorBlock"></div>
+                        <div id="AQIDescription">
+                            中度污染
+                        </div>
+                    </div>
+                    <div class="DataMapDescription">
+                        <div class="DetailMapDescription">
+                            <div id="PM25Description">
+                                <div class="ItemMapDescription">PM2.5</div>
+                                <div id="PM25IconDescription"></div>
+                                <div id="PM25ValueDescription">100~150</div>
+                            </div>
+                            <div id="PM10Description">
+                                <div class="ItemMapDescription">PM10</div>
+                                <div id="PM10IconDescription"></div>
+                                <div id="PM10ValueDescription">150~200</div>
+                            </div>
+                            <div id="NO2Description">
+                                <div class="ItemMapDescription">NO2</div>
+                                <div id="NO2IconDescription"></div>
+                                <div id="NO2ValueDescription">0~50</div>
+                            </div>
+                            <div id="CODescription">
+                                <div class="ItemMapDescription">CO</div>
+                                <div id="COIconDescription"></div>
+                                <div id="COValueDescription"></div>
+                            </div>
+                            <div id="O3Description">
+                                <div class="ItemMapDescription">O3</div>
+                                <div id="O3IconDescription"></div>
+                                <div id="O3ValueDescription"></div>
+                            </div>
+                            <div id="SO2Description">
+                                <div class="ItemMapDescription">SO2</div>
+                                <div id="SO2IconDescription"></div>
+                                <div id="SO2ValueDescription"></div>
+                            </div>
+                            
+                        </div>
+                        <div class="WeatherMapDescription">
+                            <div id="WindMapDescription">
+                                <img src="/Public/Images/wind.png" style="padding-top:3px;" title="风力" />
+                                <span id="WindDescriptionValue">1</span>
+                            </div>
+                            <div id="HumidityMapDescription">
+                                <img src="/Public/Images/humidity.png" style="padding-top:2px;" title="湿度" />
+                                <span id="HumidityDescriptionValue">75%</span>
+                            </div>
+                            <div id="TemperatureMapDescription">
+                                <img src="/Public/Images/temperature.png" style="padding-top:5px;" title="气温" />
+                                <span id="TemperatureDescriptionValue">25℃</span>
+                            </div>
+                            <div id="PressureMapDescription">
+                                <img src="/Public/Images/pressure.png" style="padding-top:4px;" title="气压" />
+                                <span id="PressureDescriptionValue">1000</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="TimeMapDescription">
+                        更新于1:30PM
+                    </div>
+                </div>
+                <div class="BackgroundDescription">
+                    <img src="/Public/Images/background_pop-up-big.png" />
+                </div>
+            </div>
+
+            <div class="PredictFrame" style="display: none;">
+                <div class="PredictFrameClose" style="margin-top:30px;"><img src="/Public/Images/close.png" /></div>
+                
+                <div class="usual">
+                    <ul class="idTabs">
+                        <li style="list-style: none;float: left;"><a id="TAB_PM25" class="tab-link selected" href="#PM25">PM2.5</a></li>
+                        <li style="list-style: none;float: left;"><a id="TAB_PM10" class="tab-link" href="#PM25">PM10</a></li>
+                        <li style="list-style: none;float: left;"><a id="TAB_NO2" class="tab-link" href="#PM25">NO2</a></li>
+                        <li style="list-style: none;float: left;"><a id="TAB_CO" class="tab-link" href="#PM25">CO</a></li>
+                        <li style="list-style: none;float: left;"><a id="TAB_O3" class="tab-link" href="#PM25">O3</a></li>
+                        <li style="list-style: none;float: left;"><a id="TAB_SO2" class="tab-link" href="#PM25">SO2</a></li>
+
+                    </ul>
+                </div>
+                <br />
+                <div class="InfoContent">
+                    <div id="PM25" style="display: block;">
+                        <div class="PredStation">
+                            <div class="PredStationTitle" style="color:black">中关村</div>
+                        </div>
+                        <img src="/Public/Images/newAxis_48.png" />
+                        
+                        <div style="position: absolute; right: 375px; bottom: 7px; font-size: 11px; color: black" id="PredictionChartLabel1">10时</div>
+                        
+                        <div style="position: absolute; right: 195px; bottom: 7px; font-size: 11px; color: black" id="PredictionChartLabel6">16时</div>
+                        <div style="position: absolute; right: 130px; bottom: 7px; font-size: 11px; color: black" id="PredictionChartLabel7">22时</div>
+                        <div style="position: absolute; right: 60px; bottom: 7px; font-size: 11px; color: black" id="PredictionChartLabel8">明天10时</div>
+                        <div style="position: absolute; right: 2px; bottom: 7px; font-size: 11px; color: black" id="PredictionChartLabel9">后天10时</div>
+                        
+                        <div class="PredictPrecission" style="position:absolute">
+                            <div class="PPtitle" style="font-size: 12px; color: black">过去48小时准确率:</div>
+                            <div class="PP1" style="position: absolute; left: 150px; top: 0px; font-size: 12px; color: black">67%</div>
+                            <div class="PP7" style="position: absolute; left: 250px; top: 0px; font-size: 12px; color: black">63%</div>
+                            <div class="PP13" style="position: absolute; left: 315px; top: 0px; font-size: 12px; color: black">59%</div>
+                            <div class="PP24" style="position: absolute; left: 375px; top: 0px; font-size: 12px; color: black">45%</div>
+                        </div>
+                        <canvas id="Predict_canvas" width="420" height="114"></canvas>
+                    </div>
+                </div>
+            </div>
+
+            <div class="AirQualityBackground ColorBack0" style="display: none;"></div>
+
+            <div class="AirQualityGraph" style="display: none;">
+                <div class="GraphTitle">
+                    <div class="GraphTitleName">全城最近60天空气质量数据统计</div>
+                    <div class="GraphTitleTime">2013.4.1-2013.5.31</div>
+                </div>
+                <div class="AllCityGraph">
+                    <div class="Daytime">
+                        <div class="DaytimeTitle">白天</div>
+                        <div class="Daytime-Y">
+                            <div class="Y-Title"><img src="/Public/Images/of hours_2.png" style="padding-top:60px;" /></div>
+                            <div class="Y-Axis">
+                                <div>12</div>
+                                <div style="padding-top:50px;text-align:right;">6</div>
+                                <div style="padding-top:50px;text-align:right;">0</div>
+                            </div>
+                        </div>
+                        <div class="Daytime-X"></div>
+                        <canvas id="DaytimeGraph"></canvas>
+                    </div>
+                    <div class="Night">
+                        <div class="NightTitle">夜间</div>
+                        <div class="Night-Y">
+                            <div class="Y-Title"><img src="/Public/Images/of hours_2.png" style="padding-top:60px;" /></div>
+                            <div class="Y-Axis">
+                                <div>12</div>
+                                <div style="padding-top:50px;text-align:right;">6</div>
+                                <div style="padding-top:50px;text-align:right;">0</div>
+                            </div>
+                        </div>
+                        <div class="Night-X"></div>
+                        <canvas id="NightGraph"></canvas>
+                    </div>
+                </div>
+
+                <div class="DetailGraph">
+                    <div style="height:120px;">
+                        <div class="PM25Graph">
+                            <div class="PM25Title">PM2.5</div>
+                            <div class="GraphBackLayer">
+                                <div class="GraphLine"></div>
+                                <div class="GraphLine"></div>
+                                <div class="GraphLine"></div>
+                                <div class="GraphLine"></div>
+                                <div class="GraphLine"></div>
+                            </div>
+                            <div class="Detail-Y">
+                                <div class="DetailColor Color5"></div>
+                                <div class="DetailColor Color4"></div>
+                                <div class="DetailColor Color3"></div>
+                                <div class="DetailColor Color2"></div>
+                                <div class="DetailColor Color1"></div>
+                                <div class="DetailColor Color0"></div>
+                            </div>
+                            <div class="Detail-X"></div>
+                            <div class="PM25GraphArea"></div>
+                        </div>
+                        <div class="PM10Graph" style="margin-left:55px;">
+                            <div class="PM10Title">PM10</div>
+                            <div class="GraphBackLayer">
+                                <div class="GraphLine"></div>
+                                <div class="GraphLine"></div>
+                                <div class="GraphLine"></div>
+                                <div class="GraphLine"></div>
+                                <div class="GraphLine"></div>
+                            </div>
+                            <div class="Detail-Y">
+                                <div class="DetailColor Color5"></div>
+                                <div class="DetailColor Color4"></div>
+                                <div class="DetailColor Color3"></div>
+                                <div class="DetailColor Color2"></div>
+                                <div class="DetailColor Color1"></div>
+                                <div class="DetailColor Color0"></div>
+                            </div>
+                            <div class="Detail-X"></div>
+                            <div class="PM10GraphArea"></div>
+                        </div>
+                        <div class="NO2Graph" style="margin-left:55px;">
+                            <div class="NO2Title">NO2</div>
+                            <div class="GraphBackLayer">
+                                <div class="GraphLine"></div>
+                                <div class="GraphLine"></div>
+                                <div class="GraphLine"></div>
+                                <div class="GraphLine"></div>
+                                <div class="GraphLine"></div>
+                            </div>
+                            <div class="Detail-Y">
+                                <div class="DetailColor Color5"></div>
+                                <div class="DetailColor Color4"></div>
+                                <div class="DetailColor Color3"></div>
+                                <div class="DetailColor Color2"></div>
+                                <div class="DetailColor Color1"></div>
+                                <div class="DetailColor Color0"></div>
+                            </div>
+                            <div class="Detail-X"></div>
+                            <div class="NO2GraphArea"></div>
+                        </div>
+                    </div>
+
+                    <div style="height:120px; margin-top: 10px;">
+                        <div class="COGraph">
+                            <div class="COTitle">CO</div>
+                            <div class="GraphBackLayer">
+                                <div class="GraphLine"></div>
+                                <div class="GraphLine"></div>
+                                <div class="GraphLine"></div>
+                                <div class="GraphLine"></div>
+                                <div class="GraphLine"></div>
+                            </div>
+                            <div class="Detail-Y">
+                                <div class="DetailColor Color5"></div>
+                                <div class="DetailColor Color4"></div>
+                                <div class="DetailColor Color3"></div>
+                                <div class="DetailColor Color2"></div>
+                                <div class="DetailColor Color1"></div>
+                                <div class="DetailColor Color0"></div>
+                            </div>
+                            <div class="Detail-X"></div>
+                            <div class="COGraphArea"></div>
+                        </div>
+                        <div class="O3Graph" style="margin-left:55px;">
+                            <div class="O3Title">O3</div>
+                            <div class="GraphBackLayer">
+                                <div class="GraphLine"></div>
+                                <div class="GraphLine"></div>
+                                <div class="GraphLine"></div>
+                                <div class="GraphLine"></div>
+                                <div class="GraphLine"></div>
+                            </div>
+                            <div class="Detail-Y">
+                                <div class="DetailColor Color5"></div>
+                                <div class="DetailColor Color4"></div>
+                                <div class="DetailColor Color3"></div>
+                                <div class="DetailColor Color2"></div>
+                                <div class="DetailColor Color1"></div>
+                                <div class="DetailColor Color0"></div>
+                            </div>
+                            <div class="Detail-X"></div>
+                            <div class="O3GraphArea"></div>
+                        </div>
+                        <div class="SO2Graph" style="margin-left:55px;">
+                            <div class="SO2Title">SO2</div>
+                            <div class="GraphBackLayer">
+                                <div class="GraphLine"></div>
+                                <div class="GraphLine"></div>
+                                <div class="GraphLine"></div>
+                                <div class="GraphLine"></div>
+                                <div class="GraphLine"></div>
+                            </div>
+                            <div class="Detail-Y">
+                                <div class="DetailColor Color5"></div>
+                                <div class="DetailColor Color4"></div>
+                                <div class="DetailColor Color3"></div>
+                                <div class="DetailColor Color2"></div>
+                                <div class="DetailColor Color1"></div>
+                                <div class="DetailColor Color0"></div>
+                            </div>
+                            <div class="Detail-X"></div>
+                            <div class="SO2GraphArea"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="BarLegend">
+                    <div class="BarLegendItem">
+                        <div class="BarLegendColor Color0"></div>
+                        <div class="BarLegendContent">优</div>
+                    </div>
+                    <div class="BarLegendItem">
+                        <div class="BarLegendColor Color1"></div>
+                        <div class="BarLegendContent">良</div>
+                    </div>
+                    <div class="BarLegendItem">
+                        <div class="BarLegendColor Color2"></div>
+                        <div class="BarLegendContent">轻度污染</div>
+                    </div>
+                    <div class="BarLegendItem">
+                        <div class="BarLegendColor Color3"></div>
+                        <div class="BarLegendContent">中度污染</div>
+                    </div>
+                    <div class="BarLegendItem">
+                        <div class="BarLegendColor Color4"></div>
+                        <div class="BarLegendContent">中度污染</div>
+                    </div>
+                    <div class="BarLegendItem">
+                        <div class="BarLegendColor Color5"></div>
+                        <div class="BarLegendContent">严重污染</div>
+                    </div>
+                </div>
+                <div class="GraphClose">
+                    <img src="/Public/Images/close_air-data.png" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+</body></html>
